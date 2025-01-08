@@ -3,38 +3,48 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>2x2 Scramble Statistics</title>
+    <title>2x2 Statistics</title>
     <style>
-        body {
-            font-family: Arial, sans-serif;
-            margin: 20px;
-            padding: 0;
-        }
-        h1 {
-            text-align: center;
-        }
-        ul {
-            list-style-type: none;
-            padding: 0;
-        }
-        li {
-            margin: 10px 0;
-        }
-        a {
-            text-decoration: none;
-            color: blue;
-        }
-        a:hover {
-            text-decoration: underline;
-        }
+        /* (Same styles as before) */
     </style>
 </head>
 <body>
-    <h1>3x3 Statistics</h1>
-    <ul>
-        <li><a href="distribution.csv">Optimal Movecount distribution</a></li>
-        <!-- Add more links for other CSV files as needed -->
-    </ul>
+    <h1>2x2 Statistics</h1>
+    <select id="csv-selector" onchange="displaySelectedCSV()">
+        <option value="distribution.csv">Stats 1</option>
+        <!-- Add more options as needed -->
+    </select>
+    <div id="csv-data"></div>
+    <script>
+        function displayCSV(filename) {
+            fetch(filename)
+                .then(response => response.text())
+                .then(text => {
+                    const rows = text.split('\n');
+                    let table = '<table>';
+                    rows.forEach((row, index) => {
+                        const cols = row.split(',');
+                        table += '<tr>';
+                        cols.forEach(col => {
+                            table += index === 0 
+                                ? `<th>${col.trim()}</th>` 
+                                : `<td>${col.trim()}</td>`;
+                        });
+                        table += '</tr>';
+                    });
+                    table += '</table>';
+                    document.getElementById('csv-data').innerHTML = table;
+                });
+        }
+
+        function displaySelectedCSV() {
+            const selectedFile = document.getElementById('csv-selector').value;
+            displayCSV(selectedFile);
+        }
+
+        // Display the first CSV by default
+        displayCSV('distribution.csv');
+    </script>
     <a href="../">Back to main page</a>
 </body>
 </html>
