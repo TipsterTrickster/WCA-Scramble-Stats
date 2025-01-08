@@ -5,7 +5,67 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>2x2 Statistics</title>
     <style>
-        /* (Same styles as before) */
+        body {
+            font-family: 'Arial', sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f9;
+            color: #333;
+            text-align: center;
+        }
+        h1 {
+            background-color: #9739f8;
+            color: white;
+            padding: 20px 0;
+            margin: 0;
+        }
+        select {
+            margin: 20px;
+            padding: 10px;
+            font-size: 16px;
+            border: 2px solid #9739f8;
+            border-radius: 5px;
+            outline: none;
+        }
+        table {
+            width: 80%;
+            margin: 20px auto;
+            border-collapse: collapse;
+            background-color: white;
+            border: 2px solid #9739f8;
+            border-radius: 5px;
+            overflow: hidden;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        th, td {
+            padding: 12px;
+            text-align: center;
+            border: 1px solid #ddd;
+        }
+        th {
+            background-color: #9739f8;
+            color: white;
+        }
+        td {
+            background-color: #f9f9f9;
+        }
+        tr:nth-child(even) td {
+            background-color: #f2f2f2;
+        }
+        a {
+            display: inline-block;
+            margin: 20px 0;
+            padding: 10px 20px;
+            color: #9739f8;
+            text-decoration: none;
+            border: 2px solid #9739f8;
+            border-radius: 5px;
+            transition: background-color 0.3s, color 0.3s;
+        }
+        a:hover {
+            background-color: #9739f8;
+            color: white;
+        }
     </style>
 </head>
 <body>
@@ -20,7 +80,7 @@
             fetch(filename)
                 .then(response => response.text())
                 .then(text => {
-                    const rows = text.split('\n');
+                    const rows = text.split('\n').filter(row => row.trim() !== '');
                     let table = '<table>';
                     rows.forEach((row, index) => {
                         const cols = row.split(',');
