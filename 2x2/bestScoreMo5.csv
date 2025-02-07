@@ -1,0 +1,461 @@
+competitionId,mean,roundTypeId,groupId,scrambleNum,scramble,Optimal Movecount,Optimal Solution
+SpeedinColors2018,6.7804,1,A,1,R2 F' R' U' R U' R2 U' R2 U2 F',9, U F' R2 F R' U2 R' F U
+SpeedinColors2018,6.7804,1,A,2,R' F R' F R F U' R U' R U',8, R2 U2 R F' U R U' F2
+SpeedinColors2018,6.7804,1,A,3,R U' R2 U' F' U' R' U2 R U R,6, R' U' F R U2 R'
+SpeedinColors2018,6.7804,1,A,4,R F' R2 U' F U2 F R U' F R,8, F U' R2 F' R' F2 R F2
+SpeedinColors2018,6.7804,1,A,5,U R' F2 U' R2 U2 R' U' R' F' R,8, R U' F U2 F2 R' F U
+NortheastChampionship2022,7.1988,2,A,1,U R U2 R2 U2 R2 U' R2 F R U',7, F' R2 U' R' F R U'
+NortheastChampionship2022,7.1988,2,A,2,R' U2 R2 U' F' R2 F R U2 R' U,10, F2 R2 F U2 R' F2 R' U' R2 U'
+NortheastChampionship2022,7.1988,2,A,3,U R F' U2 R' U R' U2 F' U2 R2,8, U2 R' F R' F' R2 U' R2
+NortheastChampionship2022,7.1988,2,A,4,U2 R' F' U2 R U' R2 U' R U' R,6, F2 R' U F2 U' R
+NortheastChampionship2022,7.1988,2,A,5,U R' U2 R' U2 R U R U' F' U',8, R U2 F' R' U2 R' F R2
+DSFGeneralforsamlingen2024,7.3427999999999995,1,D,1,R U2 R' U' R U2 R' F' R' U' R,7, R F2 U' F2 R' U F
+DSFGeneralforsamlingen2024,7.3427999999999995,1,D,2,U' R2 U2 F U' R U' F U' F R2,8, F R F2 R U' F R F2
+DSFGeneralforsamlingen2024,7.3427999999999995,1,D,3,U' R2 U' F U R U2 R' U' F U2,10, F U R2 U2 F2 U' R2 U R' U'
+DSFGeneralforsamlingen2024,7.3427999999999995,1,D,4,U' R' F' U' R U R' F2 R2 U' R',7, F R' F' U R' F2 R2
+DSFGeneralforsamlingen2024,7.3427999999999995,1,D,5,U R' U' R2 F R U F' R U' R,10, F R F' U F2 R F2 R' F U
+HampshireWinter2024,7.4244,2,A,1,U R F U2 R2 U2 R2 U' F U2 R,5, F2 U F U' F
+HampshireWinter2024,7.4244,2,A,2,R U' R U2 R' U2 R' F2 U2 R U',9, F U' R' F2 R' U R' U' R2
+HampshireWinter2024,7.4244,2,A,3,U R' U2 R U2 R' F U' F U2 R,7, F U2 F2 R' F' U' R2
+HampshireWinter2024,7.4244,2,A,4,R' U2 R U' R2 U F R U' R' F,9, F U2 F2 R' U F' R2 U2 R
+HampshireWinter2024,7.4244,2,A,5,U' R' U2 R U2 R' U2 R' U' F' R2,9, U R2 F R2 U' F U2 F' R2
+PikesPeakReturnsA2021,7.433400000000001,1,E,1,F2 R U' R' U' F' U2 F R U2 R,7, R F U' F2 U F' R
+PikesPeakReturnsA2021,7.433400000000001,1,E,2,U' F R U' R' U' R U2 R' F U',6, F' U R U2 R' U2
+PikesPeakReturnsA2021,7.433400000000001,1,E,3,U2 R' F' R' U' R2 U' R' U' R' U2,7, U2 F' R' F U R' F'
+PikesPeakReturnsA2021,7.433400000000001,1,E,4,U2 F R U R U2 R' U2 R' U2 F,9, F2 R2 U2 F U R2 F R' U'
+PikesPeakReturnsA2021,7.433400000000001,1,E,5,U' R' U2 R2 U' F' R2 F' R2 F' U2,9, R F2 R2 F R U2 F' R F'
+SCMUICTOpen2016,7.4774,f,B,1,U R U' R' U2 R' U' F' R' F' U',8, U F2 U F' R U2 F U
+SCMUICTOpen2016,7.4774,f,B,2,U' R' U' R U2 R' U2 F2 U' F R2,9, F U F2 U F U' R2 U' F
+SCMUICTOpen2016,7.4774,f,B,3,R' F2 U2 F' R U R F' U' R' U,5, U' F' U F2 U2
+SCMUICTOpen2016,7.4774,f,B,4,R' U R U R' U' F' U R U' R2,8, R U' F2 R' F R F2 R
+SCMUICTOpen2016,7.4774,f,B,5,R F R F R U R U2 R' U' R,7, R F' R' U F2 U' R'
+BeijingWinter2025,7.5488,d,D,1,R' F U' F U' F R2 F U' F2 U2,7, F2 R' U R2 F' U2 F'
+BeijingWinter2025,7.5488,d,D,2,U2 R U2 R2 U' R U2 R' F2 U F',7, R2 U' F R2 U' F2 U'
+BeijingWinter2025,7.5488,d,D,3,U2 R U R' U2 F U' F R2 F' U',9, F' U' F' U' R F' R F2 U
+BeijingWinter2025,7.5488,d,D,4,R' U' F2 U' R2 U' R2 U2 F2 U2 R2,7, F2 U F2 U' R2 U' R'
+BeijingWinter2025,7.5488,d,D,5,U R U' F R' U' F R U' R' F,7, F' R U F' R F' R'
+OldeTownParker2020,7.6116,1,B,1,U R' F' U2 R2 F' R2 F U2 R U,6, U' F2 R U R' F
+OldeTownParker2020,7.6116,1,B,2,U2 R' U' F R' F R U' R' F2 U',9, R' F' U' F2 U' F U2 F' U
+OldeTownParker2020,7.6116,1,B,3,U' R' U' F' R2 U' R' U' R' U2 F2,5, F R' U' R' F2
+OldeTownParker2020,7.6116,1,B,4,U' R' U2 F' U' R2 U2 R2 U' F U',9, F U2 F2 U' R F' R U' F
+OldeTownParker2020,7.6116,1,B,5,U R U' R' U2 F U R U R' F,10, F2 R U' F2 R' F' R2 U2 F' R'
+NorthStarCubingChallenge2024,7.6146,1,C,1,U R' F' R U2 R' F R U2 R U',6, U F U2 F' R' U
+NorthStarCubingChallenge2024,7.6146,1,C,2,R' F R2 U' R2 U2 R U' F U2 R',9, F U' R2 F' R2 F' R F' R'
+NorthStarCubingChallenge2024,7.6146,1,C,3,U' R' F2 U' F' R2 U' R' U2 R' F,7, F2 R' U F2 U2 F R'
+NorthStarCubingChallenge2024,7.6146,1,C,4,R' U F2 U' F R2 U' R' U R U,9, F R F2 R' U2 R' U R F
+NorthStarCubingChallenge2024,7.6146,1,C,5,R U2 F R F' U2 F R U2 R' F,10, F R' F U R U2 F2 U' R U
+SwedishChampionship2018,7.631,f,A,1,R F' R' U' R F' U2 R' F' R' U',8, F U' F' U R' U' F R'
+SwedishChampionship2018,7.631,f,A,2,U R' F U' F' U R U' R F' R2,5, R2 F U' R' F
+SwedishChampionship2018,7.631,f,A,3,U2 R F U' F' U2 F U' R U R,8, U R U' R2 F' R' F2 U2
+SwedishChampionship2018,7.631,f,A,4,R' U' F' U' R U' R U R U' R',8, U F U R2 F' R' F' R
+SwedishChampionship2018,7.631,f,A,5,U2 R' F R' F U' F U2 R' U' F,9, F U' F2 U R' U2 R' U F'
+BCMAryaCubingChallenge2022,7.636999999999999,1,D,1,R' U F R2 U2 R' U' R U R' U,7, U F' R F2 R U F2
+BCMAryaCubingChallenge2022,7.636999999999999,1,D,2,U2 R' U2 R U' R' U' F R U2 R',9, R F U2 F' U2 F R2 F' U
+BCMAryaCubingChallenge2022,7.636999999999999,1,D,3,R' F2 U2 F U' R2 U2 F' R2 F R2,9, F R2 U R' U F' U F2 R'
+BCMAryaCubingChallenge2022,7.636999999999999,1,D,4,R2 F R2 F' R' U2 R U2 R' U' R',9, F R F2 U2 R' U' R U F
+BCMAryaCubingChallenge2022,7.636999999999999,1,D,5,R F' R2 U2 R2 U2 R2 F U2 F' R,7, R' F U2 F' U2 F R'
+EdmontonLimitedSummer2016,7.6572000000000005,1,B,1,U' R U' R' U2 R' U F U2 F U,9, F U' R2 F2 R' F' R F' U
+EdmontonLimitedSummer2016,7.6572000000000005,1,B,2,U2 R' U' R U R' U2 R2 U2 R2 U',4, R U' R' U
+EdmontonLimitedSummer2016,7.6572000000000005,1,B,3,R' F U F' R2 U' R' U R' F U2,9, U' F2 R F R' F U2 F' R
+EdmontonLimitedSummer2016,7.6572000000000005,1,B,4,R U2 R2 F U2 R U' R U2 R2 F,8, F' U2 F' R2 U' R U' R
+EdmontonLimitedSummer2016,7.6572000000000005,1,B,5,R2 F U' R U' F2 R U' R' U' R2,7, F U' R F2 U' R' F
+MarrickvilleAutumnSaturday2021,7.661199999999999,f,A,1,R' U R' U2 F' R U' R U' R2 U',8, R2 U R2 F' U F2 U2 R2
+MarrickvilleAutumnSaturday2021,7.661199999999999,f,A,2,U R U2 R' F' U' R' U2 F U' R2,7, R2 U F R' F2 U2 F'
+MarrickvilleAutumnSaturday2021,7.661199999999999,f,A,3,R' F R U2 F' R2 F R U R U2,7, R U2 F U2 F U2 F'
+MarrickvilleAutumnSaturday2021,7.661199999999999,f,A,4,R' U' F U2 F2 U' F R F' U' R',6, R U F2 U' R F'
+MarrickvilleAutumnSaturday2021,7.661199999999999,f,A,5,U R' U R U' R U' F' R2 F U,8, R U' F R U2 F2 U R'
+DragonCubingII2024,7.6624,1,B,1,R' F R2 U' R' F U' F R U R',8, F R F2 R' F2 R' U2 F2
+DragonCubingII2024,7.6624,1,B,2,U F' U' R' U2 R U' R2 U' F2 U',8, F' U R' F U2 F R2 F
+DragonCubingII2024,7.6624,1,B,3,R F' R2 U' R U2 R2 U2 R U R',8, R2 F R F' R' U2 R2 F
+DragonCubingII2024,7.6624,1,B,4,R U' R2 U2 F' R2 U2 R U' R2 F,6, F' R F' R' U F
+DragonCubingII2024,7.6624,1,B,5,R' F2 R2 U' F U2 R U R' F R2,9, R2 U2 F2 U' R U' R F2 R'
+Indiana2016,7.673399999999999,d,F,1,U2 R' F R2 F' R U2 R' U' R' U',8, R2 U F' U2 F U R2 U2
+Indiana2016,7.673399999999999,d,F,2,R2 F' U2 F' U' R2 U2 F U' R U2,10, F2 U R F R' F2 R' F R' F
+Indiana2016,7.673399999999999,d,F,3,R' F2 U' F R F U' R U R' F,6, F' R2 U R F' U2
+Indiana2016,7.673399999999999,d,F,4,R' U2 F U F2 U2 R U' R U' R2,10, F R' U' R' U' F U' R F R2
+Indiana2016,7.673399999999999,d,F,5,U' R' U2 R2 U2 R2 U2 F U' F U',6, U F' U F' R' U
+CuscoSpeedcubing2022,7.6778,f,A,1,R U2 R2 U2 F' R2 F' U' R2 U2 R2,8, U2 R2 U' F U2 R2 F' R'
+CuscoSpeedcubing2022,7.6778,f,A,2,U F R U' R2 U2 F U' F R U,8, F' U F2 R F' R F' R
+CuscoSpeedcubing2022,7.6778,f,A,3,R2 U' R2 U2 F U2 R U' R F' U',7, U F2 R2 U R U2 R2
+CuscoSpeedcubing2022,7.6778,f,A,4,R U' R' U R F R2 U' F' R2 F',8, F U' R2 F U F' R F
+CuscoSpeedcubing2022,7.6778,f,A,5,R' U' R2 F U2 R2 U2 R' U R U',6, U' F U R' U2 R
+WilerWurfelfest2019,7.6798,1,A,1,U R' U' F' U' R U R U' R2 U',8, U F' U2 F U2 R U F
+WilerWurfelfest2019,7.6798,1,A,2,R U R' F R2 F' R' U R U2 R2,7, R F' U' F R2 U' R'
+WilerWurfelfest2019,7.6798,1,A,3,U F' R U R U2 F' R' U' R U',8, F2 R' U F2 R' U' R' U'
+WilerWurfelfest2019,7.6798,1,A,4,U' R U' F' R' U' R' F R U' R,6, R' U2 R F R' U
+WilerWurfelfest2019,7.6798,1,A,5,R U2 R2 U2 R2 F' U' R' U2 R' F,7, F' R' F' U2 R' U F'
+Pulmapelipaivat2017,7.6896,1,C,1,U R' U F R U R U' F' R' U',8, F' R' F' R F U' R2 U'
+Pulmapelipaivat2017,7.6896,1,C,2,U R' U' R U2 R F' U2 F R U2,9, U' F R2 F' U R' U2 R' U2
+Pulmapelipaivat2017,7.6896,1,C,3,U R F' R2 U F2 R U2 R' F U',9, U' F U' R' U2 R' F U' R
+Pulmapelipaivat2017,7.6896,1,C,4,R' F U F R U' R' U' F R U,6, F U' F' R' F2 R
+Pulmapelipaivat2017,7.6896,1,C,5,U R U' R' U R' U2 R2 U' R' U2,8, U2 R2 U R' U R2 U R2
+RockyTop2023,7.7062,1,A,1,R' F R U' R U2 R2 U2 F' U2 R,8, U2 R2 U R2 F' R' U F'
+RockyTop2023,7.7062,1,A,2,R' F U2 F U R2 U' R2 U2 F R2,9, F U' F2 R2 F' U2 F' R' U
+RockyTop2023,7.7062,1,A,3,R' U R2 U' R2 F U R2 F' R' U',9, F' U2 F R' U R' F U' F'
+RockyTop2023,7.7062,1,A,4,R' U2 F' R2 U' R' U2 R' U' F U,7, F R' F' U' F2 R' F
+RockyTop2023,7.7062,1,A,5,R' U' F U2 R2 U' R2 F' R' F R,9, F2 R U' R' U F U2 R' F2
+AdelaideSummer2022,7.714,1,D,1,R' U' F U' R U2 R F R U R,6, R2 F' R U2 R' F'
+AdelaideSummer2022,7.714,1,D,2,R' F' U' R2 U' R2 U2 F U F2 U2,10, F' R F U' R2 F2 R F' U' F
+AdelaideSummer2022,7.714,1,D,3,U2 R' U' R F R2 U' F' U' R2 U',7, R' U' F2 U R2 F R2
+AdelaideSummer2022,7.714,1,D,4,U R' U2 R2 F U2 R2 U2 R2 F U',6, F' R' U R2 U' F
+AdelaideSummer2022,7.714,1,D,5,U' R' F R U2 R' F U' R F R,9, U2 F R2 F2 R' F' U2 F2 R
+Cube4funLublin2022,7.7358,f,A,1,U' R' F' U' F' U R' U F R U',7, U2 F2 R' U R F' R'
+Cube4funLublin2022,7.7358,f,A,2,R' U' R U' R' U' F R' U2 F' U2,8, R' F2 U R2 U' F2 U' F'
+Cube4funLublin2022,7.7358,f,A,3,R' U R F' R F U2 F U' R U,9, F2 U2 R' U' R' F U F' R2
+Cube4funLublin2022,7.7358,f,A,4,U' R F' R2 U2 F U' F U' F U',6, R2 F2 U2 F' R' F
+Cube4funLublin2022,7.7358,f,A,5,U R U' R2 F' R U2 R' U2 R' U',8, R F' U2 R F R2 U F'
+OradeaCubingOpen2018,7.7416,1,A,1,R2 U' F U2 R U' R' F U' R U',10, F U F' R' U2 F U' F2 U' R2
+OradeaCubingOpen2018,7.7416,1,A,2,U2 R U' R2 F U2 R U2 R U' F,5, F2 U' F' U F2
+OradeaCubingOpen2018,7.7416,1,A,3,R U2 R2 U' F' R' F U' R2 U' R',6, F R U' R' F2 R2
+OradeaCubingOpen2018,7.7416,1,A,4,F R U R U' F R U R' U2 R,9, U2 R' F R' U' F U F' U'
+OradeaCubingOpen2018,7.7416,1,A,5,R' U2 F U' R U2 R' U2 R F R,9, R2 U F U F2 R F' U R2
+EjidoSummer2015,7.7438,f,A,1,R' U F R' F' U' F U' F R2 U',8, U' R2 F U2 F U' R' F'
+EjidoSummer2015,7.7438,f,A,2,R' F U' F' U' R U R U2 R2 F,9, U2 R F2 U' F R' F2 U' F2
+EjidoSummer2015,7.7438,f,A,3,U R F' U' R2 F R2 U2 R' U R,8, F U2 F2 U F R' U F
+EjidoSummer2015,7.7438,f,A,4,R' U' R U F R U R U' R' U',7, U R' F' U2 R' U2 R
+EjidoSummer2015,7.7438,f,A,5,U R' F R2 U2 R2 U F' U' R U,8, U R2 U2 F' R F U' F'
+EretumI2024,7.781200000000001,2,A,1,R2 U' R U' R' U' R2 F' U' R' U,7, U' F U F2 R' U2 F'
+EretumI2024,7.781200000000001,2,A,2,R U' R' U2 R' U' F U' F2 U' F,9, F' U R' F U2 R' F2 R U
+EretumI2024,7.781200000000001,2,A,3,U' R U' R' F R U R U' R2 F,4, F2 U' R U2
+EretumI2024,7.781200000000001,2,A,4,R2 U2 R2 U' R2 F R U2 R' U' F,9, F2 R' F2 R U R2 U' R2 U2
+EretumI2024,7.781200000000001,2,A,5,R F' U' R2 U R U' R U2 R' U2,9, U2 R U' F R2 F' R' F R2
+GunesliSinavCubeWeekend2023,7.7909999999999995,2,A,1,R F U2 F U' F R U2 R' U2 R2,9, F U R2 U' F U2 F R2 F2
+GunesliSinavCubeWeekend2023,7.7909999999999995,2,A,2,U' R' F' U' R U' R U2 R2 U2 F2,9, F R2 U2 R' U R F' R F'
+GunesliSinavCubeWeekend2023,7.7909999999999995,2,A,3,U R' U2 R U R F' R2 F R U,8, F2 U' F' U2 R' F' R2 F
+GunesliSinavCubeWeekend2023,7.7909999999999995,2,A,4,R U' R' U' R' U2 F R2 U2 F' U',7, U' R' F2 U R2 U2 F'
+GunesliSinavCubeWeekend2023,7.7909999999999995,2,A,5,U' R' U2 R2 F' R2 F U' F U' F',8, R F' U R' U R F R'
+QubesDonLieAnkara2022,7.792400000000001,f,A,1,R' U' F2 R2 F' R' U' R' F R2 F',8, U R U F R2 F2 U' R
+QubesDonLieAnkara2022,7.792400000000001,f,A,2,U' R U R' U F U' R U R U2,8, U' R' F U R' U2 R U2
+QubesDonLieAnkara2022,7.792400000000001,f,A,3,U' R' F' R2 U2 F' R2 U2 R2 U2 R',6, R U' R F R2 F'
+QubesDonLieAnkara2022,7.792400000000001,f,A,4,U2 R' F' U' R U2 F U2 R U' R,6, F R2 F' U' R2 F'
+QubesDonLieAnkara2022,7.792400000000001,f,A,5,R' U2 R U' R F2 R U2 R F' R2,8, U2 F' R F2 R2 U2 R U2
+GaithersburgBacktoSchool2024,7.800399999999999,f,B,1,U' R' F R U R' F U' F' U' R,9, U F' R2 F' U R F' U F2
+GaithersburgBacktoSchool2024,7.800399999999999,f,B,2,U R U2 R' U' R U' F' U' R' U',6, U' R F R' U R
+GaithersburgBacktoSchool2024,7.800399999999999,f,B,3,U' R' F R2 U' F U R' U' R U,9, F U2 R F' U R F2 U2 R
+GaithersburgBacktoSchool2024,7.800399999999999,f,B,4,U R U' F R2 U' R' U2 R' U2 F2,9, F' R2 F U' R F' R F' R2
+GaithersburgBacktoSchool2024,7.800399999999999,f,B,5,U' R' U2 F2 U' R2 U2 R2 F U R',8, R F R' F2 R' U2 R F'
+AvesMariav92023,7.813,d,A,1,U R' F' R U R F' U2 F' R2 F',9, F R2 F U2 F2 U F' R' U2
+AvesMariav92023,7.813,d,A,2,U R2 F U' F R2 U' R2 F U2 R,7, F2 U' F R2 U' F' R
+AvesMariav92023,7.813,d,A,3,R' U2 F R2 F R U' R2 U' R2 U2,9, F' U2 F' U' F U2 F R' F2
+AvesMariav92023,7.813,d,A,4,U2 R' F U2 R U2 R U2 F' U' R,9, F2 R F R' F U' F2 U' R
+AvesMariav92023,7.813,d,A,5,U R' U' R U R' F' R2 U' F' R2,5, U' F' U' R2 U2
+IndianNationals2015,7.8392,2,E,1,R F' R' U' R' U R' F' U' F U',8, U2 R F R F' U' R F
+IndianNationals2015,7.8392,2,E,2,R U2 F' U' F' R' U2 F U2 R U,7, U F2 U F' R' U R'
+IndianNationals2015,7.8392,2,E,3,F U' R U R' U' F' U2 F R U',7, U2 R' F U F2 U' F2
+IndianNationals2015,7.8392,2,E,4,U R U2 R' U R' F R2 U' F2 R2,10, F U F2 U' F R U F2 R2 U
+IndianNationals2015,7.8392,2,E,5,U' R2 U R' F U' R U2 R' U R2,8, U' R U' F2 R' F R2 F'
+HeartlandChampionship2024,7.847799999999999,1,B,1,U R' U R U' R' U' F' U' R U,6, F2 R F' R F' U'
+HeartlandChampionship2024,7.847799999999999,1,B,2,R U' R' U R' F' R U' R F R2,9, F2 U R U2 R2 U R U' R
+HeartlandChampionship2024,7.847799999999999,1,B,3,R U' R' U R F R' F U' F R2,10, F' U2 R F' U2 F' R F R' F
+HeartlandChampionship2024,7.847799999999999,1,B,4,R' U' F R2 U' F' R2 U F' R2 U',10, F2 R2 U R F2 U' F U' F' U2
+HeartlandChampionship2024,7.847799999999999,1,B,5,U2 R' U2 F' R2 F' U2 R2 U' F U2,5, U' R F U' F
+France2016,7.851999999999999,d,D,1,R' U' R U' R' U2 F' U' F' U' R2,6, R U2 R F' U' F'
+France2016,7.851999999999999,d,D,2,R F' U2 R2 U2 F R U' F U' R2,9, F U R U' F R F2 U' R2
+France2016,7.851999999999999,d,D,3,R' U' F' U' F' R2 F' R2 U' R2 U,7, F2 R2 F R' F U2 R
+France2016,7.851999999999999,d,D,4,U' R' U2 R U R2 U' F U F R,8, R' U F' R F2 U' R F
+France2016,7.851999999999999,d,D,5,R' F' R U R U2 R' U2 R U R',5, F' R' F2 R F2
+HaNoiSummer2022,7.8548,d,C,1,U R F R U R' U' F' R U2 R',8, F' U F U' R U2 R2 U'
+HaNoiSummer2022,7.8548,d,C,2,U2 R' F U R' U' F R' U' R U2,7, F2 R2 F' U2 F U2 F
+HaNoiSummer2022,7.8548,d,C,3,R U2 R' U R' F' U2 R U F' R2,7, R F2 U2 F' U' R2 F'
+HaNoiSummer2022,7.8548,d,C,4,U' R' F U2 F' U' F R2 U2 R2 F,8, U2 R2 U' F U2 F' R U
+HaNoiSummer2022,7.8548,d,C,5,U' R' U F2 U2 R2 U' R2 U2 F U',9, F' R U2 F U F2 R2 F' R'
+PatosdeMinas2015,7.8566,1,C,1,R' U2 F2 R U2 R U' R2 U2 R F,10, F U F2 U R2 U' R2 F' R2 F
+PatosdeMinas2015,7.8566,1,C,2,U' R' U' F U2 F R' U2 F2 U2 F',8, U' R F2 R2 U' R F2 R
+PatosdeMinas2015,7.8566,1,C,3,R U2 R2 U' F U2 F U' F U' R',8, F2 R' F' R F2 R F' U
+PatosdeMinas2015,7.8566,1,C,4,R U' R' U R' U R2 U' R2 F' U',6, F R' F R F' R2
+PatosdeMinas2015,7.8566,1,C,5,R' F R2 U2 R' U2 R' F2 U' R U2,8, F2 U F2 U F2 R' U2 F
+IdealeNabeulOpen2019,7.8652,1,B,1,R' U2 F R U' R' F U' R U2 R,8, F R' U2 R' U F' U2 R2
+IdealeNabeulOpen2019,7.8652,1,B,2,U2 R F' U' R' U' R' U' F R' U2,6, F U2 R F2 U R2
+IdealeNabeulOpen2019,7.8652,1,B,3,R U2 R2 F U' F' U R' U' F2 R2,7, F2 R2 U' R F2 R U2
+IdealeNabeulOpen2019,7.8652,1,B,4,U' R' U2 R2 F' U' F R2 U' R2 U',9, F R2 F' U' F R F' U' R2
+IdealeNabeulOpen2019,7.8652,1,B,5,U' R' U2 R U R U2 R' U' F R,8, R' F' U R U' R2 U' R'
+CubersCafeOpen2019,7.8671999999999995,f,B,1,R U' R2 U2 R2 U' F' U' R2 F2 R,9, R U' F2 R2 F' U' R2 U' R'
+CubersCafeOpen2019,7.8671999999999995,f,B,2,U R U' R2 F U2 F R' U' F2 R2,9, R2 F U2 F' U F' R F2 U2
+CubersCafeOpen2019,7.8671999999999995,f,B,3,U' R U' R' U' R F U2 F U' R',7, R U' R F2 U' F U'
+CubersCafeOpen2019,7.8671999999999995,f,B,4,U R' U' F U R2 U' R F' R2 U',8, U2 F R U2 F' U2 R F'
+CubersCafeOpen2019,7.8671999999999995,f,B,5,R' U' R2 U' R2 U' R2 U' R' F' U',7, F U' R2 U' F R' F'
+BairesCentroOpen2018,7.881399999999999,1,C,1,U' F' U' R2 U R U2 R' F U2 F',9, U' R' F2 R' U F U' R2 F2
+BairesCentroOpen2018,7.881399999999999,1,C,2,R' U' R U' R' U' R U R U' R2,7, U2 R2 U' R U2 R' U'
+BairesCentroOpen2018,7.881399999999999,1,C,3,R' F R U' F U' F U2 R U2 R',8, R F R' U2 R' F' R' F'
+BairesCentroOpen2018,7.881399999999999,1,C,4,U' R' U2 F2 R U' R2 F U' R U',7, R' F' R F R' F2 U
+BairesCentroOpen2018,7.881399999999999,1,C,5,U R U' R U2 R' U' R' F U' R2,8, R' U F2 U' R U' R' U
+AfraidinAirdrie2023,7.935,1,H,1,U' R' F' R U2 R' U' R U R F',7, U' F U' F U2 F' U'
+AfraidinAirdrie2023,7.935,1,H,2,R2 U' R2 U F R U' R' F R' U2,9, F' R U' F2 R2 F U R' U2
+AfraidinAirdrie2023,7.935,1,H,3,U' F R U2 F' R U' R' U2 R U,9, U R U' F2 U' F2 U' R F
+AfraidinAirdrie2023,7.935,1,H,4,U R F' U2 F' R2 U2 F' R U' R',8, F' R U' F' U R F' U
+AfraidinAirdrie2023,7.935,1,H,5,U2 R' U' R2 U' R F' U' R2 U2 F,8, U R2 U F' R F' U2 F2
+CubingKeralaCubezoneOpen2018,7.935599999999999,1,D,1,U' R U2 F' U' R' U' R' F' U' F2,8, F2 U R' F' U' F2 R2 U
+CubingKeralaCubezoneOpen2018,7.935599999999999,1,D,2,U' R U' F' R' U2 R F' R' U2 R,8, F U2 F' U' F2 U F2 U
+CubingKeralaCubezoneOpen2018,7.935599999999999,1,D,3,R' U2 R U R' U R2 U2 R' U' R',8, U' R U2 R' U2 R U' R
+CubingKeralaCubezoneOpen2018,7.935599999999999,1,D,4,R U' R' U F' U F U' F U' F,8, R' F R2 F2 U2 F R F'
+CubingKeralaCubezoneOpen2018,7.935599999999999,1,D,5,U R' F2 R2 U' R' F R U R' U,9, U' R2 F U' F' R F2 R U'
+SomersetSeptember2024,7.9402,f,A,1,F' R U R U2 F' U' R2 F' U' F,7, F2 U R F' R F2 R'
+SomersetSeptember2024,7.9402,f,A,2,R' U2 F U R2 U2 F U' F R U2,10, F U' F R' U' F' R' U F2 U'
+SomersetSeptember2024,7.9402,f,A,3,U R2 F' R2 U' R2 U' F R U2 R,9, F R2 U F' R' U' R2 U2 F2
+SomersetSeptember2024,7.9402,f,A,4,R' F R U' R' U' F U' F2 R F,8, U2 F' U F U' F R F2
+SomersetSeptember2024,7.9402,f,A,5,R F' R' F' R U R U' R U2 R',10, U2 F2 R' F' U' R2 F' R2 F' R
+IndianNationals2017,7.941599999999999,2,I,1,R' U' R' F' R2 U2 R2 U R U' R',9, F R' F2 U F2 U F' R' F2
+IndianNationals2017,7.941599999999999,2,I,2,U2 R' F U' F' U' F2 R U' R' U',7, F U F R' F U2 F2
+IndianNationals2017,7.941599999999999,2,I,3,U R U2 R2 U' F2 U2 F U' R U,7, U' R' U' F2 U' R2 U
+IndianNationals2017,7.941599999999999,2,I,4,R' U R U2 R' U' F R' F U' F',8, U' R2 U F R' U F' R2
+IndianNationals2017,7.941599999999999,2,I,5,R' F' U' R' F U' R2 U' R2 U2 R,7, F2 R' F R F' R U'
+ToTheMoon2017,7.9468000000000005,1,B,1,U R U' F U2 F U' R U2 R U,9, U F R' U R2 U2 R F' U
+ToTheMoon2017,7.9468000000000005,1,B,2,R F' R2 U2 F R2 U' R' F2 U' R2,8, F U R' U R' F R' F
+ToTheMoon2017,7.9468000000000005,1,B,3,R U' R2 U' F' U' R U2 R' F U,6, F R' F2 R' U R'
+ToTheMoon2017,7.9468000000000005,1,B,4,U2 R F' R2 U' F R U R2 U' R2,9, U2 R' U' R' F2 U F U2 F2
+ToTheMoon2017,7.9468000000000005,1,B,5,R F U2 F U2 R U2 R' U2 R2 U',8, U R2 F2 R' U' F U F'
+SlowNSteadySpring2016,7.9768,d,C,1,U' R' F' U R2 U2 R' U R' U R2,9, F R F' R F' U' F2 R U
+SlowNSteadySpring2016,7.9768,d,C,2,R' U2 R U R F' U2 R' U R F',9, F U F U R2 U2 R' U' R
+SlowNSteadySpring2016,7.9768,d,C,3,R F' R' U2 F U' R2 U' R2 U2 F,9, F' R' U R2 F2 U' F R F'
+SlowNSteadySpring2016,7.9768,d,C,4,U2 R U' F' U2 R2 F' R U R U',9, U F U2 F R2 F' U' R2 U'
+SlowNSteadySpring2016,7.9768,d,C,5,U R' U' F U' R U F U' R2 U',4, U' R F' U'
+PickeringMiniMorning2024,7.9824,1,A,1,R' U2 R U' F' R2 F' R' U' R' U',10, F U2 F' R F2 R' F U R2 U'
+PickeringMiniMorning2024,7.9824,1,A,2,U2 R' U2 R U R' U' F R' F2 U',9, R F R U' F2 U' F U' F'
+PickeringMiniMorning2024,7.9824,1,A,3,R F' R2 U' R U2 R' U' F' R U2,7, R2 F' U R' U' R' U
+PickeringMiniMorning2024,7.9824,1,A,4,U' R' U' F U' F U2 F R F R,10, F2 U2 F' R F2 R' U F2 U F
+PickeringMiniMorning2024,7.9824,1,A,5,R U' F' U' R' U R U2 R2 U2 R,7, R U R' U' F' R2 U'
+CerradoOpen2023,7.983,f,B,1,U2 R' F R U2 R' F U' F U' F2,8, R U' F' U R2 U' F U2
+CerradoOpen2023,7.983,f,B,2,R F' U2 R2 U2 F R F R U' R',8, F' U2 F U F' R U2 R
+CerradoOpen2023,7.983,f,B,3,R' U2 R U R2 F U2 R2 U' R2 U2,6, U R U' F2 U' F
+CerradoOpen2023,7.983,f,B,4,U2 F' R U R' U' F' U' R U2 R,7, U' R' F2 R F' R' U2
+CerradoOpen2023,7.983,f,B,5,U2 R' U' F' R U2 R U' F' U R',9, F U' R' F U2 R2 F R' F'
+SoutheastChampionship2022,7.9884,f,A,1,R' F U2 R U2 R U R U' R' U2,7, F' R' U2 F' R' F' R'
+SoutheastChampionship2022,7.9884,f,A,2,R' U' R U' R' U R' U2 F' U' F',10, F U2 R' F' U R' F' U2 F' R
+SoutheastChampionship2022,7.9884,f,A,3,R' F R F R2 U' R2 F' U' F U',6, U2 R F' R2 F' R2
+SoutheastChampionship2022,7.9884,f,A,4,U2 R' F R2 U2 R' U' R' U2 F R',9, F U2 R2 U' F U' R2 F2 U
+SoutheastChampionship2022,7.9884,f,A,5,U R U' R2 F U R U R' F2 R2,9, F' R U' R2 F R' U' R2 U2
+BackiPetrovacOpen2019,7.9926,1,A,1,R U' R2 F R U R' U R F2 R2,10, F R' U2 R' U2 R' U' F2 R2 U'
+BackiPetrovacOpen2019,7.9926,1,A,2,R' U' F U2 R2 U' R2 U' F2 U' F,8, R2 U F' R F' U F' U'
+BackiPetrovacOpen2019,7.9926,1,A,3,R U2 R2 F R U R' F U R2 U',10, F2 U2 F' R F R U F2 R2 F'
+BackiPetrovacOpen2019,7.9926,1,A,4,R U' R2 U2 R U' R U2 R2 U' F,6, R F' R F R2 F'
+BackiPetrovacOpen2019,7.9926,1,A,5,U R F' R2 F U R U2 R U' R',8, F U' F2 U R' F' U2 R2
+RochesterFall2022,7.9994,1,C,1,R U' R' U R' U F' R U2 R' U',9, F' R' F' R F2 U' R2 U R2
+RochesterFall2022,7.9994,1,C,2,R' F2 R U2 R' U2 R' F U' F R,8, U2 R2 F R F' R2 U2 R
+RochesterFall2022,7.9994,1,C,3,U2 F' R U' R' U' F U' F' U' R2,8, F' R F R2 U F U2 F2
+RochesterFall2022,7.9994,1,C,4,U' R' U' F' U' R2 U2 R' U R' U',9, F U F2 U' R U R2 F' U
+RochesterFall2022,7.9994,1,C,5,U' R' F' R U2 R' U' R U' R' F',7, F2 U R' F R F' R
+HappyNewYearCubingHoorn2020,8.0008,f,C,1,R' F U' F R F R2 U' R' F R,8, R F' R' U F' R2 F R2
+HappyNewYearCubingHoorn2020,8.0008,f,C,2,R' U2 R F U' F' U' R2 U' R' U2,7, F2 U2 F R' U' R' U2
+HappyNewYearCubingHoorn2020,8.0008,f,C,3,R' U2 F2 R U R' U2 F R2 U2 R',9, F' U' F R F' U F2 R' F'
+HappyNewYearCubingHoorn2020,8.0008,f,C,4,R U2 F' R2 F' R U' R' U R F',9, U R2 F' U R2 F' R' F' U'
+HappyNewYearCubingHoorn2020,8.0008,f,C,5,R' U' F' R U' R2 F U2 R2 U' R2,7, R2 U' F2 U R' F' R'
+HayangeOpen2024,8.0104,1,D,1,U2 R' F R2 F U' F2 U' R2 U' R',8, F' R2 F U' F2 U' R2 U
+HayangeOpen2024,8.0104,1,D,2,U' R F' R2 F U2 F U' F2 R2 U',9, U2 F2 U' F' R2 U F2 U' F'
+HayangeOpen2024,8.0104,1,D,3,R' U' R2 F' R2 U' R U2 R F' R',8, F U R U F R' F U
+HayangeOpen2024,8.0104,1,D,4,F U' R2 U' R2 U2 R2 U R' F R,9, F U2 F U2 F' R F' R' F'
+HayangeOpen2024,8.0104,1,D,5,R' U' F2 U' R U2 R U' R' F' R,9, F' R2 F' R F R2 F' U F
+TietomaaOpen2019,8.02,1,B,1,U2 R U' F' U2 R' U' R' U' R2 F',5, R2 U R2 F R2
+TietomaaOpen2019,8.02,1,B,2,F' U' R2 U R U R' U' F2 R U',9, U F2 R2 F' U R' U F U'
+TietomaaOpen2019,8.02,1,B,3,R' U2 R U R' F R F' R2 F R,10, F' U R2 U F R' F2 U F R2
+TietomaaOpen2019,8.02,1,B,4,U R' F U2 R2 U2 R2 U' F U' R,8, F R U R2 U F R F
+TietomaaOpen2019,8.02,1,B,5,R' F R U2 R' U' R2 F U' F R,9, F2 U' R F' R2 F' R U2 R2
+AZCubingOpen2018,8.022400000000001,c,A,1,R' U' R2 U' R2 U2 R' F2 R2 U2 R',8, R U2 F R2 F2 R U' R
+AZCubingOpen2018,8.022400000000001,c,A,2,U' R U2 R' U' R U' F' U' R' U',7, U' R F R' U R U2
+AZCubingOpen2018,8.022400000000001,c,A,3,R' F U F U' R2 U R' U' R U2,9, R' F U R2 F' U F2 R' U'
+AZCubingOpen2018,8.022400000000001,c,A,4,U R U' R' U R F' R2 F U R,6, U F2 R' U' R2 U'
+AZCubingOpen2018,8.022400000000001,c,A,5,R2 F' U2 R2 U' F R U R' F R,5, F R F2 R U'
+SunmarkeDubaiOpen2017,8.0236,1,C,1,U' R U2 R2 F U2 R2 U' R2 F R,7, U' F' R' F U2 F' R'
+SunmarkeDubaiOpen2017,8.0236,1,C,2,R' U' F U' F R2 F U' R U R',6, F' R2 F' R' U2 R
+SunmarkeDubaiOpen2017,8.0236,1,C,3,U2 R F2 R2 U2 R' U' R' U' F' U',9, F' R F2 R U' R F R2 F'
+SunmarkeDubaiOpen2017,8.0236,1,C,4,R' U' R' U2 R U' R' U' F' U2 F,9, U2 R F2 R F R' F2 R2 U'
+SunmarkeDubaiOpen2017,8.0236,1,C,5,R' F' R U2 R' U' R U' R U2 R',9, F U2 F U' R U' F2 R2 U2
+IndonesianChampionship2022,8.024000000000001,2,A,1,R F' R2 F' U' F R U' R' F' R,8, R' F U2 R2 F U R' U'
+IndonesianChampionship2022,8.024000000000001,2,A,2,R U2 F' U' R2 U' F R F' U' R,9, F2 U' R F2 U' F' R U F'
+IndonesianChampionship2022,8.024000000000001,2,A,3,F' R U2 R U2 R2 U2 F U2 R U',8, U R U2 F R' U2 R' F
+IndonesianChampionship2022,8.024000000000001,2,A,4,R2 F' R U' R' U2 R U2 R' U' F',9, U2 F R F' U F R2 F R2
+IndonesianChampionship2022,8.024000000000001,2,A,5,R' F U' F R U2 F2 U2 R U R',8, F U' F2 R' F' U F' R2
+KarawangSpeedcubing2024,8.0258,f,A,1,F2 U2 R2 U' R2 F' U2 F U2 F R,9, R' F2 U' F R U' R U' F2
+KarawangSpeedcubing2024,8.0258,f,A,2,U R' F' R2 U' F' R2 U2 F R U,5, F R' F U' R2
+KarawangSpeedcubing2024,8.0258,f,A,3,U F' R' U2 R' F U' F' U2 F R2,9, F R2 U' F' U R F' R U'
+KarawangSpeedcubing2024,8.0258,f,A,4,U2 R2 F U2 F U' F' U2 F R2 U',8, U F' U' R U' F2 R F2
+KarawangSpeedcubing2024,8.0258,f,A,5,U R' F R' U' R2 U R' F U2 R,10, F U F U' R2 U' F R U' R'
+KoreanChampionship2016,8.0344,f,A,1,U' R U R' U2 R2 U' F' R' U2 R',8, F' U' R2 U' F' R U2 R
+KoreanChampionship2016,8.0344,f,A,2,R' U2 F U2 R U R F U2 R U',6, U2 F' U2 F U2 R2
+KoreanChampionship2016,8.0344,f,A,3,R2 U2 F R2 U2 R' U R F' U' R',5, F' U' R F2 U2
+KoreanChampionship2016,8.0344,f,A,4,R' F U' R U2 R' U R U' R U',9, R2 U' R U2 F' U' R2 F R'
+KoreanChampionship2016,8.0344,f,A,5,R' F' U' F U' R U' R' U2 F R,9, R U R2 F2 R F2 R U' F'
+AlbaceteAgoraOpen2024,8.0398,2,B,1,U2 R' F R2 U' R' F U2 R' U R',8, F' U F U R2 F2 R' F
+AlbaceteAgoraOpen2024,8.0398,2,B,2,U2 R U2 F' R' U R' F R U2 R,7, F U' F R' F' R' U2
+AlbaceteAgoraOpen2024,8.0398,2,B,3,R' U2 F' U2 R2 U' F' R' U R' U,7, U' R U' F2 U' F' U
+AlbaceteAgoraOpen2024,8.0398,2,B,4,U R U' R' U' F2 U2 F U2 R U',6, R' U2 R' F2 R F'
+AlbaceteAgoraOpen2024,8.0398,2,B,5,U2 R' F2 R U R' U' R U' R F',8, R U2 R2 F R' F2 R' U'
+GuaraOpen2024,8.043600000000001,f,A,1,U R U' R' U' R2 F R U2 R' U',9, F2 R' F2 R U2 R2 F R F'
+GuaraOpen2024,8.043600000000001,f,A,2,U' R' U' F U2 F U' F' U' R2 U2,8, U F2 R' F2 U R' F' U
+GuaraOpen2024,8.043600000000001,f,A,3,R' F R2 U' F' R2 F U2 R U' R2,9, R2 F' R' U' R U' R2 U R'
+GuaraOpen2024,8.043600000000001,f,A,4,R U2 F' R' U' R2 U' R2 F' R2 F,7, R U F2 U' F2 U2 R2
+GuaraOpen2024,8.043600000000001,f,A,5,U' R F' U' F' U' F' U' R' U' R',6, U' F' R' F' R2 U
+ChicagoAreaTwistSpring2019,8.0544,f,A,1,U2 R U' R2 F U R' U' F' R U,9, F2 U2 F' U F2 R' U' R2 F
+ChicagoAreaTwistSpring2019,8.0544,f,A,2,U R' U' F R2 U' R' U' R' U2 F,7, F2 R2 U' F' U2 F' U2
+ChicagoAreaTwistSpring2019,8.0544,f,A,3,U' F U2 R U' R' U' F R2 F' U2,6, F2 U F2 U F' R'
+ChicagoAreaTwistSpring2019,8.0544,f,A,4,U R' U2 R U R' F R F' R' U',8, F2 U' F U F' R2 F' R
+ChicagoAreaTwistSpring2019,8.0544,f,A,5,R' F U R2 U2 R' U2 R' U' F R2,8, R U F2 U2 F' U2 F U
+DrishtiCubeOpen2018,8.057599999999999,1,B,1,U' R' U' F' U2 R F R2 U2 R' U',9, U' R F' R2 F R F2 U2 R
+DrishtiCubeOpen2018,8.057599999999999,1,B,2,R U' R' U2 F' U' F' U2 F' U' R',8, U2 F' R' U R F' U R'
+DrishtiCubeOpen2018,8.057599999999999,1,B,3,U' F R U2 R' U2 F' U2 R U' R',7, R2 F U F' R2 F U2
+DrishtiCubeOpen2018,8.057599999999999,1,B,4,R' F' U F R U2 R' U F U' F,8, F' U F' U2 R F R2 F'
+DrishtiCubeOpen2018,8.057599999999999,1,B,5,U' R F U' F' R U R' F' U2 R2,8, F2 R U' F U2 R U R2
+EkaCubeWinter2020,8.0578,1,D,1,U2 R U2 R2 U' R U R2 F' R U',8, R' U F R' F U2 R' U
+EkaCubeWinter2020,8.0578,1,D,2,R U' R2 F2 U R U R' U2 R2 U',8, U' R U' R F2 R2 U2 R'
+EkaCubeWinter2020,8.0578,1,D,3,U' R U2 F' U' R2 U' R U' F U,8, F R2 U' F R F U2 R2
+EkaCubeWinter2020,8.0578,1,D,4,U2 R U' R' F' U' F U2 R U2 R',8, F2 U' F' U F U' F U2
+EkaCubeWinter2020,8.0578,1,D,5,R' F U F' U' R2 U' R2 F U2 R,8, F' R F U' F R U' F'
+MaruCubeDay2023,8.0816,f,A,1,U R' U' F' R2 U' R' U R U2 R2,8, F R2 U2 R U' F2 R' U2
+MaruCubeDay2023,8.0816,f,A,2,F' R U' R F' R' U' R' F R U2,6, F' R F R' U' F
+MaruCubeDay2023,8.0816,f,A,3,R' U' F' U' F' R2 F' R2 U' R U,6, R F U' F U' F2
+MaruCubeDay2023,8.0816,f,A,4,U' R' U2 F' R2 U' R2 F R U' F,9, F R F' U2 F' U F2 R' U2
+MaruCubeDay2023,8.0816,f,A,5,U R2 F' R' U2 F R U' R' F U',10, F2 U R' U F2 R' U' F2 U F'
+TicinoOpen2023,8.0854,1,A,1,R' U' R U' R U' R' U2 R F' U2,6, F' U R2 U' F2 U2
+TicinoOpen2023,8.0854,1,A,2,R' U F' U2 F U2 R' U' R2 U2 R',10, F U' F' R U' R U2 F' R U
+TicinoOpen2023,8.0854,1,A,3,R' U2 F' R2 U2 R' U2 R U' R' F',7, F' R2 F R' U R2 U
+TicinoOpen2023,8.0854,1,A,4,U2 R U' R' U R U' R2 U R' F,9, R U2 F2 R2 F' U2 F U2 F2
+TicinoOpen2023,8.0854,1,A,5,U' R' U' R U R' F' R U2 F2 R,8, R2 F' U2 F' U R2 U2 F2
+TurnininTermonfeckinSun2023,8.0868,c,A,1,R' F U R2 F' R2 U' F U2 R U,9, F U' F2 U' R' U F U2 F2
+TurnininTermonfeckinSun2023,8.0868,c,A,2,R' F' U' F R' F R' F U' R U',8, F' R F' R2 F' R F R'
+TurnininTermonfeckinSun2023,8.0868,c,A,3,U' R' F' U2 R U' R' F U2 R' U',6, F2 R2 F' U' F2 U'
+TurnininTermonfeckinSun2023,8.0868,c,A,4,R2 F R U' R' U' F' U' F U' R2,9, U' R2 U F U2 R' F R U'
+TurnininTermonfeckinSun2023,8.0868,c,A,5,U' R' F2 U' R2 F R U' R U2 R',9, U R' U F' U' R U' R2 F
+RobleCubingOpen2019,8.0906,2,C,1,U' R' U' R' U2 F U' F' U' R U,8, R F R' U R F' U R'
+RobleCubingOpen2019,8.0906,2,C,2,R U' F U' R U R' U' F R U',9, U2 F2 U R F' U R U' R'
+RobleCubingOpen2019,8.0906,2,C,3,U R U' F' U' F' R' U' R' F R,6, U R F2 U R' U'
+RobleCubingOpen2019,8.0906,2,C,4,R2 U2 F U' R U R' F U2 R U',7, F' U' F' U F' U2 R'
+RobleCubingOpen2019,8.0906,2,C,5,R U2 R2 F U' F' U' R2 F R2 U',9, F U2 R' U R' U2 R' U' F
+CCCQualificationBarnaul2019,8.0992,1,A,1,R' F' U R U2 R' U' R2 U' R' U2,8, U R2 F' R2 U' F U' R
+CCCQualificationBarnaul2019,8.0992,1,A,2,R' F R U R U' F' U' R' U' R,7, U F2 U' F U F2 U'
+CCCQualificationBarnaul2019,8.0992,1,A,3,U R' U' F' R U R U2 R' F' U2,8, U F U R U2 F' U2 F2
+CCCQualificationBarnaul2019,8.0992,1,A,4,U2 R' U F U2 F' R' F U' R2 U',8, U' R2 U' F2 U R2 U' R2
+CCCQualificationBarnaul2019,8.0992,1,A,5,U R' U' R F2 U2 R U' R U2 R2,8, U2 F' R2 F R' F' U2 F'
+NationalCubingRegionOpen2016,8.0998,d,B,1,R F' U2 R2 F U2 F R2 U' R' U2,9, F' U' R2 F U2 F' R' F2 R
+NationalCubingRegionOpen2016,8.0998,d,B,2,R' U2 R2 F' U2 R2 U' F U' F' U',5, F' U' F U R'
+NationalCubingRegionOpen2016,8.0998,d,B,3,F' R' U' R' U2 F U R' U' R2 U',8, U F' R' U R2 U R F
+NationalCubingRegionOpen2016,8.0998,d,B,4,U R' U2 R U2 R' U' R2 U' R2 U2,8, U' R2 U' F2 R U R' F
+NationalCubingRegionOpen2016,8.0998,d,B,5,R U2 R2 F R U' R' U F R' U',8, R2 F U2 R' U' F' U2 F'
+VedrunaBalaguerOpen2018,8.101,d,C,1,U2 R' U2 R U' R' U' F R2 U R',8, U' R' F R2 F R2 F2 U2
+VedrunaBalaguerOpen2018,8.101,d,C,2,U2 R' U2 F' R2 F' R' U' R U' F,7, F' U F R' F' R' F2
+VedrunaBalaguerOpen2018,8.101,d,C,3,U F U' R U2 R' F2 R U2 R U',9, F2 U2 F U' R U' R U2 R'
+VedrunaBalaguerOpen2018,8.101,d,C,4,R U' R' U2 R' F' R2 U R' U' F2,8, U' F U2 R' F2 R U' F
+VedrunaBalaguerOpen2018,8.101,d,C,5,R U' R2 U2 F R' U' F U' R U,9, F' U2 F U2 F2 U F2 U' R'
+MofunlandCruiseOpen2023,8.108,d,A,1,R U2 R2 U2 R U2 R U' R' U' R,6, U2 R' U R U' R
+MofunlandCruiseOpen2023,8.108,d,A,2,R U2 F R2 U' F' U' F' R' U2 R',7, R2 F U' R' F2 U F2
+MofunlandCruiseOpen2023,8.108,d,A,3,R' F' U2 F' U' F U' F' U2 F R,8, F2 R' U2 R F U' F2 R
+MofunlandCruiseOpen2023,8.108,d,A,4,U' R2 F2 U' R U' R' F U2 R2 U2,9, F2 R2 U2 F' U F U R' F'
+MofunlandCruiseOpen2023,8.108,d,A,5,R U' R2 F R U' R F' R2 F U2,8, F' U' F' R2 U R F R2
+SwedishDecathlonChallenge2015,8.1098,1,B,1,R' U' F' U' F' R U' R' U2 F' R2,8, R F' U2 F' R U R' F'
+SwedishDecathlonChallenge2015,8.1098,1,B,2,R' U2 F' R F U2 F' R U' R U',8, R U2 R2 F2 R U2 R2 F
+SwedishDecathlonChallenge2015,8.1098,1,B,3,U' R U' R F' U' R' U R' F' R2,9, R' F U2 F' R F U' R' U
+SwedishDecathlonChallenge2015,8.1098,1,B,4,U' R2 F' U2 R U R' U' F U R,9, F R2 F' R' F2 U' R2 U R2
+SwedishDecathlonChallenge2015,8.1098,1,B,5,R U' F' U' R2 U' R U2 R2 U' R,7, F' R' F2 R' F' U' R
+SpeedcubeWeekendMerida2016,8.114,1,B,1,R' U F R2 U' R' F' U' R2 U' R,8, F R' F' U R U' F R2
+SpeedcubeWeekendMerida2016,8.114,1,B,2,R F2 U' F' U2 F R U R' F U',7, U F2 R' F2 R F' R'
+SpeedcubeWeekendMerida2016,8.114,1,B,3,R' U2 F U' F' R F U' R2 U2 R2,9, U2 F2 U R2 F R2 F U' R
+SpeedcubeWeekendMerida2016,8.114,1,B,4,R U2 R' U' R2 U F U2 R U' R',10, F U2 F R U' F R' U R' F2
+SpeedcubeWeekendMerida2016,8.114,1,B,5,R' U2 F' R U R' U2 R' F R2 U2,8, R F' U R2 F' U' F R'
+ALL1EmpireState2024,8.1152,1,B,1,R U2 R' U2 R U2 R' U2 F' U R2,6, R F2 R U' F U2
+ALL1EmpireState2024,8.1152,1,B,2,R' U2 R' U2 F R2 F' R U2 F' R2,10, F2 U' F' U' R' F R' U R F2
+ALL1EmpireState2024,8.1152,1,B,3,U R' U R U2 R' U' R U2 R' F,9, F R2 F R2 F2 R' U' R2 U'
+ALL1EmpireState2024,8.1152,1,B,4,U R U2 R2 U2 F' R F R U' R',9, U R U' R U2 R' F' R U
+ALL1EmpireState2024,8.1152,1,B,5,U R' U2 F R2 U R' U2 F R U,8, F U F R' F' R' F U'
+IrunaOpen2017,8.119,1,B,1,R' U2 R2 U2 F' U2 R2 F' U2 R U2,7, U2 R' U2 F U2 F' R
+IrunaOpen2017,8.119,1,B,2,R' U2 F' U' R U R2 F' R U' R,9, F U2 F R' U R2 U' F2 U2
+IrunaOpen2017,8.119,1,B,3,R2 F R U R' U' R U R' F U,8, R F2 U' F2 R U F U'
+IrunaOpen2017,8.119,1,B,4,R U2 F U F' U2 R U' R U' F',8, R2 F U2 R' U F2 U' F
+IrunaOpen2017,8.119,1,B,5,U2 R' U R' F' U2 R U R U2 R2,7, F2 U F' U2 R' U F
+BayAreaSpeedcubin29AM2022,8.1196,1,B,1,U R' U' R' U' F U2 F U2 R2 U',7, U R' F2 U' F U2 R2
+BayAreaSpeedcubin29AM2022,8.1196,1,B,2,R' F' R' F U' F U' F U F U',8, F2 U2 F U' F2 R F R
+BayAreaSpeedcubin29AM2022,8.1196,1,B,3,F U' R U' R' U2 F U2 F R' F,8, R F U' R U' R' U F2
+BayAreaSpeedcubin29AM2022,8.1196,1,B,4,U R U' R' U2 R U' R' F2 U R,9, F R2 F' U R' U2 R' F' R
+BayAreaSpeedcubin29AM2022,8.1196,1,B,5,U R2 F' U2 F R2 F U' R U' R',9, F' U' R U' F' R F2 U F
+CUDESCali2019,8.120000000000001,1,A,1,R' U' F R' U' R2 U' F' R2 U' R,9, R2 U R' U2 F' R' F2 R U2
+CUDESCali2019,8.120000000000001,1,A,2,R' U' F' U' F' U2 F U2 R2 U' F',7, F U R' U2 F U F'
+CUDESCali2019,8.120000000000001,1,A,3,R U' F U' R2 U' R' F U2 R U',10, F U R F2 U' R' F' R2 U F2
+CUDESCali2019,8.120000000000001,1,A,4,R F' R' F' R' U R' F U R U2,8, F R F U' R U R2 F2
+CUDESCali2019,8.120000000000001,1,A,5,R' U' F U F' R2 U' R' U R' U',7, F' U F' R F' U' F2
+MauritianOdyssey2024,8.1222,1,A,1,R U2 R2 F R2 U2 R2 U2 F U2 R,6, R' U2 F' U2 F R
+MauritianOdyssey2024,8.1222,1,A,2,U R F' R' F U2 F' U' R2 U2 F',9, F U2 R2 F' U' F2 R U F
+MauritianOdyssey2024,8.1222,1,A,3,R' F R F' U2 F R2 U' R' U R,9, F R F' R F' U F' U F
+MauritianOdyssey2024,8.1222,1,A,4,U2 R' U R' U' F' U2 F' U' F U',7, F' R' F2 R' U2 F2 R2
+MauritianOdyssey2024,8.1222,1,A,5,R U2 R2 U2 F' U' R U R F' U2,7, R' F2 U' F U2 F' U'
+MichiganCubingClubAlpha2020,8.133799999999999,1,C,1,F2 U2 F U' F U' F R2 U' R2 U',8, R F2 R2 F' U2 R' F U
+MichiganCubingClubAlpha2020,8.133799999999999,1,C,2,U2 R' U2 R U R F' U2 F' U2 R',8, U' R F R2 U' R F U
+MichiganCubingClubAlpha2020,8.133799999999999,1,C,3,U' R U2 R' U' F' R' U R U R',8, U' R' F2 R U2 R F R'
+MichiganCubingClubAlpha2020,8.133799999999999,1,C,4,R F' R2 U2 R U2 R F' R2 F' U',8, R2 F R2 F' R2 F' R' U'
+MichiganCubingClubAlpha2020,8.133799999999999,1,C,5,U2 R' U2 R U2 R F R U' R' F',7, U R2 U' R' F R' U
+FastSolvesinFendalton2024,8.1364,1,B,1,R U' R2 U R2 U' F U R U' R',9, U F' R U F' R2 U2 F U'
+FastSolvesinFendalton2024,8.1364,1,B,2,U R' U2 R U2 R' F U' R2 U' F',10, F R U2 R2 F' U F2 R' U R2
+FastSolvesinFendalton2024,8.1364,1,B,3,R' F R U2 R' U' F R U2 R2 F',10, F U' R F2 U' F R' F' U F2
+FastSolvesinFendalton2024,8.1364,1,B,4,R' U F R2 U' R2 F U' F U' F2,9, U R' U' F2 U' F R' F U'
+FastSolvesinFendalton2024,8.1364,1,B,5,R F' U2 R2 U' F' U' R2 U' R' U',7, F' R' F U R2 U' R
+MichiganCubingClubBeta2015,8.137,f,A,1,R' F R U2 R2 U2 R2 F R2 U' R2,7, F U2 R' F2 U F R
+MichiganCubingClubBeta2015,8.137,f,A,2,R' F U' R U' R U' R U' R2 U',7, F2 U2 F' R2 F U' F
+MichiganCubingClubBeta2015,8.137,f,A,3,R' U' R F' U' R' U R U' R2 U,9, F R' U R F R' F' R F2
+MichiganCubingClubBeta2015,8.137,f,A,4,R U' F' R2 U' R2 F' R' U2 R' F',7, F R U F' R' U' R2
+MichiganCubingClubBeta2015,8.137,f,A,5,R' F' R2 U' R2 U2 F U2 R2 F' U',8, U F U2 F U' R2 F R
+MathSocOpen2016,8.1384,1,H,1,U2 R' U2 R2 F R U2 R' F' U2 F',9, U2 R U R2 F' R U2 F2 R2
+MathSocOpen2016,8.1384,1,H,2,R U2 R' U' R U2 F' R' U2 R F',7, U2 F R2 U' R' U' F2
+MathSocOpen2016,8.1384,1,H,3,U R' U' R' F R U R' U2 R2 U2,6, R2 U2 F U' F' U'
+MathSocOpen2016,8.1384,1,H,4,R' F U2 F' U' R2 F' R' U' F R,9, R2 F' U F2 U' F2 R' F' R2
+MathSocOpen2016,8.1384,1,H,5,R' F U2 R U2 R U' R' U' F' R,7, F2 R F' R2 U R U
+GuateMayaOpen2016,8.139999999999999,2,D,1,R U' F U2 F' U R U' R2 F2 U',10, F U R U2 R' U' F2 R' U F'
+GuateMayaOpen2016,8.139999999999999,2,D,2,R F' R' U R U' F' R' U' R' F',8, F U' F' U R2 F U F
+GuateMayaOpen2016,8.139999999999999,2,D,3,R' U' R U' R U' F' R2 F2 R U,10, F R U' F U' R2 U R' U R
+GuateMayaOpen2016,8.139999999999999,2,D,4,U' R U' F' R' U' R' U2 F U2 R2,8, R F U2 F U' F2 R F'
+GuateMayaOpen2016,8.139999999999999,2,D,5,U2 R' F U' R F R U R U2 R',8, R U2 F' U' R' F2 R U2
+ValenzuelaCubingOpen2024,8.141,c,C,1,R' U2 R' F R2 U' R2 F U' R F',8, R' U R2 U' F R2 U' F'
+ValenzuelaCubingOpen2024,8.141,c,C,2,R U2 R2 F2 U' F R U R U' F',8, R U2 R' U F U' F' U2
+ValenzuelaCubingOpen2024,8.141,c,C,3,U R2 F U2 F U' F2 U R U' R',9, F U R' F2 U' F U2 F R2
+ValenzuelaCubingOpen2024,8.141,c,C,4,R' F R2 U2 R2 F U F R2 U2 F',8, F U2 R2 F' U R2 U2 R
+ValenzuelaCubingOpen2024,8.141,c,C,5,R2 F U2 F U' F U R U' R' U,11, F U R2 U R' F R2 U' F R F'
+CanadianChampionship2019,8.1424,d,B,1,R' F U' R2 U' F R U' R' F' R,9, F U2 R F' U' R U F' R
+CanadianChampionship2019,8.1424,d,B,2,U' R' F R U R F' R' U R' U',8, U R U' R F2 U' F' R'
+CanadianChampionship2019,8.1424,d,B,3,R' F U2 R2 U2 R' U R' F' R U',7, U' R F2 R' F' R2 U2
+CanadianChampionship2019,8.1424,d,B,4,R F U' F U' R U2 R' U' F' U2,8, F U' R' U' R F2 R' U
+CanadianChampionship2019,8.1424,d,B,5,R F' U' F' R2 F R U R' F' U',4, U F' R2 F2
+CubeJatra2019,8.143,f,A,1,U' R U2 R2 U2 R U' F U2 R' F,9, F' R U2 F' U R U2 R U
+CubeJatra2019,8.143,f,A,2,R' U2 R2 U2 R2 U' F' U2 F' U' F,7, F' U F U2 F U' R'
+CubeJatra2019,8.143,f,A,3,U R' U F R U2 R' F R' U2 R',9, R U2 R2 F U' R' F R2 F2
+CubeJatra2019,8.143,f,A,4,R U' R' U R' F U' F' U R F',7, F U' R2 F U F' R2
+CubeJatra2019,8.143,f,A,5,U R' U F R' U' R U R U2 R',8, R F' U' F R F2 R F2
+PeruNationals2018,8.159,1,K,1,U2 R U2 F' R2 F U' F2 U' R U,9, F' R U' F' R2 F' U2 F R'
+PeruNationals2018,8.159,1,K,2,R F' R2 U' R2 F' U2 F' R2 F U2,8, R F2 U F R2 U' F U
+PeruNationals2018,8.159,1,K,3,U' R' U2 R' F R U' R U' R' F,9, R U F2 U F2 R U R2 U'
+PeruNationals2018,8.159,1,K,4,U' R' F2 U' R2 U' R2 F R U R',7, R2 F U2 F2 R' F U'
+PeruNationals2018,8.159,1,K,5,U F U' F' R U R U2 R2 U' R,8, R F U2 F2 U' F2 U' R'
+QuabbinOpen2016,8.1634,1,B,1,R U' R2 F U' R U F U2 R U,8, R U R2 U F2 R' F2 R'
+QuabbinOpen2016,8.1634,1,B,2,U R2 U' R U2 R' F U2 R U R',8, F' R' U2 R' U2 R' U' F
+QuabbinOpen2016,8.1634,1,B,3,R U' R2 U F R U2 R' U' F U',7, U F2 R' F2 R' U R'
+QuabbinOpen2016,8.1634,1,B,4,U R' U' R U' R' U' F U2 F' R',8, R' F R U' R U' R U
+QuabbinOpen2016,8.1634,1,B,5,U' R' U' F U' R2 U2 F U' F2 U',9, F U2 R2 U' R2 U' F U' R'
+CrossstraitCubing2017,8.1676,1,C,1,U' R' U2 R2 U' R' U R' F' R' U2,10, F R2 F R U' F U2 R' F' R'
+CrossstraitCubing2017,8.1676,1,C,2,U2 R U2 R2 F R2 F' U' F' U2 F',8, U F R' U' F U' R' U
+CrossstraitCubing2017,8.1676,1,C,3,R' F' R U' R' F' U' F U' R U,8, F' U' F U F' U2 F2 R2
+CrossstraitCubing2017,8.1676,1,C,4,U' R' F R2 U2 R' U2 R' U R2 U',8, R U' R2 F2 R' U' F2 R
+CrossstraitCubing2017,8.1676,1,C,5,F' R2 U2 R U R U' R' U' R' U2,5, U R U' R2 F
+NoidaCubeOpen2022,8.1684,1,A,1,F R U R' U2 F U' F U2 R' U2,9, F U2 F R2 F2 U2 F R' F2
+NoidaCubeOpen2022,8.1684,1,A,2,U2 R' F' U2 R2 U' R2 U F2 R U',9, U F2 R' F2 R U' R F U2
+NoidaCubeOpen2022,8.1684,1,A,3,U2 F' R U2 R' U' R2 U2 F R U,10, F R' U R U2 F' U F R' F'
+NoidaCubeOpen2022,8.1684,1,A,4,R U R' U2 F R2 U' R2 F U' F,8, F' U' R' F2 U F2 U' R'
+NoidaCubeOpen2022,8.1684,1,A,5,R' U' R U R U2 R' U' R' U' F,4, F' R2 U2 R
+NiagaraFallsSummer2024,8.1812,f,A,1,R' U R' F U' F U2 R U R' U',8, F U' F2 R' F' R2 U' R
+NiagaraFallsSummer2024,8.1812,f,A,2,R2 F U' F' R2 U2 R' U2 R U2 R',9, R F R2 F' R2 F R' U R2
+NiagaraFallsSummer2024,8.1812,f,A,3,F U2 R2 U2 R' U R U2 R' U' R',5, U' R2 U' R2 F'
+NiagaraFallsSummer2024,8.1812,f,A,4,U' R' F' U2 F' U' R2 U R' U' R,8, R F' R' U2 R' F' R F'
+NiagaraFallsSummer2024,8.1812,f,A,5,F R U' R' F U' R2 F' R2 F U',8, U F' U2 R' U' F' R F'
+SpokaneSummer2023,8.1874,1,A,1,U' R' F R U R' U' F' R U R',4, R2 F' U' F
+SpokaneSummer2023,8.1874,1,A,2,U R' U2 R2 U2 F' U' F' U' R' U,8, F' U R F R' F' R U'
+SpokaneSummer2023,8.1874,1,A,3,R' U2 R U2 R' U R F R U' R',8, U R U2 R2 U' R F' U2
+SpokaneSummer2023,8.1874,1,A,4,U R' F R U2 R' U R U2 R' U',8, U R2 U R2 F U' F R2
+SpokaneSummer2023,8.1874,1,A,5,R' U' F2 R2 U' F R U R U' R2,8, F U2 R' F U' F2 R2 U2
+NorthStarCubingChallenge2024,8.1888,1,B,1,R U' R' U2 R F' R' U R U2 R2,7, U' F R2 U' R' F' R
+NorthStarCubingChallenge2024,8.1888,1,B,2,R' F' R U2 R' U2 R2 F' U2 R2 U',5, F R' F2 R' U'
+NorthStarCubingChallenge2024,8.1888,1,B,3,U2 R F' U2 R2 F U' R U' F' U',8, U' F' U' R' U R U' F
+NorthStarCubingChallenge2024,8.1888,1,B,4,U2 R' U2 F U R U' R F' U' R,8, F2 U2 F U' R U' F2 R
+NorthStarCubingChallenge2024,8.1888,1,B,5,R F R2 U' F R U2 R U2 F' U2,10, F2 U F' U2 F' U R' F R U2
+VITCubeOpen2024,8.1986,1,B,1,U' R' F R2 U' F' U' F' U2 R2 U2,9, U R' U2 F' U' R2 U R' F'
+VITCubeOpen2024,8.1986,1,B,2,U' R' F' U R U2 R' U' F R U,7, R' F' U F2 U' F R
+VITCubeOpen2024,8.1986,1,B,3,R' U' F U2 F R U2 F' R2 U' R2,8, F2 U' R U' R U' F' U'
+VITCubeOpen2024,8.1986,1,B,4,U2 R F' U2 R' U R F' U R' U',9, F2 U' F R2 F' R' F R F'
+VITCubeOpen2024,8.1986,1,B,5,U R U' R2 U' F' R2 U2 F' R U2,6, R' F R' F2 U F
+IICUBIFMA2017,8.1988,1,A,1,U2 R U' R2 U2 R2 F' R2 U' R U2,8, U2 R' U' R2 F' U R' U2
+IICUBIFMA2017,8.1988,1,A,2,R' U2 R' U2 R U R' U2 F' R U2,9, R F' U R U' F' U R2 F2
+IICUBIFMA2017,8.1988,1,A,3,U R' U R U' F' R' U' R F' U',9, F' R U2 R' F2 R' U R F'
+IICUBIFMA2017,8.1988,1,A,4,U' R' F R' F U F R' U' R U2,6, F2 R' U2 R' F U'
+IICUBIFMA2017,8.1988,1,A,5,R U' R' U' R U' R2 U2 R U2 R,9, F U' R U' R2 F R U2 F2

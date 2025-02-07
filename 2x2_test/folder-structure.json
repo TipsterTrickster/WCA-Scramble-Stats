@@ -1,0 +1,31 @@
+{
+    "Best_Groups": {
+        "bestLayerMo5.csv": "TEST",
+        "bestOptimalAo5.csv": null,
+        "bestFaceAo5.csv": null,
+        "bestFaceMo5.csv": null,
+        "bestScoreAo5.csv": null,
+        "bestOptimalMo5.csv": null,
+        "bestPossibleOptimalAo5.csv": null,
+        "bestScoreMo5.csv": null,
+        "bestLayerAo5.csv": null
+    },
+    "All_X_Movers": {
+        "5movers.csv": null,
+        "11movers.csv": null,
+        "4movers.csv": null
+    },
+    "Distributions": {
+        "matchingStatesDistribution.csv": null,
+        "distribution.csv": null,
+        "QTM_distribution.csv": null,
+        "matchingScramblesDistribution.csv": null
+    },
+    "Scramble_Sequences": {
+        "normalTurnCountHigh.csv": null,
+        "repeatedStates.csv": null,
+        "repeatedScrambles.csv": null,
+        "primeTurnCountHigh.csv": null,
+        "halfTurnCountHigh.csv": null
+    }
+}

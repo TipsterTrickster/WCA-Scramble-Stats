@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>WCA Scramble Statistics</title>
+    <link rel="stylesheet" href="../styles.css">
+</head>
+<body>
+    <h1><a id="event-header" href="../">2x2 Statistics</a></h1>
+
+    <!-- Dropdowns will be dynamically generated here -->
+    <div id="dropdown-container"></div>
+
+    <div id="csv-data"></div>
+
+    <script>
+        let folderStructure = {};
+
+        // Fetch the folder structure from the JSON file
+        async function fetchFolderStructure() {
+            const response = await fetch('folder-structure.json');
+            folderStructure = await response.json();
+            generateDropdowns(folderStructure);
+        }
+
+        // Generate dropdowns based on the current path
+        function generateDropdowns(structure, path = []) {
+            const dropdownContainer = document.getElementById('dropdown-container');
+            dropdownContainer.innerHTML = ''; // Clear existing dropdowns
+
+            let currentLevel = structure;
+            path.forEach(key => {
+                currentLevel = currentLevel[key];
+            });
+
+            // Create a dropdown for the current level
+            const dropdown = document.createElement('select');
+            dropdown.onchange = () => {
+                const selectedValue = dropdown.value;
+                if (selectedValue === '') return;
+
+                const newPath = [...path, selectedValue];
+                if (typeof currentLevel[selectedValue] === 'string' || currentLevel[selectedValue] === null) {
+                    // If it's a file, display the CSV
+                    displayCSV(newPath.join('/'));
+                } else {
+                    // If it's a directory, generate the next dropdown
+                    generateDropdowns(structure, newPath);
+                }
+            };
+
+            // Add a default option
+            const defaultOption = document.createElement('option');
+            defaultOption.value = '';
+            defaultOption.textContent = 'Select an option';
+            dropdown.appendChild(defaultOption);
+
+            // Populate the dropdown with options
+            Object.keys(currentLevel).forEach(key => {
+                const option = document.createElement('option');
+                option.value = key;
+                option.textContent = key;
+                dropdown.appendChild(option);
+            });
+
+            dropdownContainer.appendChild(dropdown);
+        }
+
+        // Display the selected CSV file
+        async function displayCSV(filePath) {
+            const response = await fetch(filePath);
+            const text = await response.text();
+            const rows = text.split('\n').filter(row => row.trim() !== '');
+            let table = '<table>';
+
+            rows.forEach(row => {
+                table += '<tr>';
+                row.split(',').forEach(col => {
+                    table += `<td>${col.trim()}</td>`;
+                });
+                table += '</tr>';
+            });
+
+            table += '</table>';
+            document.getElementById('csv-data').innerHTML = table;
+        }
+
+        // Initialize
+        fetchFolderStructure();
+    </script>
+
+    <a href="./">Back to main page</a>
+</body>
+</html>
