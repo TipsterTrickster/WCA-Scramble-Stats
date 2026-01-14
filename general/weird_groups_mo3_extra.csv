@@ -1,9 +1,9 @@
-competitionId,eventId,roundTypeId,groupId,Scramble Count
-AlbaceteOpen2016,444bf,f,A,4
+competition_id,event_id,round_type_id,group_id,Scramble Count
 AlicanteOpen2016,444bf,f,A,4
 AlicanteOpen2016,555bf,f,A,4
 Alziramuevelaspiezas2017,444bf,f,A,4
-AnatoliyMorozOpen2015,777,c,A,4
+AnatoliyMorozOpen2015,333bf,1,A,4
+AnatoliyMorozOpen2015,333bf,1,B,4
 AnatoliyMorozOpen2015,777,c,B,4
 AquarelaSpeedcubing2015,444bf,f,A,3
 AquarelaSpeedcubing2015,555bf,f,A,3

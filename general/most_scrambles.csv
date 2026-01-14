@@ -1,4 +1,4 @@
-competitionId,Scramble Count
+competition_id,Scramble Count
 CubingUSANationals2017,3060
 USNationals2016,2740
 RubiksWCAAsianChampionship2024,2437
@@ -8,6 +8,7 @@ IndianNationals2016,1980
 IndianNationals2017,1973
 IndianNationals2015,1868
 USNationals2015,1838
+WC2025,1606
 IndianNationals2018,1526
 ChinaChampionship2018,1502
 MountainViewMultiMadness2023,1485
@@ -15,6 +16,7 @@ CubingUSANationals2019,1411
 ShaastraCubeOpen2016,1348
 SCMU2016,1267
 ChinaChampionship2019,1261
+NewYorkMultimatePBQII2025,1246
 SSNCubeOpen2016,1245
 SAC2024,1240
 IndianNationals2019,1223
@@ -31,13 +33,14 @@ PleaseBeQuietinAstana2023,1103
 MexicanChampionship2018,1091
 NAC2024,1044
 NAC2022,1028
-SCMU2017,1024
 SCMU2015,1024
+SCMU2017,1024
 NationalCubingRegionOpen2016,1010
 SCMUOpen2016,1003
 CubersEastIndiaOpen2017,995
-CMIFiestaOpen2014,983
 WC2015,983
+CMIFiestaOpen2014,983
+FrenchChampionship2025,977
 HeartlandChampionships2018,970
 SCMUICTOpen2017,964
 IndianNationals2014,962
@@ -51,6 +54,7 @@ KumaraguruCubeOpen2024,929
 SEChamp2018,926
 IndianOpenRubiksCube2016,923
 IndonesianChampionship2017,917
+KoreaOpen2025,902
 PeruNationals2018,899
 RubiksCubePuneOpen2016,898
 BrainStudioWinter2015,895
@@ -58,6 +62,7 @@ SSNCubeOpen2017,894
 BanParityOpen2017,889
 WesternChampionship2018,880
 DJOPEN2014,872
+NewYorkMultimatePBQ2025,871
 NortheastChampionship2022,867
 AsianChampionship2018,865
 Euro2022,860
@@ -66,8 +71,8 @@ NCROpen2017,855
 DutchNationals2019,851
 Euro2024,846
 RioCubolympics2024,843
-RainCityCubeCompetition2017,841
 IsraelChampionship2023,841
+RainCityCubeCompetition2017,841
 KorumCubeChallenge2024,838
 CampeonatoBrasileiro2024,837
 KoreanChampionship2024,837
@@ -84,6 +89,7 @@ MathSocOpen2016,798
 SwedishChampionship2019,797
 MumbaiOpen2015,793
 NationalCubingRegion2015,793
+SICC2025,790
 WC2019,789
 UchiMontevideo2016,787
 RECCubeChallenge2015,785
@@ -93,9 +99,3 @@ Euro2018,782
 KJSCEMumbaiOpen2016,768
 IndianOpen2015,766
 PolishChampionship2015,757
-ItalianChampionship2019,756
-KewbzUKChampionship2022,755
-NacionalesUruguayasUCHI2018,754
-HyderabadCubeOpen2023,752
-DelhiOpen2017,743
-GreatLakesChampionship2023,741
