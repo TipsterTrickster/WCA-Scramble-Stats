@@ -1,4 +1,4 @@
-competitionId,Ao5,roundTypeId,groupId,scrambleNum,scramble,Optimal Movecount,Optimal Solution
+competition_id,Ao5,round_type_id,group_id,scramble_num,scramble,Optimal Movecount,Optimal Solution
 PenangCubeMasters2023,6.0,f,A,1,R U' R2 U2 R U2 R' F' U' R2 U2,6, U R2 U F R2 F
 PenangCubeMasters2023,6.0,f,A,2,R U' F' U' R2 U' R F R2 U2 R',6, R2 F U F2 R' U'
 PenangCubeMasters2023,6.0,f,A,3,U R' U' R F' U' F R U2 R U2,9, F' U2 R' F' U2 F' R F R'
@@ -69,6 +69,13 @@ BlenkirWankaCube2024,6.67,f,A,4,U' R' F' R U' F U' F U' R2 U2,9, U F R' F R' U' 
 BlenkirWankaCube2024,6.67,f,A,5,R2 F R2 U' R2 U' F R' U2 R U,9, F' U R2 F' R' F R' U R2
 BlenkirWankaCube2024,6.67,f,A,1,R U' F2 R U' R' U2 F R2 U2 R',7, F2 U' R U' R2 F R'
 BlenkirWankaCube2024,6.67,f,A,2,U' R' U' F R' F U2 R U R' F',5, U' R F' U2 F'
+CampeonatoAmazonense2025,6.67,f,C,1,R2 U2 R' U R' F U' F R2 U' R2,9, U F2 R' U F2 U' R2 U F2
+CampeonatoAmazonense2025,6.67,f,C,2,R' U' F U' F' U' F U2 R U R,6, R' F' U' F' U F
+CampeonatoAmazonense2025,6.67,f,C,3,U' R' F U' F R U' R' U2 F U',6, U F' U' F' U R
+CampeonatoAmazonense2025,6.67,f,C,4,U2 R' F' R U' F U' R2 U2 F U',9, R2 F R F2 R2 F R F2 R2
+CampeonatoAmazonense2025,6.67,f,C,5,U2 R' U' R U2 F U' R2 U' R' U',8, F2 U2 R' U R' U R2 F2
+CampeonatoAmazonense2025,6.67,f,C,1,U R2 F U' R U R' U2 F U R,8, R F' R2 U' R2 U R' F2
+CampeonatoAmazonense2025,6.67,f,C,2,R F' U2 R2 U2 F U2 R U2 R2 U2,6, R2 F2 U2 R U2 R'
 ChillOutTrondheim2018,6.67,1,A,1,U' R U2 R2 F U2 F U R U R,6, R' F2 U' F R2 F'
 ChillOutTrondheim2018,6.67,1,A,2,R U' R' U R' U2 F' U' F U' R,7, R' F R F' R U2 R
 ChillOutTrondheim2018,6.67,1,A,3,U R' F R2 U R' F' U F' U2 R,10, F U' R U2 R2 U F' U R' U2
@@ -90,6 +97,13 @@ GuateMaya2021,6.67,f,A,4,R' U' R U2 R' F R U' R' U' R,7, U F R2 F R2 F2 U'
 GuateMaya2021,6.67,f,A,5,R U' F' R' U' F U2 F R U R,7, R' F R' U2 R' U R'
 GuateMaya2021,6.67,f,A,1,F' U2 R' U R' U' F U' R U2 R,8, F' U2 R U' F2 R F' U2
 GuateMaya2021,6.67,f,A,2,R U' R' U2 R U2 R' U R2 F R,6, F' U F U2 R2 F
+MaltaEndofSummer2025,6.67,f,A,1,R F' R2 F' U' R2 U2 R2 U2 R U2,7, U2 R U' F R2 F R'
+MaltaEndofSummer2025,6.67,f,A,2,F R2 U2 R' U R U2 R2 U' F U',10, F' R2 F R U2 F R2 F2 R U2
+MaltaEndofSummer2025,6.67,f,A,3,F U' R U' R' U2 F' R2 U' R2 U2,7, U2 R F2 U' F' R' F'
+MaltaEndofSummer2025,6.67,f,A,4,R' U2 F' R U' F' R U R U' R',6, U' R2 F' R F' U2
+MaltaEndofSummer2025,6.67,f,A,5,U' R F' R2 U' R U2 R U2 F' U2,9, F' U R2 F2 U' R U2 F2 R
+MaltaEndofSummer2025,6.67,f,A,1,R' U2 F U' R F R U' R' F U,6, F R F' R2 U' F2
+MaltaEndofSummer2025,6.67,f,A,2,U2 R' F R2 U' R' U F R F R2,9, F' U2 F' R U R2 F2 U' F
 MonterreyBogotaII2023,6.67,d,D,1,U R U' F' R' U' R2 F R U' R',6, F' R' F R' U F
 MonterreyBogotaII2023,6.67,d,D,2,R2 U2 F U' R U2 F U' R U R',9, U2 R F U' F R2 U' F U2
 MonterreyBogotaII2023,6.67,d,D,3,R U' R' U' F2 U2 F U2 R U' R',6, U2 R' F2 R F' U
@@ -111,6 +125,13 @@ QubesDonLieAnkara2022,6.67,f,A,4,U2 R' F' U' R U2 F U2 R U' R,6, F R2 F' U' R2 F
 QubesDonLieAnkara2022,6.67,f,A,5,R' U2 R U' R F2 R U2 R F' R2,8, U2 F' R F2 R2 U2 R U2
 QubesDonLieAnkara2022,6.67,f,A,1,R U' R' U R U R F' R' U' R,6, R2 U' R2 U R2 F
 QubesDonLieAnkara2022,6.67,f,A,2,U2 R' U2 R U2 R' U F U' F2 U2,9, F U' R F U' R2 U' R F'
+RenoSummer2025,6.67,1,C,1,R U2 F' U' R' U R F' R U' R',6, U F R' F2 U2 R'
+RenoSummer2025,6.67,1,C,2,U2 R' U' R U2 F' R2 U2 R U R',9, R U' R F' U2 R U R U2
+RenoSummer2025,6.67,1,C,3,R U2 R' U' R' U' R' F R U' R',6, U F' R' U F R
+RenoSummer2025,6.67,1,C,4,F' U2 F U' R U2 R' F U' R2 U',10, F2 U' F U2 R F2 R U' F2 U
+RenoSummer2025,6.67,1,C,5,R' F' U' R U' R U' R' U R' F',8, R' F R' U' F' R F2 U'
+RenoSummer2025,6.67,1,C,1,R U R U2 R' U' R' U2 R U R,6, U R2 U R' U' R'
+RenoSummer2025,6.67,1,C,2,R' F2 R U F' U2 R2 U' F R U2,8, R2 U R F R2 U' F2 U'
 SydChamps2017,6.67,1,A,1,R' F U' R' U R' U2 F R U R,7, F2 U F' R F2 U' R2
 SydChamps2017,6.67,1,A,2,U2 R F' R' U' R U2 R2 U2 R U,8, F R' F' R U F' R2 F
 SydChamps2017,6.67,1,A,3,R' U2 F U' R2 U2 R2 U2 F' U2 R,8, R U2 F' R2 U F' U2 R
@@ -118,6 +139,13 @@ SydChamps2017,6.67,1,A,4,U' R U' R' U' R2 F' U' R2 U' F,7, F2 U' R F' U' R U2
 SydChamps2017,6.67,1,A,5,U2 R F' U' R' U' R' U' F' U' R,4, R' U2 R2 F
 SydChamps2017,6.67,1,A,1,R' F' R U F R U' R' F R U,6, R F2 R' U F2 R2
 SydChamps2017,6.67,1,A,2,R' F R F' R2 F' U2 R' U2 R' U2,10, F U2 R F U R2 F' R U2 F'
+ThapraCubeBattle2025,6.67,1,D,1,U2 R U' R2 U' F R' U R' U' R,9, F' R F R' F2 U2 F U R
+ThapraCubeBattle2025,6.67,1,D,2,R' F R' F2 R U' R U' R2 U2 F,9, U2 R2 U' F' R2 F U' F U
+ThapraCubeBattle2025,6.67,1,D,3,U' R U' R' U2 R2 U' F2 U' F R2,8, U R' F R' U F U2 F
+ThapraCubeBattle2025,6.67,1,D,4,U' R F' R' U2 R' U' F R2 F' R',6, F' R2 U' R F' R'
+ThapraCubeBattle2025,6.67,1,D,5,U' R' F2 U' R2 U R' F U' R2 U2,9, R2 U2 R' U F2 R' U' F2 U
+ThapraCubeBattle2025,6.67,1,D,1,R' F R U R U' F' R2 U' R U,6, R U' F' U2 F R2
+ThapraCubeBattle2025,6.67,1,D,2,R U' F R2 U' R' U2 R' U2 R U',6, R2 F U F2 U R
 UtahMegacomp2015,6.67,1,D,1,U' R U' R2 U2 F U' F2 R U' F,9, U2 R2 F' U R2 F' R' U2 R2
 UtahMegacomp2015,6.67,1,D,2,U R' U2 R U R U' R2 U R' F,7, F' R U R2 U R' U2
 UtahMegacomp2015,6.67,1,D,3,R U' R2 F U2 F2 U' F U' R2 U',7, F U' F' U F' U2 R2

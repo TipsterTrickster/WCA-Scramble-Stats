@@ -1,4 +1,4 @@
-competitionId,roundTypeId,groupId,isExtra,scrambleNum,scramble,Optimal Solution
+competition_id,round_type_id,group_id,is_extra,scramble_num,scramble,Optimal Solution
 MumbaiSummerOpen2014,f,A,0,4,R' U' R U R U' R2 U2 R U' F', F R' U' R2
 LegnanoOpen2014,1,A,1,2,U2 R U' R' U' R' F R U' R' U', R U F' R
 USNationals2014,1,C,1,1,R' F R U R F' U' R' F R2 F', F' U R2 F2
@@ -168,3 +168,32 @@ GallopinKentuckyWinter2024,2,B,1,2,U' R' U' R2 F' R' U R' U2 F U2, F2 U2 F2 R2
 LigaSLPJornadaNegro2024,1,A,0,2,R' U2 F U2 R U' R' U' F' U' F, F' R' F' R2
 TCGSpacelVSantaAnita2025,f,B,0,5,U2 R' F' R U2 R' F R U R' U', U F2 R U
 PlazaMaderoChiaIII2025,f,B,1,2,R U' R' U' R U2 R' U R U2 F', F U' R' U2
+JesuitinasTxantreaOpen2025,2,B,0,3,R U' R2 U' F' R U R2 U' R' U', F R U2 R'
+CrevalcorealCubo2025,2,A,0,2,U2 F2 U' R U R U' R' U' R' U2, U' F2 U2 R'
+CrevalcorealCubo2025,f,A,0,2,U' R' U2 R U R U' F' R2 U2 R, R F' U R'
+FitchburgFingertricks2025,1,C,0,2,F U' F R U2 R' U2 R U R' F', U2 F U2 F2
+IzmirOpen2025,1,C,1,1,R F' U' F' R' U2 R' F R U' R, R' U2 R F2
+QueensparkOClock2025,2,B,0,2,R' U' R2 U' F' U' R' U' R' U2 F, F2 U R' U'
+BoltonSpring2025,d,C,0,2,U' R' F U' F R U' R' U F R, R' F2 U R
+ManchesterSpring2025,1,A,1,1,U' R' U2 R U R U' R2 U2 R' U2, U2 R' U R'
+NSWStateChampionship2025,f,A,0,3,U R U' R2 U2 R2 U2 R2 U' F R2, R2 F' R' U'
+IntercolegiadoSantander2025,f,A,0,1,R' F R U2 F R U' R' U' F U2, U2 F' U' F'
+PrimaveraUrbanaVillavicencio2025,d,B,1,2,R' U' F' U' R' F R U R F' U', R' U R F2
+70AnosFatimaMontevideo2025,f,C,0,3,R U' R' U' R' U2 F' R U' R' U', R' U F' R'
+PerthWinter2025,2,C,0,4,R' F' U' F R U' R' U' F R U, F R2 U' F'
+CubingintheCornfieldsIA2025,2,B,0,4,R' U2 R2 F' U2 R' U R' F U2 R2, R' F2 U2 F
+SantoDomingoSummer2025,d,B,1,1,R' U2 R2 U2 R' U R' F' U2 F R, F R' F' R2
+SpeedcubeManiaCoacalco2025,1,A,0,1,R U' R' U' R2 F' R' U R U2 R', R F U2 R'
+SolveWellinWellington2025,2,A,0,2,R' F R F U' F' U' R U' R' U2, U F U F
+LaCoteOpen2025,1,B,1,1,R U' R' U' R U' F' U' R' U' R', U2 F' U2 R2
+CriciumaOpen2025,1,A,0,5,R' U' F R U R F R U2 R' U', U F2 U' F2
+EnergyCubeBialoleka2025,1,B,0,1,U R' U' F U' R U R' F' U' F', F U2 F' R
+IINovaCarapinaChallenge2025,1,D,0,3,U R' U' R2 F' R2 U' R U R U', U2 R U F
+HefeiOpen2025,d,D,0,5,R U' R' U R U' R' U' R' U' R, U R2 U R'
+CubeZoneKatowice2025,f,C,0,4,R U' R2 U2 R U' R' U' R U2 R, R' U R U
+TrujilloCubingFest2025,f,B,0,1,U R U' F' R' F R U R' U' F, F2 R F R'
+ViennaAutumn2025,2,A,0,1,U R' F R U2 R' F2 U' F U' R, R2 U2 R F2
+OberlinBigCubes2025,1,B,1,1,U R' U' R U R F' R2 F U R, U' R U2 F2
+KamppiCubeWeekend2025,1,B,1,2,U2 R' U2 F' R2 U' R' U R' U' F2, F R' F2 U
+CubetecUEAManaus2025,f,C,0,2,R' U' F R' U2 F' U' F R U' R', R2 F2 U F
+BravoBKKCubeMaster2026,1,C,0,1,R' F' U' F' U2 R2 F' U2 R' U R, U R2 U' F2
