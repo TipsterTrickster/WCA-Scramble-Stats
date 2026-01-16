@@ -27,35 +27,33 @@
 
     <script>
         const csvFiles = {
-            'distributions': ['distribution.csv', 'QTM_distribution.csv', 'matchingScramblesDistribution.csv', 'matchingStatesDistribution.csv'],
-            'bestGroups' : ['bestOptimalMo5.csv', 'bestOptimalAo5.csv', 'bestPossibleOptimalAo5.csv', 'bestLayerMo5.csv', 'bestLayerAo5.csv', 'bestFaceMo5.csv', 'bestFaceAo5.csv'],
-            'allXMovers': ['4movers.csv', '5movers.csv', '11movers.csv'],
-            'scrambleSequences' : ['repeatedScrambles.csv', 'repeatedStates.csv', 'halfTurnCountHigh.csv', 'primeTurnCountHigh.csv', 'normalTurnCountHigh.csv'],
+            'distributions': ['Distributions/distribution.csv', 'Distributions/QTM_distribution.csv', 'Distributions/matchingScramblesDistribution.csv', 'Distributions/matchingStatesDistribution.csv'],
+            'bestGroups' : ['Best_Groups/bestOptimalMo5.csv', 'Best_Groups/bestOptimalAo5.csv', 'Best_Groups/bestPossibleOptimalAo5.csv', 'Best_Groups/bestLayerMo5.csv', 'Best_Groups/bestLayerAo5.csv', 'Best_Groups/bestFaceMo5.csv', 'Best_Groups/bestFaceAo5.csv'],
+            'allXMovers': ['All_X_Movers/4movers.csv', 'All_X_Movers/5movers.csv', 'All_X_Movers/11movers.csv'],
+            'scrambleSequences' : ['Scramble_Sequences/repeatedScrambles.csv', 'Scramble_Sequences/repeatedStates.csv', 'Scramble_Sequences/halfTurnCountHigh.csv', 'Scramble_Sequences/primeTurnCountHigh.csv', 'Scramble_Sequences/normalTurnCountHigh.csv'],
             // Add more categories and their corresponding CSV files as needed
         };
 
         const subCategoryNames = {
-            'distribution.csv': 'Optimal HTM Distribution',
-            'QTM_distribution.csv' : 'Optimal QTM Distribution',
-            '4movers.csv': 'All 4 Movers',
-            '5movers.csv': 'All 5 Movers',
-            '11movers.csv': 'All 11 Movers',
-            'halfTurnCountHigh.csv' : "Most Half Turns in a Scramble",
-            'primeTurnCountHigh.csv' : "Most Counter Clockwise Turns in a Scramble",
-            'normalTurnCountHigh.csv' : "Most Clockwise Turns in a Scramble",
-            'matchingScramblesDistribution.csv' : "Number of Repeated Scrambles Distribution",
-            'matchingStatesDistribution.csv' : "Number of Repeated States (with symmetries) Distribution",
-            'repeatedScrambles.csv' : "All Scrambles Repeated 4+ Times",
-            'repeatedStates.csv' : "All States Repeated 10+ Times",
-            'bestOptimalMo5.csv' : "Optimal Mo5",
-            'bestOptimalAo5.csv' : "Optimal Ao5",
-            'bestPossibleOptimalAo5.csv' : "Best Possible Optimal Ao5",
-            'bestLayerMo5.csv' : "Optimal Layer Mo5",
-            'bestLayerAo5.csv' : "Optimal Layer Ao5",
-            'bestFaceMo5.csv' : "Optimal Face Mo5",
-            'bestFaceAo5.csv' : "Optimal Face Ao5",
-            // 'bestScoreMo5.csv' : "Scored Mo5",
-            // 'bestScoreAo5.csv' : "Scored Ao5"
+            'Distributions/distribution.csv': 'Optimal HTM Distribution',
+            'Distributions/QTM_distribution.csv' : 'Optimal QTM Distribution',
+            'All_X_Movers/4movers.csv': 'All 4 Movers',
+            'All_X_Movers/5movers.csv': 'All 5 Movers',
+            'All_X_Movers/11movers.csv': 'All 11 Movers',
+            'Scramble_Sequences/halfTurnCountHigh.csv' : "Most Half Turns in a Scramble",
+            'Scramble_Sequences/primeTurnCountHigh.csv' : "Most Counter Clockwise Turns in a Scramble",
+            'Scramble_Sequences/normalTurnCountHigh.csv' : "Most Clockwise Turns in a Scramble",
+            'Distributions/matchingScramblesDistribution.csv' : "Number of Repeated Scrambles Distribution",
+            'Distributions/matchingStatesDistribution.csv' : "Number of Repeated States (with symmetries) Distribution",
+            'Scramble_Sequences/repeatedScrambles.csv' : "All Scrambles Repeated 4+ Times",
+            'Scramble_Sequences/repeatedStates.csv' : "All States Repeated 10+ Times",
+            'Best_Groups/bestOptimalMo5.csv' : "Optimal Mo5",
+            'Best_Groups/bestOptimalAo5.csv' : "Optimal Ao5",
+            'Best_Groups/bestPossibleOptimalAo5.csv' : "Best Possible Optimal Ao5",
+            'Best_Groups/bestLayerMo5.csv' : "Optimal Layer Mo5",
+            'Best_Groups/bestLayerAo5.csv' : "Optimal Layer Ao5",
+            'Best_Groups/bestFaceMo5.csv' : "Optimal Face Mo5",
+            'Best_Groups/bestFaceAo5.csv' : "Optimal Face Ao5",
             // Add more descriptive names for subcategories
         };
 
