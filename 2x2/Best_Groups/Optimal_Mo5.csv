@@ -1,196 +1,196 @@
 competition_id,mean,round_type_id,group_id,scramble_num,scramble,Optimal Movecount,Optimal Solution
-CuboUaiBHOpen2019,6.8,f,A,1,U2 R' U F U' F R U' R' U2 R,5, F R2 U' R2 F'
-CuboUaiBHOpen2019,6.8,f,A,2,U2 R F' U2 F' R2 U' F R U R',8, R2 U R F R' F R' U2
-CuboUaiBHOpen2019,6.8,f,A,3,U2 R F' U' F' U2 R2 U2 F' U' R,7, R' U' R2 U' F R' U2
-CuboUaiBHOpen2019,6.8,f,A,4,U2 R' F' U' R U R' U' F' U' F',7, R' U' F U' R F2 U'
-CuboUaiBHOpen2019,6.8,f,A,5,R U2 F' R2 F2 R2 F' R' U R F',7, F U R U2 F' U F2
-SwisscubingCupV2025,6.8,1,A,1,U F' U' R2 U2 R2 U' F' R U' R,5, U' F2 U' R F'
-SwisscubingCupV2025,6.8,1,A,2,R' U2 R F U' R U2 R U' F' R',6, F2 U F U R U'
-SwisscubingCupV2025,6.8,1,A,3,R F' R' U2 R' F U' R2 U2 F' R2,8, F U2 R F U R2 F U2
-SwisscubingCupV2025,6.8,1,A,4,U R U2 R2 F U' R F U2 R U',7, U2 F' R U2 F2 R U'
-SwisscubingCupV2025,6.8,1,A,5,F' R2 U' R' U2 R F' U' R' U R,8, F2 U F R2 U' F' R2 F
-SydChamps2017,6.8,1,A,1,R' F U' R' U R' U2 F R U R,7, F2 U F' R F2 U' R2
-SydChamps2017,6.8,1,A,2,U2 R F' R' U' R U2 R2 U2 R U,8, F R' F' R U F' R2 F
-SydChamps2017,6.8,1,A,3,R' U2 F U' R2 U2 R2 U2 F' U2 R,8, R U2 F' R2 U F' U2 R
-SydChamps2017,6.8,1,A,4,U' R U' R' U' R2 F' U' R2 U' F,7, F2 U' R F' U' R U2
-SydChamps2017,6.8,1,A,5,U2 R F' U' R' U' R' U' F' U' R,4, R' U2 R2 F
-AZCubingOpen2018,7.0,c,A,1,R' U' R2 U' R2 U2 R' F2 R2 U2 R',8, R U2 F R2 F2 R U' R
-AZCubingOpen2018,7.0,c,A,2,U' R U2 R' U' R U' F' U' R' U',7, U' R F R' U R U2
-AZCubingOpen2018,7.0,c,A,3,R' F U F U' R2 U R' U' R U2,9, R' F U R2 F' U F2 R' U'
-AZCubingOpen2018,7.0,c,A,4,U R U' R' U R F' R2 F U R,6, U F2 R' U' R2 U'
-AZCubingOpen2018,7.0,c,A,5,R2 F' U2 R2 U' F R U R' F R,5, F R F2 R U'
-CubingBattleofKatipunan2024,7.0,f,E,1,R' U' R U R U' R2 U2 R2 U' F',6, F U' R' U' R' U'
-CubingBattleofKatipunan2024,7.0,f,E,2,R' F U2 F2 U' R U' R U2 R U',6, R2 U' R' F2 U2 R2
-CubingBattleofKatipunan2024,7.0,f,E,3,U' R' U F2 U' R U2 R U R' U',9, R2 F' U F2 U' R F2 R F2
-CubingBattleofKatipunan2024,7.0,f,E,4,U' R' U2 F' R2 F' R' U' R' U' R,6, R F' R2 U R F
-CubingBattleofKatipunan2024,7.0,f,E,5,R U' R2 F U2 R U F R U2 R',8, U2 R' U' F R2 U' F' R
-France2016,7.0,d,D,1,R' U' R U' R' U2 F' U' F' U' R2,6, R U2 R F' U' F'
-France2016,7.0,d,D,2,R F' U2 R2 U2 F R U' F U' R2,9, F U R U' F R F2 U' R2
-France2016,7.0,d,D,3,R' U' F' U' F' R2 F' R2 U' R2 U,7, F2 R2 F R' F U2 R
-France2016,7.0,d,D,4,U' R' U2 R U R2 U' F U F R,8, R' U F' R F2 U' R F
-France2016,7.0,d,D,5,R' F' R U R U2 R' U2 R U R',5, F' R' F2 R F2
-FrankfurtCubeDays2018,7.0,2,B,1,R' U' R2 U2 R' U' R' U2 F' U2 F,8, R F' U F U R' U2 R
-FrankfurtCubeDays2018,7.0,2,B,2,R' F' U' R U2 R U R U2 F' R',7, U2 R F U' R2 U' F
-FrankfurtCubeDays2018,7.0,2,B,3,U R' U2 F U2 R U' R' F2 U2 R2,9, F2 U2 F R2 U' R U R' U'
-FrankfurtCubeDays2018,7.0,2,B,4,R' F2 R2 U2 F' R2 U' R U' R U',6, F2 R2 U' F' R2 F'
-FrankfurtCubeDays2018,7.0,2,B,5,R F' R' U R F R U' R' U' F',5, R' U' F R F
-IdahoSpeedcubing2016,7.0,f,A,1,U' R' F U' F' U2 F U' F R' U2,8, F' U R' U R' U R2 F'
-IdahoSpeedcubing2016,7.0,f,A,2,U R' F R' U2 R U' R' U2 R U2,7, R U2 R F2 R2 F' R'
-IdahoSpeedcubing2016,7.0,f,A,3,R' F R2 U2 R' U R' U F' U' R2,7, F U2 F U F2 U2 F'
-IdahoSpeedcubing2016,7.0,f,A,4,U' R F' U2 R' U' R U2 F' U2 R2,8, F2 U2 F' R F' R2 U' R'
-IdahoSpeedcubing2016,7.0,f,A,5,U2 R U' R' U' R' U2 F' R2 U' R',5, U' R' F' R' U2
-Maryland2017,7.0,1,D,1,U' R2 F U2 R U2 R2 U' R U2 R,9, F2 R F2 R U2 R F U2 F2
-Maryland2017,7.0,1,D,2,R' F' R U R U2 R' U' R2 F R,6, U R F2 R' F U'
-Maryland2017,7.0,1,D,3,R U2 R2 U R U R U2 F' U' R',6, F' U' R F U R'
-Maryland2017,7.0,1,D,4,R U' F' R' U2 R U2 R' F' R U,5, F U2 F R2 F'
-Maryland2017,7.0,1,D,5,U F R U' R2 F U2 F R U' R,9, U F U R' U2 R' U F' U2
-NationalCubingRegionOpen2016,7.0,d,A,1,R U2 R2 U' F R U2 R' U' F' U,6, U' R' F2 R' U2 R
-NationalCubingRegionOpen2016,7.0,d,A,2,U R' U2 F U2 R U2 R' F R U2,7, F R U F U2 R2 U'
-NationalCubingRegionOpen2016,7.0,d,A,3,R' U' F' U2 R2 U' F' R' U' R' U',7, F R2 F2 R' F' R F'
-NationalCubingRegionOpen2016,7.0,d,A,4,U' R' U R U2 R' F' U2 F R' U',8, R' F R2 F' R2 U R2 U
-NationalCubingRegionOpen2016,7.0,d,A,5,U' R' F' U' F' U2 F R U' R U',7, U R2 U2 F U F2 R
-ZhengzhouSummerIII2025,7.0,c,D,1,R F' U2 R2 U2 F R2 U2 R' U R',5, R U' R' F2 R'
-ZhengzhouSummerIII2025,7.0,c,D,2,R U' R2 U2 R2 U2 R' U R' F U,7, F R F2 U R2 F U
-ZhengzhouSummerIII2025,7.0,c,D,3,U' R' F' U R U R F' R' U' R',6, R2 F2 U R F' R2
-ZhengzhouSummerIII2025,7.0,c,D,4,R' F' R U' R F' U2 R2 F R U,9, F' R' U2 R' U F' R F2 U'
-ZhengzhouSummerIII2025,7.0,c,D,5,R' U2 F' R U' R F U2 F U' F',8, F U' R F' U F' R' U2
-150thCubeMeetinginBrest2017,7.2,1,C,1,U' F' R' U R' F' R U R F' R2,6, R2 F2 U2 F R2 F'
-150thCubeMeetinginBrest2017,7.2,1,C,2,U' R' U' F U' F' R U R2 U' F,7, R U2 F R F2 U2 F'
-150thCubeMeetinginBrest2017,7.2,1,C,3,R' U' R U R' U2 F R' U' R U,9, F' R F' U2 R U2 R' U2 R
-150thCubeMeetinginBrest2017,7.2,1,C,4,R' U2 F R2 F' U' R2 U' F U2 F,9, R' U2 R' U R U2 R2 F2 R
-150thCubeMeetinginBrest2017,7.2,1,C,5,U2 R' F U R U2 R' U R2 U' R',5, F' R U2 F2 R2
-AlbaceteAgoraOpen2024,7.2,2,B,1,U2 R' F R2 U' R' F U2 R' U R',8, F' U F U R2 F2 R' F
-AlbaceteAgoraOpen2024,7.2,2,B,2,U2 R U2 F' R' U R' F R U2 R,7, F U' F R' F' R' U2
-AlbaceteAgoraOpen2024,7.2,2,B,3,R' U2 F' U2 R2 U' F' R' U R' U,7, U' R U' F2 U' F' U
-AlbaceteAgoraOpen2024,7.2,2,B,4,U R U' R' U' F2 U2 F U2 R U',6, R' U2 R' F2 R F'
-AlbaceteAgoraOpen2024,7.2,2,B,5,U2 R' F2 R U R' U' R U' R F',8, R U2 R2 F R' F2 R' U'
-BillingsSpeedcubing2023,7.2,1,A,1,R' U2 F U2 R2 U2 F' R2 F R2 U2,5, R2 F' U2 F2 R
-BillingsSpeedcubing2023,7.2,1,A,2,U2 R2 F U2 R' F R U2 R' U2 R,8, F' R' F2 R' F2 U R' F'
-BillingsSpeedcubing2023,7.2,1,A,3,R' U R2 U' R2 U' R U F R U2,8, U R2 F R F2 U' F2 U2
-BillingsSpeedcubing2023,7.2,1,A,4,R F' U' R' U R U2 R2 U F U2,8, F R' F2 U F' R U R2
-BillingsSpeedcubing2023,7.2,1,A,5,R U' R U' R2 F U2 R2 U2 F' R',7, R F2 R2 U' R' U R'
-BretzelOpen2023,7.2,f,A,1,U2 R' U F' R U' R' U' F' R2 U2,9, F2 R2 U R' F R2 F' U2 F2
-BretzelOpen2023,7.2,f,A,2,U2 R F U' R U' R' U2 F' R2 U',8, U R F U' F U F2 U2
-BretzelOpen2023,7.2,f,A,3,F R U R' U' F U' R U R' U',4, U F' U F2
-BretzelOpen2023,7.2,f,A,4,U2 R' F' R' U' R2 F' R' U' R' U',8, U R F' U R U' R2 F'
-BretzelOpen2023,7.2,f,A,5,U R F U' F U' R U R' F U2,7, F2 U2 F' R' U' F2 R'
-BrisbaneIsBackOn2021,7.2,f,A,1,R' U' R2 F U' F U' R2 U' R2 U2,6, U' F U R' U2 F
-BrisbaneIsBackOn2021,7.2,f,A,2,U R' U' R U R F' U2 R' U2 R,7, F U R2 F R2 F' U
-BrisbaneIsBackOn2021,7.2,f,A,3,U' R U' F U2 R U' R U' R' U2,6, U F' U R' U2 F'
-BrisbaneIsBackOn2021,7.2,f,A,4,U' R' U' F' U2 F R U' R' F2 R2,8, R2 F2 R U2 F R2 F' U
-BrisbaneIsBackOn2021,7.2,f,A,5,U R' F U R2 F' U' R2 U2 R U,9, F' R U2 F' R' U2 R F2 R'
-CanadianChampionship2019,7.2,d,B,1,R' F U' R2 U' F R U' R' F' R,9, F U2 R F' U' R U F' R
-CanadianChampionship2019,7.2,d,B,2,U' R' F R U R F' R' U R' U',8, U R U' R F2 U' F' R'
-CanadianChampionship2019,7.2,d,B,3,R' F U2 R2 U2 R' U R' F' R U',7, U' R F2 R' F' R2 U2
-CanadianChampionship2019,7.2,d,B,4,R F U' F U' R U2 R' U' F' U2,8, F U' R' U' R F2 R' U
-CanadianChampionship2019,7.2,d,B,5,R F' U' F' R2 F R U R' F' U',4, U F' R2 F2
-CrossstraitCubingExchange2019,7.2,1,C,1,U' R' F' U2 F U2 R2 U2 R2 U' F,6, R U F2 U' R2 F'
-CrossstraitCubingExchange2019,7.2,1,C,2,R' F' U' R U2 R' U2 F' R2 U2 R,8, R U2 R U2 R2 F' U' F'
-CrossstraitCubingExchange2019,7.2,1,C,3,U2 R' F R' F R U R' U' R F,8, F2 R' U' F2 R F' U' F
-CrossstraitCubingExchange2019,7.2,1,C,4,U R' F' U2 R U2 R' U F U2 R,7, U' F R U R2 F' U
-CrossstraitCubingExchange2019,7.2,1,C,5,R U' F' R2 U' F U2 F U2 F R2,7, F R2 F2 R F U F
-CuencaCubing2022,7.2,1,C,1,R' U' F' R2 U' F' U' R' U R U',6, U R2 U' R2 F' R'
-CuencaCubing2022,7.2,1,C,2,R' U2 F U' F U' R' U R2 F' U',9, U2 R2 F2 R' F' R' U R2 F
-CuencaCubing2022,7.2,1,C,3,U' R' U R2 F' U' R2 U' F U' F,9, R F2 R' F2 U R2 U R' U2
-CuencaCubing2022,7.2,1,C,4,U2 R U' F' U2 R' U' R' U F2 R,5, U2 F' U2 R F2
-CuencaCubing2022,7.2,1,C,5,F' U' R2 U2 F R2 U2 R' U R' F,7, F' U' F U' R U R'
-FitchburgFingertricks2025,7.2,1,C,1,F' R2 U' R2 U' F R U2 R' F R,8, F R F R' U F2 R' U2
-FitchburgFingertricks2025,7.2,1,C,2,F U' F R U2 R' U2 R U R' F',4, U2 F U2 F2
-FitchburgFingertricks2025,7.2,1,C,3,F U' F U' R2 U' R2 U2 R2 U2 R',7, R' U' R2 U F' U F'
-FitchburgFingertricks2025,7.2,1,C,4,U R U2 R2 F' U' F U R2 U' R2,8, R2 U F R F' U R' U'
-FitchburgFingertricks2025,7.2,1,C,5,U2 R U2 R' U R' F2 U' F' R2 U',9, F2 U' R F' R F R2 F2 U2
-FuengirolaCubea2018,7.2,1,C,1,U2 F R2 F' R2 U2 F U' R U2 R,8, F' R F U' F2 R' U R2
-FuengirolaCubea2018,7.2,1,C,2,U R F U' R2 U2 R2 F U2 R U',4, F U F2 U'
-FuengirolaCubea2018,7.2,1,C,3,R' U2 R U R' U F2 U2 R2 U2 R2,8, U2 R' F2 R' F' R F' U2
-FuengirolaCubea2018,7.2,1,C,4,R' U2 F U2 F' U' R2 U2 R2 U' R,9, U2 F R2 U2 F U' F2 U' R2
-FuengirolaCubea2018,7.2,1,C,5,F R U' R' U2 R2 F' R2 F' U' F,7, R U' R F' U R2 F'
-HarbinOpen2025,7.2,d,B,1,U' R U' R2 U2 R U' R' U2 R U2,7, U2 R' U R U' R U2
-HarbinOpen2025,7.2,d,B,2,U2 R F' R2 U2 F U2 R2 U' R2 F2,8, F2 R2 U' F U2 F R' U2
-HarbinOpen2025,7.2,d,B,3,R' F R F' U2 R U2 R' F' U' R,6, R2 F' R U' F U'
-HarbinOpen2025,7.2,d,B,4,U' R' F R U' R2 F U' F' U2 R,7, U2 F' R F R2 U' F
-HarbinOpen2025,7.2,d,B,5,U2 R2 F U R U R' U R U' R',8, U R U2 R U2 R' F R2
-IndianaChampionship2024,7.2,1,C,1,U2 R' F R U' R' F U R U F,8, R U2 F U F2 U R2 U2
-IndianaChampionship2024,7.2,1,C,2,F U2 F U' R2 U2 R2 F U2 R U2,7, U F U F2 R U2 F'
-IndianaChampionship2024,7.2,1,C,3,R' F U R U R U' F' U' R' U2,5, U F U' F' R2
-IndianaChampionship2024,7.2,1,C,4,U' R' F' R U' R2 U2 R2 U' R' U,8, F R U2 R2 F U' F U
-IndianaChampionship2024,7.2,1,C,5,U2 R' F U2 F' R2 U' R' U' F2 R,8, F U R' F R2 F' R' U
-MarrickvilleAutumnSaturday2021,7.2,f,A,1,R' U R' U2 F' R U' R U' R2 U',8, R2 U R2 F' U F2 U2 R2
-MarrickvilleAutumnSaturday2021,7.2,f,A,2,U R U2 R' F' U' R' U2 F U' R2,7, R2 U F R' F2 U2 F'
-MarrickvilleAutumnSaturday2021,7.2,f,A,3,R' F R U2 F' R2 F R U R U2,7, R U2 F U2 F U2 F'
-MarrickvilleAutumnSaturday2021,7.2,f,A,4,R' U' F U2 F2 U' F R F' U' R',6, R U F2 U' R F'
-MarrickvilleAutumnSaturday2021,7.2,f,A,5,U R' U R U' R U' F' R2 F U,8, R U' F R U2 F2 U R'
-MassyPalaisOpenA2022,7.2,1,C,1,U' R F' U R U' R' U2 R' F' R,7, U F' U F2 U R' U
-MassyPalaisOpenA2022,7.2,1,C,2,R' U' R U R U' R2 U2 F U' F',7, F U' R F' R F U
-MassyPalaisOpenA2022,7.2,1,C,3,R' U F U' F U' R U R F U',7, F' R' U' F R' U F'
-MassyPalaisOpenA2022,7.2,1,C,4,R' F U2 R U R F' R2 U F' R2,6, U2 R' U F' U F2
-MassyPalaisOpenA2022,7.2,1,C,5,R U' F R U2 R' U' F U2 R U',9, U R' F2 R F2 U2 R U2 R'
-NordicChampionship2018,7.2,1,A,1,R U' R2 F R2 U2 R' U2 R' U' F,9, F2 R' F2 R U F2 R2 U' R'
-NordicChampionship2018,7.2,1,A,2,R U2 R2 U' R U' R F R2 F' R2,8, R F' U F' R2 F R2 F2
-NordicChampionship2018,7.2,1,A,3,R U' F' R2 F U' R2 U2 R2 U' F,6, U' R2 U F' U' R
-NordicChampionship2018,7.2,1,A,4,F' U2 F R U R U2 F' R' U' R,9, F' U2 R' U F2 U F2 U2 R'
-NordicChampionship2018,7.2,1,A,5,R' U2 F' R2 U2 R' U' R' U2 F U,4, U' F2 R' F
-QubesDonLieAnkara2022,7.2,f,A,1,R' U' F2 R2 F' R' U' R' F R2 F',8, U R U F R2 F2 U' R
-QubesDonLieAnkara2022,7.2,f,A,2,U' R U R' U F U' R U R U2,8, U' R' F U R' U2 R U2
-QubesDonLieAnkara2022,7.2,f,A,3,U' R' F' R2 U2 F' R2 U2 R2 U2 R',6, R U' R F R2 F'
-QubesDonLieAnkara2022,7.2,f,A,4,U2 R' F' U' R U2 F U2 R U' R,6, F R2 F' U' R2 F'
-QubesDonLieAnkara2022,7.2,f,A,5,R' U2 R U' R F2 R U2 R F' R2,8, U2 F' R F2 R2 U2 R U2
-QuitoSuperCube2025,7.2,1,A,1,U' R' U2 R U2 R' U R' U' F R',9, F2 R U2 R U2 F' U' F2 R'
-QuitoSuperCube2025,7.2,1,A,2,R' U2 R U' R' U' R2 U2 F' R2 U,7, U2 F U' F' R U2 R
-QuitoSuperCube2025,7.2,1,A,3,U' R U' R' U2 R2 F' U R U R',7, F2 R' U2 F U' R2 F2
-QuitoSuperCube2025,7.2,1,A,4,F U' R U R' U' F U R U2 R',5, F2 U F2 U2 F
-QuitoSuperCube2025,7.2,1,A,5,R' U2 F U2 F' U2 R U R' F R2,8, F R2 F' R U' R F' R'
-RomanianBreakingRecords2024,7.2,1,D,1,U R' U2 R2 U2 R2 F R2 U' R' F,8, F U' F U F U' R' U
-RomanianBreakingRecords2024,7.2,1,D,2,U R' U F' U' F R U' R U' F',5, F U F' U' F
-RomanianBreakingRecords2024,7.2,1,D,3,F U' R' U' R U' R' U2 R U2 R,7, R' F U F2 U' F2 U
-RomanianBreakingRecords2024,7.2,1,D,4,U' R' U2 F U2 R2 U2 F' U' F' R2,7, R2 F U F2 U2 R' U
-RomanianBreakingRecords2024,7.2,1,D,5,U R' F R U' R' U2 F U' F2 R2,9, F2 U' F2 R F R U2 R U'
-SpokaneSummer2023,7.2,1,A,1,U' R' F R U R' U' F' R U R',4, R2 F' U' F
-SpokaneSummer2023,7.2,1,A,2,U R' U2 R2 U2 F' U' F' U' R' U,8, F' U R F R' F' R U'
-SpokaneSummer2023,7.2,1,A,3,R' U2 R U2 R' U R F R U' R',8, U R U2 R2 U' R F' U2
-SpokaneSummer2023,7.2,1,A,4,U R' F R U2 R' U R U2 R' U',8, U R2 U R2 F U' F R2
-SpokaneSummer2023,7.2,1,A,5,R' U' F2 R2 U' F R U R U' R2,8, F U2 R' F U' F2 R2 U2
-SriLankanNationals2024,7.2,e,D,1,F2 R U2 R' F R2 U' R' U' R U',8, U' R' F2 U F U2 R' F
-SriLankanNationals2024,7.2,e,D,2,U2 R2 F U2 R U2 R' U' F U2 F',9, F' U2 F U' R2 F' R F U2
-SriLankanNationals2024,7.2,e,D,3,R2 F U' F2 U R U2 R' U' R U',9, U' F R' F U' F R2 F U
-SriLankanNationals2024,7.2,e,D,4,U' R' U' R' U2 F' R U' R' U' F,4, F' R' U F'
-SriLankanNationals2024,7.2,e,D,5,U' R' U' R U' R U' F' U' R' U2,6, R' U' F U' F' U
-TaiwanChampionship2016,7.2,f,A,1,R' F U2 F' U2 R U R' U' R F,9, R' U2 R F2 U' F' U F U'
-TaiwanChampionship2016,7.2,f,A,2,R' F R U R' F U' R U2 R U',7, R U F' R2 F' R2 F2
-TaiwanChampionship2016,7.2,f,A,3,R' U' F R U' R' U2 R F' U' R',5, R' F' R F R2
-TaiwanChampionship2016,7.2,f,A,4,U F U' F' U2 R2 U2 R' U2 R' F,8, U2 F' U' R' F2 U F' U2
-TaiwanChampionship2016,7.2,f,A,5,U R' U2 F R2 U' F U' F' U' R,7, R2 U' R U2 R2 F2 U
-TexasShowdown2015,7.2,1,B,1,U2 R' F R U2 R U' R' U' R' F',7, F2 R F U F U2 F'
-TexasShowdown2015,7.2,1,B,2,R' U' F' R2 U' F U' F U2 F' R',9, F2 R' F' R' U2 F2 R U' R2
-TexasShowdown2015,7.2,1,B,3,R' F R U' R' U' R F R2 U' R',8, R U2 R2 U R' U2 F' U2
-TexasShowdown2015,7.2,1,B,4,U R' U F R U R' U' R2 F' R',5, F R2 F' U' R
-TexasShowdown2015,7.2,1,B,5,U R U R U' R2 F U2 F U2 R2,7, F' U2 F' U F2 R F'
-UNSASpeedcubingPreNationals2023,7.2,1,B,1,F R' U2 F U R' U' R U' R' U',9, F U R2 F2 R U' F U R2
-UNSASpeedcubingPreNationals2023,7.2,1,B,2,R' F R U R' U' F U R' U' R,6, F R' F2 U R2 U2
-UNSASpeedcubingPreNationals2023,7.2,1,B,3,R' U' F R U R U' R2 U F' U',7, R' F2 R' F2 R F R2
-UNSASpeedcubingPreNationals2023,7.2,1,B,4,R F' U' R2 U2 F U2 R2 U2 R2 F,6, F' R2 F U' F R'
-UNSASpeedcubingPreNationals2023,7.2,1,B,5,R' U2 R U R U' R' U' F R2 U,8, U' R2 F' R' U' R U' R
-UsakOpen2018,7.2,1,A,1,R' U2 F R U' F2 R U' R' F U',9, F2 U2 R' F' U F' R' F U
-UsakOpen2018,7.2,1,A,2,U2 R U2 R2 U2 R2 U2 R2 U' R U',5, U R' U R' U2
-UsakOpen2018,7.2,1,A,3,U' R' F R2 U2 R2 U' F R2 F U2,9, U' F2 R U' F' R' F R F'
-UsakOpen2018,7.2,1,A,4,U' R' F' U' R2 U2 R2 F U2 F R2,5, U F2 R' U F'
-UsakOpen2018,7.2,1,A,5,R' F' U2 F R2 U2 R2 U' F U2 F,8, F U' F U F2 R2 U F
-VICStateChampionship2025,7.2,1,D,1,U R' U2 R2 U' R2 U F' U' R U',5, F R' F2 R2 U2
-VICStateChampionship2025,7.2,1,D,2,R' U2 F' R2 U' R2 F U R U2 R',6, R U' F2 R U F
-VICStateChampionship2025,7.2,1,D,3,U' R F U' R2 U' F' R' U' R' U',8, F R U' F2 U R2 F R
-VICStateChampionship2025,7.2,1,D,4,U2 R' F R2 U' F' R2 U' R2 F' U',8, U2 F' U' F2 U R' U2 F'
-VICStateChampionship2025,7.2,1,D,5,R2 F U2 R U' R F' R' U' R' U2,9, F R F U R' F2 U F' U
-WilerWurfelfest2019,7.2,1,A,1,U R' U' F' U' R U R U' R2 U',8, U F' U2 F U2 R U F
-WilerWurfelfest2019,7.2,1,A,2,R U R' F R2 F' R' U R U2 R2,7, R F' U' F R2 U' R'
-WilerWurfelfest2019,7.2,1,A,3,U F' R U R U2 F' R' U' R U',8, F2 R' U F2 R' U' R' U'
-WilerWurfelfest2019,7.2,1,A,4,U' R U' F' R' U' R' F R U' R,6, R' U2 R F R' U
-WilerWurfelfest2019,7.2,1,A,5,R U2 R2 U2 R2 F' U' R' U2 R' F,7, F' R' F' U2 R' U F'
-YJKL2023,7.2,1,A,1,U' R' F U2 F' U' R U R U R,7, U' R' F R' U2 R F'
-YJKL2023,7.2,1,A,2,R F R U2 R' F U2 F U' F U',8, F' U2 F' U2 F' R U R2
-YJKL2023,7.2,1,A,3,U F' R2 U R U R' U' F U' F,6, F2 R2 U R' U' F
-YJKL2023,7.2,1,A,4,R' U2 F R U' R' U2 R2 U2 R F',8, F R F R2 U2 R F R2
-YJKL2023,7.2,1,A,5,U R U' R' U2 R' U' R2 F' R' U',7, F2 U F R' U2 F' R'
-ZmigrodOpen2023,7.2,1,D,1,R U' F' R2 F R2 U2 R2 U2 R2 U',5, R U F2 U' R2
-ZmigrodOpen2023,7.2,1,D,2,F' U2 R U' R' U2 R U R U' F',7, F U2 R2 U' R2 U2 F
-ZmigrodOpen2023,7.2,1,D,3,R U' R' U' F R2 U2 R' U' R F,7, U R F' U F' R' U
-ZmigrodOpen2023,7.2,1,D,4,R' U F U' R U' R' U2 R' U R',9, F U2 F' R2 F' U F2 U' F'
-ZmigrodOpen2023,7.2,1,D,5,R' U R U R' U R' F R U R',8, F U2 R F2 U' R2 U2 F2
+CuboUaiBHOpen2019,6.8,f,A,1,U2 R' U F U' F R U' R' U2 R,5.0, F R2 U' R2 F'
+CuboUaiBHOpen2019,6.8,f,A,2,U2 R F' U2 F' R2 U' F R U R',8.0, R2 U R F R' F R' U2
+CuboUaiBHOpen2019,6.8,f,A,3,U2 R F' U' F' U2 R2 U2 F' U' R,7.0, R' U' R2 U' F R' U2
+CuboUaiBHOpen2019,6.8,f,A,4,U2 R' F' U' R U R' U' F' U' F',7.0, R' U' F U' R F2 U'
+CuboUaiBHOpen2019,6.8,f,A,5,R U2 F' R2 F2 R2 F' R' U R F',7.0, F U R U2 F' U F2
+SwisscubingCupV2025,6.8,1,A,1,U F' U' R2 U2 R2 U' F' R U' R,5.0, U' F2 U' R F'
+SwisscubingCupV2025,6.8,1,A,2,R' U2 R F U' R U2 R U' F' R',6.0, F2 U F U R U'
+SwisscubingCupV2025,6.8,1,A,3,R F' R' U2 R' F U' R2 U2 F' R2,8.0, F U2 R F U R2 F U2
+SwisscubingCupV2025,6.8,1,A,4,U R U2 R2 F U' R F U2 R U',7.0, U2 F' R U2 F2 R U'
+SwisscubingCupV2025,6.8,1,A,5,F' R2 U' R' U2 R F' U' R' U R,8.0, F2 U F R2 U' F' R2 F
+SydChamps2017,6.8,1,A,1,R' F U' R' U R' U2 F R U R,7.0, F2 U F' R F2 U' R2
+SydChamps2017,6.8,1,A,2,U2 R F' R' U' R U2 R2 U2 R U,8.0, F R' F' R U F' R2 F
+SydChamps2017,6.8,1,A,3,R' U2 F U' R2 U2 R2 U2 F' U2 R,8.0, R U2 F' R2 U F' U2 R
+SydChamps2017,6.8,1,A,4,U' R U' R' U' R2 F' U' R2 U' F,7.0, F2 U' R F' U' R U2
+SydChamps2017,6.8,1,A,5,U2 R F' U' R' U' R' U' F' U' R,4.0, R' U2 R2 F
+AZCubingOpen2018,7.0,c,A,1,R' U' R2 U' R2 U2 R' F2 R2 U2 R',8.0, R U2 F R2 F2 R U' R
+AZCubingOpen2018,7.0,c,A,2,U' R U2 R' U' R U' F' U' R' U',7.0, U' R F R' U R U2
+AZCubingOpen2018,7.0,c,A,3,R' F U F U' R2 U R' U' R U2,9.0, R' F U R2 F' U F2 R' U'
+AZCubingOpen2018,7.0,c,A,4,U R U' R' U R F' R2 F U R,6.0, U F2 R' U' R2 U'
+AZCubingOpen2018,7.0,c,A,5,R2 F' U2 R2 U' F R U R' F R,5.0, F R F2 R U'
+CubingBattleofKatipunan2024,7.0,f,E,1,R' U' R U R U' R2 U2 R2 U' F',6.0, F U' R' U' R' U'
+CubingBattleofKatipunan2024,7.0,f,E,2,R' F U2 F2 U' R U' R U2 R U',6.0, R2 U' R' F2 U2 R2
+CubingBattleofKatipunan2024,7.0,f,E,3,U' R' U F2 U' R U2 R U R' U',9.0, R2 F' U F2 U' R F2 R F2
+CubingBattleofKatipunan2024,7.0,f,E,4,U' R' U2 F' R2 F' R' U' R' U' R,6.0, R F' R2 U R F
+CubingBattleofKatipunan2024,7.0,f,E,5,R U' R2 F U2 R U F R U2 R',8.0, U2 R' U' F R2 U' F' R
+France2016,7.0,d,D,1,R' U' R U' R' U2 F' U' F' U' R2,6.0, R U2 R F' U' F'
+France2016,7.0,d,D,2,R F' U2 R2 U2 F R U' F U' R2,9.0, F U R U' F R F2 U' R2
+France2016,7.0,d,D,3,R' U' F' U' F' R2 F' R2 U' R2 U,7.0, F2 R2 F R' F U2 R
+France2016,7.0,d,D,4,U' R' U2 R U R2 U' F U F R,8.0, R' U F' R F2 U' R F
+France2016,7.0,d,D,5,R' F' R U R U2 R' U2 R U R',5.0, F' R' F2 R F2
+FrankfurtCubeDays2018,7.0,2,B,1,R' U' R2 U2 R' U' R' U2 F' U2 F,8.0, R F' U F U R' U2 R
+FrankfurtCubeDays2018,7.0,2,B,2,R' F' U' R U2 R U R U2 F' R',7.0, U2 R F U' R2 U' F
+FrankfurtCubeDays2018,7.0,2,B,3,U R' U2 F U2 R U' R' F2 U2 R2,9.0, F2 U2 F R2 U' R U R' U'
+FrankfurtCubeDays2018,7.0,2,B,4,R' F2 R2 U2 F' R2 U' R U' R U',6.0, F2 R2 U' F' R2 F'
+FrankfurtCubeDays2018,7.0,2,B,5,R F' R' U R F R U' R' U' F',5.0, R' U' F R F
+IdahoSpeedcubing2016,7.0,f,A,1,U' R' F U' F' U2 F U' F R' U2,8.0, F' U R' U R' U R2 F'
+IdahoSpeedcubing2016,7.0,f,A,2,U R' F R' U2 R U' R' U2 R U2,7.0, R U2 R F2 R2 F' R'
+IdahoSpeedcubing2016,7.0,f,A,3,R' F R2 U2 R' U R' U F' U' R2,7.0, F U2 F U F2 U2 F'
+IdahoSpeedcubing2016,7.0,f,A,4,U' R F' U2 R' U' R U2 F' U2 R2,8.0, F2 U2 F' R F' R2 U' R'
+IdahoSpeedcubing2016,7.0,f,A,5,U2 R U' R' U' R' U2 F' R2 U' R',5.0, U' R' F' R' U2
+Maryland2017,7.0,1,D,1,U' R2 F U2 R U2 R2 U' R U2 R,9.0, F2 R F2 R U2 R F U2 F2
+Maryland2017,7.0,1,D,2,R' F' R U R U2 R' U' R2 F R,6.0, U R F2 R' F U'
+Maryland2017,7.0,1,D,3,R U2 R2 U R U R U2 F' U' R',6.0, F' U' R F U R'
+Maryland2017,7.0,1,D,4,R U' F' R' U2 R U2 R' F' R U,5.0, F U2 F R2 F'
+Maryland2017,7.0,1,D,5,U F R U' R2 F U2 F R U' R,9.0, U F U R' U2 R' U F' U2
+NationalCubingRegionOpen2016,7.0,d,A,1,R U2 R2 U' F R U2 R' U' F' U,6.0, U' R' F2 R' U2 R
+NationalCubingRegionOpen2016,7.0,d,A,2,U R' U2 F U2 R U2 R' F R U2,7.0, F R U F U2 R2 U'
+NationalCubingRegionOpen2016,7.0,d,A,3,R' U' F' U2 R2 U' F' R' U' R' U',7.0, F R2 F2 R' F' R F'
+NationalCubingRegionOpen2016,7.0,d,A,4,U' R' U R U2 R' F' U2 F R' U',8.0, R' F R2 F' R2 U R2 U
+NationalCubingRegionOpen2016,7.0,d,A,5,U' R' F' U' F' U2 F R U' R U',7.0, U R2 U2 F U F2 R
+ZhengzhouSummerIII2025,7.0,c,D,1,R F' U2 R2 U2 F R2 U2 R' U R',5.0, R U' R' F2 R'
+ZhengzhouSummerIII2025,7.0,c,D,2,R U' R2 U2 R2 U2 R' U R' F U,7.0, F R F2 U R2 F U
+ZhengzhouSummerIII2025,7.0,c,D,3,U' R' F' U R U R F' R' U' R',6.0, R2 F2 U R F' R2
+ZhengzhouSummerIII2025,7.0,c,D,4,R' F' R U' R F' U2 R2 F R U,9.0, F' R' U2 R' U F' R F2 U'
+ZhengzhouSummerIII2025,7.0,c,D,5,R' U2 F' R U' R F U2 F U' F',8.0, F U' R F' U F' R' U2
+150thCubeMeetinginBrest2017,7.2,1,C,1,U' F' R' U R' F' R U R F' R2,6.0, R2 F2 U2 F R2 F'
+150thCubeMeetinginBrest2017,7.2,1,C,2,U' R' U' F U' F' R U R2 U' F,7.0, R U2 F R F2 U2 F'
+150thCubeMeetinginBrest2017,7.2,1,C,3,R' U' R U R' U2 F R' U' R U,9.0, F' R F' U2 R U2 R' U2 R
+150thCubeMeetinginBrest2017,7.2,1,C,4,R' U2 F R2 F' U' R2 U' F U2 F,9.0, R' U2 R' U R U2 R2 F2 R
+150thCubeMeetinginBrest2017,7.2,1,C,5,U2 R' F U R U2 R' U R2 U' R',5.0, F' R U2 F2 R2
+AlbaceteAgoraOpen2024,7.2,2,B,1,U2 R' F R2 U' R' F U2 R' U R',8.0, F' U F U R2 F2 R' F
+AlbaceteAgoraOpen2024,7.2,2,B,2,U2 R U2 F' R' U R' F R U2 R,7.0, F U' F R' F' R' U2
+AlbaceteAgoraOpen2024,7.2,2,B,3,R' U2 F' U2 R2 U' F' R' U R' U,7.0, U' R U' F2 U' F' U
+AlbaceteAgoraOpen2024,7.2,2,B,4,U R U' R' U' F2 U2 F U2 R U',6.0, R' U2 R' F2 R F'
+AlbaceteAgoraOpen2024,7.2,2,B,5,U2 R' F2 R U R' U' R U' R F',8.0, R U2 R2 F R' F2 R' U'
+BillingsSpeedcubing2023,7.2,1,A,1,R' U2 F U2 R2 U2 F' R2 F R2 U2,5.0, R2 F' U2 F2 R
+BillingsSpeedcubing2023,7.2,1,A,2,U2 R2 F U2 R' F R U2 R' U2 R,8.0, F' R' F2 R' F2 U R' F'
+BillingsSpeedcubing2023,7.2,1,A,3,R' U R2 U' R2 U' R U F R U2,8.0, U R2 F R F2 U' F2 U2
+BillingsSpeedcubing2023,7.2,1,A,4,R F' U' R' U R U2 R2 U F U2,8.0, F R' F2 U F' R U R2
+BillingsSpeedcubing2023,7.2,1,A,5,R U' R U' R2 F U2 R2 U2 F' R',7.0, R F2 R2 U' R' U R'
+BretzelOpen2023,7.2,f,A,1,U2 R' U F' R U' R' U' F' R2 U2,9.0, F2 R2 U R' F R2 F' U2 F2
+BretzelOpen2023,7.2,f,A,2,U2 R F U' R U' R' U2 F' R2 U',8.0, U R F U' F U F2 U2
+BretzelOpen2023,7.2,f,A,3,F R U R' U' F U' R U R' U',4.0, U F' U F2
+BretzelOpen2023,7.2,f,A,4,U2 R' F' R' U' R2 F' R' U' R' U',8.0, U R F' U R U' R2 F'
+BretzelOpen2023,7.2,f,A,5,U R F U' F U' R U R' F U2,7.0, F2 U2 F' R' U' F2 R'
+BrisbaneIsBackOn2021,7.2,f,A,1,R' U' R2 F U' F U' R2 U' R2 U2,6.0, U' F U R' U2 F
+BrisbaneIsBackOn2021,7.2,f,A,2,U R' U' R U R F' U2 R' U2 R,7.0, F U R2 F R2 F' U
+BrisbaneIsBackOn2021,7.2,f,A,3,U' R U' F U2 R U' R U' R' U2,6.0, U F' U R' U2 F'
+BrisbaneIsBackOn2021,7.2,f,A,4,U' R' U' F' U2 F R U' R' F2 R2,8.0, R2 F2 R U2 F R2 F' U
+BrisbaneIsBackOn2021,7.2,f,A,5,U R' F U R2 F' U' R2 U2 R U,9.0, F' R U2 F' R' U2 R F2 R'
+CanadianChampionship2019,7.2,d,B,1,R' F U' R2 U' F R U' R' F' R,9.0, F U2 R F' U' R U F' R
+CanadianChampionship2019,7.2,d,B,2,U' R' F R U R F' R' U R' U',8.0, U R U' R F2 U' F' R'
+CanadianChampionship2019,7.2,d,B,3,R' F U2 R2 U2 R' U R' F' R U',7.0, U' R F2 R' F' R2 U2
+CanadianChampionship2019,7.2,d,B,4,R F U' F U' R U2 R' U' F' U2,8.0, F U' R' U' R F2 R' U
+CanadianChampionship2019,7.2,d,B,5,R F' U' F' R2 F R U R' F' U',4.0, U F' R2 F2
+CrossstraitCubingExchange2019,7.2,1,C,1,U' R' F' U2 F U2 R2 U2 R2 U' F,6.0, R U F2 U' R2 F'
+CrossstraitCubingExchange2019,7.2,1,C,2,R' F' U' R U2 R' U2 F' R2 U2 R,8.0, R U2 R U2 R2 F' U' F'
+CrossstraitCubingExchange2019,7.2,1,C,3,U2 R' F R' F R U R' U' R F,8.0, F2 R' U' F2 R F' U' F
+CrossstraitCubingExchange2019,7.2,1,C,4,U R' F' U2 R U2 R' U F U2 R,7.0, U' F R U R2 F' U
+CrossstraitCubingExchange2019,7.2,1,C,5,R U' F' R2 U' F U2 F U2 F R2,7.0, F R2 F2 R F U F
+CuencaCubing2022,7.2,1,C,1,R' U' F' R2 U' F' U' R' U R U',6.0, U R2 U' R2 F' R'
+CuencaCubing2022,7.2,1,C,2,R' U2 F U' F U' R' U R2 F' U',9.0, U2 R2 F2 R' F' R' U R2 F
+CuencaCubing2022,7.2,1,C,3,U' R' U R2 F' U' R2 U' F U' F,9.0, R F2 R' F2 U R2 U R' U2
+CuencaCubing2022,7.2,1,C,4,U2 R U' F' U2 R' U' R' U F2 R,5.0, U2 F' U2 R F2
+CuencaCubing2022,7.2,1,C,5,F' U' R2 U2 F R2 U2 R' U R' F,7.0, F' U' F U' R U R'
+FitchburgFingertricks2025,7.2,1,C,1,F' R2 U' R2 U' F R U2 R' F R,8.0, F R F R' U F2 R' U2
+FitchburgFingertricks2025,7.2,1,C,2,F U' F R U2 R' U2 R U R' F',4.0, U2 F U2 F2
+FitchburgFingertricks2025,7.2,1,C,3,F U' F U' R2 U' R2 U2 R2 U2 R',7.0, R' U' R2 U F' U F'
+FitchburgFingertricks2025,7.2,1,C,4,U R U2 R2 F' U' F U R2 U' R2,8.0, R2 U F R F' U R' U'
+FitchburgFingertricks2025,7.2,1,C,5,U2 R U2 R' U R' F2 U' F' R2 U',9.0, F2 U' R F' R F R2 F2 U2
+FuengirolaCubea2018,7.2,1,C,1,U2 F R2 F' R2 U2 F U' R U2 R,8.0, F' R F U' F2 R' U R2
+FuengirolaCubea2018,7.2,1,C,2,U R F U' R2 U2 R2 F U2 R U',4.0, F U F2 U'
+FuengirolaCubea2018,7.2,1,C,3,R' U2 R U R' U F2 U2 R2 U2 R2,8.0, U2 R' F2 R' F' R F' U2
+FuengirolaCubea2018,7.2,1,C,4,R' U2 F U2 F' U' R2 U2 R2 U' R,9.0, U2 F R2 U2 F U' F2 U' R2
+FuengirolaCubea2018,7.2,1,C,5,F R U' R' U2 R2 F' R2 F' U' F,7.0, R U' R F' U R2 F'
+HarbinOpen2025,7.2,d,B,1,U' R U' R2 U2 R U' R' U2 R U2,7.0, U2 R' U R U' R U2
+HarbinOpen2025,7.2,d,B,2,U2 R F' R2 U2 F U2 R2 U' R2 F2,8.0, F2 R2 U' F U2 F R' U2
+HarbinOpen2025,7.2,d,B,3,R' F R F' U2 R U2 R' F' U' R,6.0, R2 F' R U' F U'
+HarbinOpen2025,7.2,d,B,4,U' R' F R U' R2 F U' F' U2 R,7.0, U2 F' R F R2 U' F
+HarbinOpen2025,7.2,d,B,5,U2 R2 F U R U R' U R U' R',8.0, U R U2 R U2 R' F R2
+IndianaChampionship2024,7.2,1,C,1,U2 R' F R U' R' F U R U F,8.0, R U2 F U F2 U R2 U2
+IndianaChampionship2024,7.2,1,C,2,F U2 F U' R2 U2 R2 F U2 R U2,7.0, U F U F2 R U2 F'
+IndianaChampionship2024,7.2,1,C,3,R' F U R U R U' F' U' R' U2,5.0, U F U' F' R2
+IndianaChampionship2024,7.2,1,C,4,U' R' F' R U' R2 U2 R2 U' R' U,8.0, F R U2 R2 F U' F U
+IndianaChampionship2024,7.2,1,C,5,U2 R' F U2 F' R2 U' R' U' F2 R,8.0, F U R' F R2 F' R' U
+MarrickvilleAutumnSaturday2021,7.2,f,A,1,R' U R' U2 F' R U' R U' R2 U',8.0, R2 U R2 F' U F2 U2 R2
+MarrickvilleAutumnSaturday2021,7.2,f,A,2,U R U2 R' F' U' R' U2 F U' R2,7.0, R2 U F R' F2 U2 F'
+MarrickvilleAutumnSaturday2021,7.2,f,A,3,R' F R U2 F' R2 F R U R U2,7.0, R U2 F U2 F U2 F'
+MarrickvilleAutumnSaturday2021,7.2,f,A,4,R' U' F U2 F2 U' F R F' U' R',6.0, R U F2 U' R F'
+MarrickvilleAutumnSaturday2021,7.2,f,A,5,U R' U R U' R U' F' R2 F U,8.0, R U' F R U2 F2 U R'
+MassyPalaisOpenA2022,7.2,1,C,1,U' R F' U R U' R' U2 R' F' R,7.0, U F' U F2 U R' U
+MassyPalaisOpenA2022,7.2,1,C,2,R' U' R U R U' R2 U2 F U' F',7.0, F U' R F' R F U
+MassyPalaisOpenA2022,7.2,1,C,3,R' U F U' F U' R U R F U',7.0, F' R' U' F R' U F'
+MassyPalaisOpenA2022,7.2,1,C,4,R' F U2 R U R F' R2 U F' R2,6.0, U2 R' U F' U F2
+MassyPalaisOpenA2022,7.2,1,C,5,R U' F R U2 R' U' F U2 R U',9.0, U R' F2 R F2 U2 R U2 R'
+NordicChampionship2018,7.2,1,A,1,R U' R2 F R2 U2 R' U2 R' U' F,9.0, F2 R' F2 R U F2 R2 U' R'
+NordicChampionship2018,7.2,1,A,2,R U2 R2 U' R U' R F R2 F' R2,8.0, R F' U F' R2 F R2 F2
+NordicChampionship2018,7.2,1,A,3,R U' F' R2 F U' R2 U2 R2 U' F,6.0, U' R2 U F' U' R
+NordicChampionship2018,7.2,1,A,4,F' U2 F R U R U2 F' R' U' R,9.0, F' U2 R' U F2 U F2 U2 R'
+NordicChampionship2018,7.2,1,A,5,R' U2 F' R2 U2 R' U' R' U2 F U,4.0, U' F2 R' F
+QubesDonLieAnkara2022,7.2,f,A,1,R' U' F2 R2 F' R' U' R' F R2 F',8.0, U R U F R2 F2 U' R
+QubesDonLieAnkara2022,7.2,f,A,2,U' R U R' U F U' R U R U2,8.0, U' R' F U R' U2 R U2
+QubesDonLieAnkara2022,7.2,f,A,3,U' R' F' R2 U2 F' R2 U2 R2 U2 R',6.0, R U' R F R2 F'
+QubesDonLieAnkara2022,7.2,f,A,4,U2 R' F' U' R U2 F U2 R U' R,6.0, F R2 F' U' R2 F'
+QubesDonLieAnkara2022,7.2,f,A,5,R' U2 R U' R F2 R U2 R F' R2,8.0, U2 F' R F2 R2 U2 R U2
+QuitoSuperCube2025,7.2,1,A,1,U' R' U2 R U2 R' U R' U' F R',9.0, F2 R U2 R U2 F' U' F2 R'
+QuitoSuperCube2025,7.2,1,A,2,R' U2 R U' R' U' R2 U2 F' R2 U,7.0, U2 F U' F' R U2 R
+QuitoSuperCube2025,7.2,1,A,3,U' R U' R' U2 R2 F' U R U R',7.0, F2 R' U2 F U' R2 F2
+QuitoSuperCube2025,7.2,1,A,4,F U' R U R' U' F U R U2 R',5.0, F2 U F2 U2 F
+QuitoSuperCube2025,7.2,1,A,5,R' U2 F U2 F' U2 R U R' F R2,8.0, F R2 F' R U' R F' R'
+RomanianBreakingRecords2024,7.2,1,D,1,U R' U2 R2 U2 R2 F R2 U' R' F,8.0, F U' F U F U' R' U
+RomanianBreakingRecords2024,7.2,1,D,2,U R' U F' U' F R U' R U' F',5.0, F U F' U' F
+RomanianBreakingRecords2024,7.2,1,D,3,F U' R' U' R U' R' U2 R U2 R,7.0, R' F U F2 U' F2 U
+RomanianBreakingRecords2024,7.2,1,D,4,U' R' U2 F U2 R2 U2 F' U' F' R2,7.0, R2 F U F2 U2 R' U
+RomanianBreakingRecords2024,7.2,1,D,5,U R' F R U' R' U2 F U' F2 R2,9.0, F2 U' F2 R F R U2 R U'
+SpokaneSummer2023,7.2,1,A,1,U' R' F R U R' U' F' R U R',4.0, R2 F' U' F
+SpokaneSummer2023,7.2,1,A,2,U R' U2 R2 U2 F' U' F' U' R' U,8.0, F' U R F R' F' R U'
+SpokaneSummer2023,7.2,1,A,3,R' U2 R U2 R' U R F R U' R',8.0, U R U2 R2 U' R F' U2
+SpokaneSummer2023,7.2,1,A,4,U R' F R U2 R' U R U2 R' U',8.0, U R2 U R2 F U' F R2
+SpokaneSummer2023,7.2,1,A,5,R' U' F2 R2 U' F R U R U' R2,8.0, F U2 R' F U' F2 R2 U2
+SriLankanNationals2024,7.2,e,D,1,F2 R U2 R' F R2 U' R' U' R U',8.0, U' R' F2 U F U2 R' F
+SriLankanNationals2024,7.2,e,D,2,U2 R2 F U2 R U2 R' U' F U2 F',9.0, F' U2 F U' R2 F' R F U2
+SriLankanNationals2024,7.2,e,D,3,R2 F U' F2 U R U2 R' U' R U',9.0, U' F R' F U' F R2 F U
+SriLankanNationals2024,7.2,e,D,4,U' R' U' R' U2 F' R U' R' U' F,4.0, F' R' U F'
+SriLankanNationals2024,7.2,e,D,5,U' R' U' R U' R U' F' U' R' U2,6.0, R' U' F U' F' U
+TaiwanChampionship2016,7.2,f,A,1,R' F U2 F' U2 R U R' U' R F,9.0, R' U2 R F2 U' F' U F U'
+TaiwanChampionship2016,7.2,f,A,2,R' F R U R' F U' R U2 R U',7.0, R U F' R2 F' R2 F2
+TaiwanChampionship2016,7.2,f,A,3,R' U' F R U' R' U2 R F' U' R',5.0, R' F' R F R2
+TaiwanChampionship2016,7.2,f,A,4,U F U' F' U2 R2 U2 R' U2 R' F,8.0, U2 F' U' R' F2 U F' U2
+TaiwanChampionship2016,7.2,f,A,5,U R' U2 F R2 U' F U' F' U' R,7.0, R2 U' R U2 R2 F2 U
+TexasShowdown2015,7.2,1,B,1,U2 R' F R U2 R U' R' U' R' F',7.0, F2 R F U F U2 F'
+TexasShowdown2015,7.2,1,B,2,R' U' F' R2 U' F U' F U2 F' R',9.0, F2 R' F' R' U2 F2 R U' R2
+TexasShowdown2015,7.2,1,B,3,R' F R U' R' U' R F R2 U' R',8.0, R U2 R2 U R' U2 F' U2
+TexasShowdown2015,7.2,1,B,4,U R' U F R U R' U' R2 F' R',5.0, F R2 F' U' R
+TexasShowdown2015,7.2,1,B,5,U R U R U' R2 F U2 F U2 R2,7.0, F' U2 F' U F2 R F'
+UNSASpeedcubingPreNationals2023,7.2,1,B,1,F R' U2 F U R' U' R U' R' U',9.0, F U R2 F2 R U' F U R2
+UNSASpeedcubingPreNationals2023,7.2,1,B,2,R' F R U R' U' F U R' U' R,6.0, F R' F2 U R2 U2
+UNSASpeedcubingPreNationals2023,7.2,1,B,3,R' U' F R U R U' R2 U F' U',7.0, R' F2 R' F2 R F R2
+UNSASpeedcubingPreNationals2023,7.2,1,B,4,R F' U' R2 U2 F U2 R2 U2 R2 F,6.0, F' R2 F U' F R'
+UNSASpeedcubingPreNationals2023,7.2,1,B,5,R' U2 R U R U' R' U' F R2 U,8.0, U' R2 F' R' U' R U' R
+UsakOpen2018,7.2,1,A,1,R' U2 F R U' F2 R U' R' F U',9.0, F2 U2 R' F' U F' R' F U
+UsakOpen2018,7.2,1,A,2,U2 R U2 R2 U2 R2 U2 R2 U' R U',5.0, U R' U R' U2
+UsakOpen2018,7.2,1,A,3,U' R' F R2 U2 R2 U' F R2 F U2,9.0, U' F2 R U' F' R' F R F'
+UsakOpen2018,7.2,1,A,4,U' R' F' U' R2 U2 R2 F U2 F R2,5.0, U F2 R' U F'
+UsakOpen2018,7.2,1,A,5,R' F' U2 F R2 U2 R2 U' F U2 F,8.0, F U' F U F2 R2 U F
+VICStateChampionship2025,7.2,1,D,1,U R' U2 R2 U' R2 U F' U' R U',5.0, F R' F2 R2 U2
+VICStateChampionship2025,7.2,1,D,2,R' U2 F' R2 U' R2 F U R U2 R',6.0, R U' F2 R U F
+VICStateChampionship2025,7.2,1,D,3,U' R F U' R2 U' F' R' U' R' U',8.0, F R U' F2 U R2 F R
+VICStateChampionship2025,7.2,1,D,4,U2 R' F R2 U' F' R2 U' R2 F' U',8.0, U2 F' U' F2 U R' U2 F'
+VICStateChampionship2025,7.2,1,D,5,R2 F U2 R U' R F' R' U' R' U2,9.0, F R F U R' F2 U F' U
+WilerWurfelfest2019,7.2,1,A,1,U R' U' F' U' R U R U' R2 U',8.0, U F' U2 F U2 R U F
+WilerWurfelfest2019,7.2,1,A,2,R U R' F R2 F' R' U R U2 R2,7.0, R F' U' F R2 U' R'
+WilerWurfelfest2019,7.2,1,A,3,U F' R U R U2 F' R' U' R U',8.0, F2 R' U F2 R' U' R' U'
+WilerWurfelfest2019,7.2,1,A,4,U' R U' F' R' U' R' F R U' R,6.0, R' U2 R F R' U
+WilerWurfelfest2019,7.2,1,A,5,R U2 R2 U2 R2 F' U' R' U2 R' F,7.0, F' R' F' U2 R' U F'
+YJKL2023,7.2,1,A,1,U' R' F U2 F' U' R U R U R,7.0, U' R' F R' U2 R F'
+YJKL2023,7.2,1,A,2,R F R U2 R' F U2 F U' F U',8.0, F' U2 F' U2 F' R U R2
+YJKL2023,7.2,1,A,3,U F' R2 U R U R' U' F U' F,6.0, F2 R2 U R' U' F
+YJKL2023,7.2,1,A,4,R' U2 F R U' R' U2 R2 U2 R F',8.0, F R F R2 U2 R F R2
+YJKL2023,7.2,1,A,5,U R U' R' U2 R' U' R2 F' R' U',7.0, F2 U F R' U2 F' R'
+ZmigrodOpen2023,7.2,1,D,1,R U' F' R2 F R2 U2 R2 U2 R2 U',5.0, R U F2 U' R2
+ZmigrodOpen2023,7.2,1,D,2,F' U2 R U' R' U2 R U R U' F',7.0, F U2 R2 U' R2 U2 F
+ZmigrodOpen2023,7.2,1,D,3,R U' R' U' F R2 U2 R' U' R F,7.0, U R F' U F' R' U
+ZmigrodOpen2023,7.2,1,D,4,R' U F U' R U' R' U2 R' U R',9.0, F U2 F' R2 F' U F2 U' F'
+ZmigrodOpen2023,7.2,1,D,5,R' U R U R' U R' F R U R',8.0, F U2 R F2 U' R2 U2 F2
