@@ -1,0 +1,52 @@
+competition_id,round_type_id,group_id,is_extra,scramble_num,scramble,optimal_tickcount,tickcount_solution
+OsloOpen2025,1,B,0,5,UR1+ DR1- DL2+ UL3- U6+ R1+ D1- L1+ ALL2- y2 U2+ R1+ D0+ L0+ ALL1-,10,UR1- U3- y2 ul2- R1+ UR2- \1+
+MinskWinter2014,c,B,1,2,UR0+ DR0+ DL2- UL2+ U4- R0+ D3+ L1- ALL0+ y2 U0+ R3+ D3+ L0+ ALL1-,11,DL1- U2+ L2+ ALL1- y2 dl2- DR3-
+ImbaburaOpen2025,c,A,1,2,UR3+ DR2+ DL3- UL0+ U2- R1- D3+ L2+ ALL4- y2 U0+ R3+ D3+ L0+ ALL2-,12,UR2- DR2- U1+ L1+ ALL2+ y2 dr1- DR3-
+SzczecinWinter2022,d,A,0,3,UR1- DR3- DL2- UL5- U6+ R3+ D4+ L5- ALL6+ y2 U2+ R1+ D2- L1+ ALL3- DL UL,12,DR1+ dr1- /3- y2 ul2+ ur1- D2+ UL1- UR1-
+ParlaOpen2025,e,B,0,3,UR1- DR4+ DL0+ UL6+ U6+ R5- D4- L4+ ALL5- y2 U3- R3- D0+ L0+ ALL3+,12,UR1+ R1+ L2+ dr1- /4+ y2 UR3+
+LandeOpen2018,f,B,1,1,UR4- DR0+ DL1+ UL2+ U1+ R2+ D1- L3- ALL3- y2 U2+ R0+ D1+ L5- ALL4- DL UL,13,UR1+ R1+ ur1+ dr1+ /1+ y2 dr1+ L4- UL2- DL1-
+SlovakianOpen2017,c,B,0,5,UR3+ DR2+ DL1- UL1- U1+ R6+ D2- L1+ ALL3+ y2 U0+ R0+ D1- L2- ALL2+ DR DL,13,UR3- DL1+ R4+ dr1- ALL1- y2 D1- DL2+
+MathSocOpen2016,c,C,0,2,UR1+ DR0+ DL1- UL2- U1+ R1- D2+ L3+ ALL5+ y2 U0+ R2- D2- L1+ ALL2+ DR UL,13,D1- ur3- dr2- dl1+ ALL3- y2 L1- DR2+
+ColegioSagradoCorazondeJesus2023,d,B,0,1,UR2+ DR2+ DL2+ UL0+ U1+ R3- D3- L2- ALL4- y2 U1- R1- D1- L3- ALL4+ DR DL UL,13,DR1- U3- ALL3- y2 ur1- L2+ UL1+ DR1+ /1-
+SelangorCubeOpen2019,1,A,0,2,UR5- DR0+ DL1- UL1- U5+ R1+ D1+ L1+ ALL4- y2 U3+ R0+ D1+ L5+ ALL3- DR,13,UL1+ R4+ dl1- \1- y2 D1- L2- UL3-
+LuzonChampionship2024,d,B,0,5,UR2- DR1- DL3+ UL2- U3+ R4+ D1+ L1+ ALL6+ y2 U3+ R3+ D1- L1+ ALL6+,13,DR1- DL2- U1+ ur1+ y2 dr1+ ur2+ D1+ R1- UL1- UR2-
+OculusCubeOpen2024,d,B,1,1,UR2+ DR2+ DL3- UL1+ U0+ R4- D1+ L3+ ALL4- y2 U0+ R2+ D0+ L1- ALL2-,13,UL1- U2- dl4+ ul1+ y2 R1- DL1+ DR1- /2+
+OsloOpen2024,2,B,1,2,UR1+ DR4+ DL0+ UL3+ U2- R4- D2- L3- ALL5- y2 U1- R1- D3+ L1+ ALL5+,13,UR1- U1- D2- y2 ur2- D3- L1- UR1+ \2-
+LongBeachSpring2022,d,A,0,3,UR1+ DR0+ DL0+ UL4+ U5- R5- D2- L4- ALL3+ y2 U2- R1- D1- L3- ALL4+ DR,13,DR2+ R2+ dr3+ ALL1+ y2 D1- UL1+ DL2+ UR1+
+5thGuwahatiOpen2019,c,A,0,3,UR3+ DR2+ DL2- UL1+ U3- R4- D3- L1- ALL5- y2 U2- R1- D2- L3- ALL3+ DR DL,13,UR1- DL2+ D1+ ALL2- y2 dr1- UL1+ DL2+ UR1+ ALL2+
+PugetSoundWinterTwo2017,d,B,1,1,UR0+ DR5+ DL0+ UL3+ U2+ R4- D5- L2- ALL2+ y2 U2+ R2+ D0+ L1+ ALL1- DR,13,UR1- UL1- U3- ul1+ /3+ y2 ur1- R1- UL1- UR1-
+EugeneCubingSpring2025,d,B,0,2,UR0+ DR2- DL4- UL3+ U5- R0+ D3+ L1- ALL2+ y2 U2- R1+ D1+ L2- ALL3+,13,UR1+ DR1+ DL2+ U1+ ul1- y2 dl3- UL2+ DR1- /1+
+MinnesotaChampionship2024,1,A,1,1,UR2- DR6+ DL0+ UL2- U5+ R2- D6+ L2+ ALL5+ y2 U4+ R2+ D2+ L4+ ALL5+,13,UR1- R1- ul4- y2 dr1+ UL2- DL2- UR2-
+MorumbiOpen2025,f,A,0,4,UR0+ DR1- DL1+ UL0+ U0+ R2+ D2+ L2- ALL1+ y2 U2- R2- D4+ L1- ALL3+,13,DR1- D1- L1+ /2- y2 ul1- D4- L1+ UR2+
+WorldsWarmupWoodinville2025,d,B,1,1,UR2+ DR1- DL2+ UL3- U2+ R1+ D2- L0+ ALL1+ y2 U1+ R1- D3- L3+ ALL1+,13,UR2- DR1+ UL1+ R1- dr1- y2 D1+ L3- DR2+ UR1-
+PlazaRio2Open2025,d,B,1,2,UR4- DR1- DL1- UL2+ U4+ R4+ D0+ L1- ALL0+ y2 U1- R2+ D0+ L1- ALL0+,13,DR1+ DL1+ UL2- L1+ dl4- y2 R2- U1+ L1+
+SouthGermany2025,d,A,1,2,UR1- DR2+ DL1- UL1+ U1+ R1- D5- L1- ALL1- y2 U1+ R2- D3- L1+ ALL0+,13,DL2+ UL1- D2+ ul2+ ALL1+ y2 ul1+ D1+ UL1- DR2+
+GlasgowSideEventsSpring2025,d,C,1,1,UR2+ DR1- DL1- UL0+ U5- R3- D5+ L1+ ALL3+ y2 U3- R1+ D2+ L3- ALL3+,13,UR2+ U1+ D3- ul1- y2 dr1- D1- UL3+ DR1-
+NubOpenMissionViejoSpring2025,1,A,0,2,UR5+ DR1- DL3+ UL0+ U6+ R3- D2- L4- ALL4- y2 U1- R2- D1+ L2- ALL5+,13,UL1+ R1- y2 dr2- R1+ L3+ DL1- UR1+ /3-
+FinnishChampionship2024,2,A,1,2,UR2+ DR0+ DL1+ UL2+ U2- R1+ D3+ L2- ALL2- y2 U0+ R0+ D0+ L2- ALL2-,13,UR2- DR1- DL1- D2- dr3+ y2 dl1+ ur1+ L2+
+CFLGoesSideways2019,f,B,1,2,UR4+ DR2+ DL1+ UL1+ U6+ R4- D2- L3- ALL4+ y2 U2- R3- D1- L1+ ALL2+ UR,14,DR2- UL1+ D1+ dl3+ y2 dr1- L1- DR1+ UR2+ ALL2+
+IndianNationals2019,d,B,0,4,UR3+ DR1+ DL1+ UL1+ U0+ R1- D4- L4- ALL2+ y2 U1- R1- D2- L2+ ALL1+ DL,14,UR3- DL2+ U1- ur2+ /1+ y2 D1+ U1+ L2- DR1+
+WC2023,d,A,1,2,UR0+ DR1+ DL0+ UL2- U1+ R2- D2- L2+ ALL0+ y2 U5- R5+ D0+ L1- ALL3- UR DL,14,DR1+ U1+ y2 ur1+ U2- L1+ UR5- \3-
+BrizzonSideOpenV2022,d,D,1,2,UR3+ DR0+ DL2+ UL3- U1+ R3- D2- L2+ ALL5+ y2 U1- R1- D0+ L3+ ALL4+ DR UL,14,UL1- dr5- \1+ y2 ul1- dr2- L3- UR1+
+ABHC2018,c,B,0,4,UR1+ DR1- DL6+ UL0+ U4+ R1- D2- L1- ALL2+ y2 U1+ R1+ D1- L0+ ALL1+ UR DL,14,DR1+ DL4- UL1- U4- y2 ul1- D1+ UR1- /1-
+CubingUndertheStars2018,c,A,0,4,UR3+ DR0+ DL2+ UL1- U0+ R1+ D2+ L1- ALL0+ y2 U2+ R1+ D2- L1+ ALL2- DL,14,UR2- R2- D4- \2+ y2 D2+ UL1- UR1-
+ABHC2018,c,A,0,5,UR3+ DR1- DL1+ UL2+ U1+ R2+ D0+ L3- ALL1+ y2 U1+ R2- D0+ L2+ ALL1- UR DL UL,14,UR4- U2- y2 dl2- R1+ UL1- DL1- DR1+ ALL2+
+IvreaBacktoSquareOne2024,c,B,0,1,UR1+ DR1+ DL1+ UL2- U2+ R1- D3- L5+ ALL2+ y2 U1+ R2- D1- L2+ ALL2+,14,UR1- D1+ L4- dr2- y2 ur1- R1+ U1- L2- DR1+
+WelcometoBishkek2024,f,A,0,3,UR2- DR0+ DL2+ UL1- U3+ R2+ D1+ L6+ ALL3- y2 U5+ R0+ D0+ L2+ ALL3-,14,DL2- D1- L5- y2 dl1+ U3- UL2-
+ChengduSummer2024,d,C,0,2,UR5+ DR0+ DL2+ UL4+ U4+ R3- D3- L5+ ALL2- y2 U4- R4- D0+ L0+ ALL4+,14,UR2- DL1+ U1+ y2 UR4+ /3- ALL3+
+MichiganMini202024,d,A,0,4,UR0+ DR3+ DL1+ UL1+ U2- R1- D3- L2- ALL1- y2 U1+ R2- D2- L3+ ALL0+,14,UR1- DR1- U2+ dr1+ ul2+ ALL1+ y2 ul1+ L2- UL1- DR2+
+SwisscubingCupMentalBreakdow2024,c,A,0,5,UR2- DR6+ DL5+ UL5+ U3- R4- D1+ L2+ ALL2- y2 U2+ R4- D5- L0+ ALL5+,14,dl1- /5+ y2 ul1- U1- UL1- DL1+ DR4+
+Cube4funLublinonWEII2024,f,A,0,4,UR1- DR1+ DL1+ UL0+ U4+ R3+ D0+ L3- ALL1- y2 U1- R2- D1+ L0+ ALL0+,14,UR1- DR2- U2- L2+ /1- y2 dr2+ D2- DR1+ UR1+
+ITeresinaBrightCube2024,c,A,0,1,UR3- DR0+ DL3- UL2+ U2+ R2+ D5+ L3+ ALL2- y2 U2- R1- D2- L2- ALL3+,14,UR1+ UL2- D2- \4- ALL1+ y2 D1+ UL2+ DR1+
+CubinginHD2024,f,A,0,2,UR3- DR1- DL0+ UL1- U5- R4+ D2+ L1+ ALL2+ y2 U2- R0+ D0+ L0+ ALL1+,14,U3- D1- dl4- /1- ALL2- y2 dr1- U2+
+SpokaneSummer2023,f,A,0,3,UR2- DR4- DL1- UL3+ U1- R3+ D1+ L1- ALL0+ y2 U3- R3- D2+ L2+ ALL0+ UR DL UL,14,DR3+ DL1+ L2- y2 dr2+ ur1- DL2- UR3+
+DelacuestaalCuboIII2023,f,A,0,2,UR1- DR1- DL2- UL3+ U4- R0+ D1+ L2- ALL5+ y2 U4- R4- D1+ L1- ALL5+ UR,14,UR1+ DR2+ UL1+ R1- ur2- y2 D2- DL1+ UR4+
+StrangnasOpen2024,c,B,0,1,UR3- DR1- DL3+ UL2+ U2+ R3+ D0+ L1- ALL0+ y2 U1+ R2+ D1- L1+ ALL2-,14,DR1+ DL3- UL1- ALL2- y2 dl1- dr2+ D1+ R2- UL1-
+CaucasusOpen2023,f,B,0,2,UR0+ DR0+ DL4+ UL2+ U3- R1- D4- L6+ ALL4+ y2 U4- R4- D1- L0+ ALL5- DL UL,14,UR1+ ALL3+ y2 ul3- dl1+ dr1- U1+ DR1+ UR3+
+DavisWeeknightFebruary2025,1,B,0,5,UR2+ DR3- DL1+ UL2+ U4- R2+ D1+ L6+ ALL6+ y2 U0+ R0+ D1+ L2- ALL4+,14,DL1+ R1- L2+ ul3- y2 dl2- D1- L2+ /2-
+ALL1EmpireState2024,d,A,0,5,UR0+ DR1- DL1+ UL1- U1+ R0+ D1- L2- ALL2+ y2 U1+ R5- D4- L1- ALL2+,14,DR1+ DL2+ D2- y2 ul1+ R2+ L1+ DR4+ UR1-
+BePlacidinLakePlacid2024,f,A,1,2,UR0+ DR0+ DL5+ UL2- U6+ R0+ D5- L2- ALL3+ y2 U2+ R1+ D1+ L0+ ALL3+,14,U4- L1- y2 ul5- D1- R1+ UR2-
+BooksandCubesatLiszt2024,1,A,0,5,UR1+ DR0+ DL1- UL0+ U1- R1- D2+ L2+ ALL2+ y2 U4+ R2- D3- L0+ ALL3+,14,DL1- ur3- y2 dr2- D1+ U4- DR2+ /1+
+NorthCarolinaChampionship2025,f,A,0,3,UR2+ DR5+ DL2+ UL1- U1- R3- D3- L1- ALL3+ y2 U2+ R0+ D3- L2- ALL0+,14,DR4- /1- \2+ y2 D1+ U2- DL2+ ALL2+
+KaisaniemiCubing2025,2,B,0,4,UR4+ DR4+ DL1- UL1+ U3- R4- D2- L0+ ALL2+ y2 U4- R2- D0+ L2- ALL3+,14,UR3- DR1- U1+ ul3+ \1- y2 dl1+ UL2+ UR2+
+DavisSummer2025,f,A,0,5,UR3+ DR2- DL1+ UL4+ U4+ R1- D0+ L5+ ALL5- y2 U3- R2- D1- L1- ALL6+,14,UR1- DR1+ UL2+ \1+ y2 dl4- ur1+ D1+ UL1+ UR2+

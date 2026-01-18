@@ -1,162 +1,162 @@
-competition_id,Ao5,round_type_id,group_id,scramble_num,scramble,Optimal Movecount,Optimal Solution
-PenangCubeMasters2023,6.0,f,A,1,R U' R2 U2 R U2 R' F' U' R2 U2,6.0, U R2 U F R2 F
-PenangCubeMasters2023,6.0,f,A,2,R U' F' U' R2 U' R F R2 U2 R',6.0, R2 F U F2 R' U'
-PenangCubeMasters2023,6.0,f,A,3,U R' U' R F' U' F R U2 R U2,9.0, F' U2 R' F' U2 F' R F R'
-PenangCubeMasters2023,6.0,f,A,4,R' F R2 U' F U' F2 U2 R2 U' R2,10.0, F' U R' F2 R F' R F' U2 F
-PenangCubeMasters2023,6.0,f,A,5,U' R' F R2 U2 R2 U2 F' R2 U2 R',6.0, R' F' R2 F' R U
-PenangCubeMasters2023,6.0,f,A,1,R F' U' R' U' R' U' F U F U',6.0, F' R' U R2 F R
-PenangCubeMasters2023,6.0,f,A,2,R' F' U' F R2 F' U2 R' F R U',9.0, U2 R' U' F' U2 R U' F R
-CubingBattleofKatipunan2024,6.33,f,E,1,R' U' R U R U' R2 U2 R2 U' F',6.0, F U' R' U' R' U'
-CubingBattleofKatipunan2024,6.33,f,E,2,R' F U2 F2 U' R U' R U2 R U',6.0, R2 U' R' F2 U2 R2
-CubingBattleofKatipunan2024,6.33,f,E,3,U' R' U F2 U' R U2 R U R' U',9.0, R2 F' U F2 U' R F2 R F2
-CubingBattleofKatipunan2024,6.33,f,E,4,U' R' U2 F' R2 F' R' U' R' U' R,6.0, R F' R2 U R F
-CubingBattleofKatipunan2024,6.33,f,E,5,R U' R2 F U2 R U F R U2 R',8.0, U2 R' U' F R2 U' F' R
-CubingBattleofKatipunan2024,6.33,f,E,1,U R' F' U' R U' R' U' F' R' F,7.0, F' U' R' U' R' F2 U2
-CubingBattleofKatipunan2024,6.33,f,E,2,R F U' R2 U2 R' U R' U F R2,8.0, R' U F2 U R F2 U' F
-EmpireStateWinterWhirl2023,6.33,f,C,1,R2 U' F' R' U' R' F R U' R' U2,6.0, U2 R U2 R F R2
-EmpireStateWinterWhirl2023,6.33,f,C,2,U2 R' F U2 F2 U' R U' R U' F',9.0, F U R2 F2 U' F U2 R U'
-EmpireStateWinterWhirl2023,6.33,f,C,3,F R U R' U2 F' U' F U' F R,7.0, F' R U2 R2 U' R2 F'
-EmpireStateWinterWhirl2023,6.33,f,C,4,U' R U' R' U R' U2 F R U2 R,9.0, U R U2 R F' R U' F2 U
-EmpireStateWinterWhirl2023,6.33,f,C,5,U2 R' U F' R U R' U R2 U' R',10.0, F U F2 U F2 R' F' U R2 U'
-EmpireStateWinterWhirl2023,6.33,f,C,1,U2 R U' F' R' U2 R F' R' U' R',6.0, F' R2 F U' F U'
-EmpireStateWinterWhirl2023,6.33,f,C,2,R' F' R U2 R' U2 R2 F' U2 R2 U',5.0, F R' F2 R' U'
-GreekNationals2024,6.33,d,A,1,R' F' R' U' R U' R' F R2 F' U2,10.0, F' U F' R U F' U F' U2 F'
-GreekNationals2024,6.33,d,A,2,R' U' R2 U' R2 U' R U F R U',7.0, R' U F2 R U' F2 R
-GreekNationals2024,6.33,d,A,3,U R' U' R U' R' U' F' R2 U2 F',9.0, F2 U' F2 U F2 U R' U2 R'
-GreekNationals2024,6.33,d,A,4,R' F U' F' U2 R U' R F U F,6.0, F2 R2 F R' F2 R2
-GreekNationals2024,6.33,d,A,5,R F R' U2 R U R U' R' U' R',6.0, U' R U' R F' R'
-GreekNationals2024,6.33,d,A,1,U2 R U' R2 F2 R U' R' U' F R2,9.0, U F' U' F R U R U F'
-GreekNationals2024,6.33,d,A,2,U R' U R' F U2 F U' F R U2,6.0, U2 R2 U F' U2 F'
-SJTUWinterOpen2018,6.33,d,D,1,U2 R2 U2 F U' R U R' F R2 U2,7.0, R F2 R F2 U F2 U'
-SJTUWinterOpen2018,6.33,d,D,2,U' R2 U' R2 U' R U2 R' U' R2 F',10.0, F U R F U2 F U2 R' F' U2
-SJTUWinterOpen2018,6.33,d,D,3,R U' F' U' R' U' R F' U2 R' U,5.0, F' R' U' R2 F
-SJTUWinterOpen2018,6.33,d,D,4,U2 R U' R2 U2 F R U' R' U' R,6.0, U' R F' R F U'
-SJTUWinterOpen2018,6.33,d,D,5,R U' R2 U' R U' R2 U F U' R2,10.0, F U2 F R' F' U2 F R' F U'
-SJTUWinterOpen2018,6.33,d,D,1,U' R2 U2 F U2 R2 U' F' R' U' R',6.0, F' R U R F2 U'
-SJTUWinterOpen2018,6.33,d,D,2,R U' R2 F R U R' F U' R' U',9.0, R' F2 R' F R F2 U2 F' R
-UNSASpeedcubingPreNationals2023,6.33,1,B,1,F R' U2 F U R' U' R U' R' U',9.0, F U R2 F2 R U' F U R2
-UNSASpeedcubingPreNationals2023,6.33,1,B,2,R' F R U R' U' F U R' U' R,6.0, F R' F2 U R2 U2
-UNSASpeedcubingPreNationals2023,6.33,1,B,3,R' U' F R U R U' R2 U F' U',7.0, R' F2 R' F2 R F R2
-UNSASpeedcubingPreNationals2023,6.33,1,B,4,R F' U' R2 U2 F U2 R2 U2 R2 F,6.0, F' R2 F U' F R'
-UNSASpeedcubingPreNationals2023,6.33,1,B,5,R' U2 R U R U' R' U' F R2 U,8.0, U' R2 F' R' U' R U' R
-UNSASpeedcubingPreNationals2023,6.33,1,B,1,U' R' U2 F R U R U2 F R' F,9.0, U F2 R' F' R2 F' U F' U'
-UNSASpeedcubingPreNationals2023,6.33,1,B,2,U2 R' U2 F' R U' R U2 F' R2 U2,6.0, R2 F2 R' F U2 F2
-ViennaBigCubeSummer2023,6.33,f,A,1,R U' R U' R2 F R U F' R2 U2,9.0, F U2 R' F R2 F2 R U R
-ViennaBigCubeSummer2023,6.33,f,A,2,U R' U F U' F U' R U' R' U',9.0, U2 R' F U' F2 U F2 R2 U
-ViennaBigCubeSummer2023,6.33,f,A,3,U' R' U' F R U R F U' R U,6.0, F U' R2 F' R' U
-ViennaBigCubeSummer2023,6.33,f,A,4,R' F R U R2 F U2 R U R U',6.0, U R' F U F R2
-ViennaBigCubeSummer2023,6.33,f,A,5,U' R U2 R' F U2 F U' F' U2 R2,10.0, F R' F U F' R2 F' U' R2 U2
-ViennaBigCubeSummer2023,6.33,f,A,1,U R F U2 R U2 R F' R2 U' R2,6.0, F' U R U' F' U2
-ViennaBigCubeSummer2023,6.33,f,A,2,U2 R U' R F' R' F' R U R U2,7.0, F2 R2 U2 R' F2 R F'
-AlmetOpen2018,6.67,f,A,1,R' F R U R' U R' F U2 R2 U2,8.0, F R2 F U2 R F U2 R2
-AlmetOpen2018,6.67,f,A,2,U' R' U' F U2 F' R2 U' R2 U' R2,8.0, F' R' F2 R U' R F' U'
-AlmetOpen2018,6.67,f,A,3,R' U' R' U' F U' R2 U2 F' U' R2,9.0, F2 U F' R' U F U R2 F2
-AlmetOpen2018,6.67,f,A,4,R' U' F R2 U' R U' R2 F U R2,6.0, U' F2 R U' F2 U
-AlmetOpen2018,6.67,f,A,5,F' R U R U' R2 U F U' F U',9.0, U F2 R F U R' F' U' F
-AlmetOpen2018,6.67,f,A,1,R U' F U2 R U R' F U2 R U2,6.0, F2 U2 F' R U R'
-AlmetOpen2018,6.67,f,A,2,U' R U' R2 F' R U' R' U F U2,6.0, F2 R2 U2 R' F R'
-AnkaraFall2022,6.67,2,A,1,R U' R' U' R' U' R U2 R' U2 F,6.0, F' U2 R U' R U
-AnkaraFall2022,6.67,2,A,2,U2 R U2 F U' R U2 R U' F' U2,9.0, R2 F R2 F2 U' R' U F' R2
-AnkaraFall2022,6.67,2,A,3,U' R' F' U' F' R U R F' R' U,7.0, U' F2 U' F U' F2 R'
-AnkaraFall2022,6.67,2,A,4,U2 R2 F R U' R' F R U2 R F',7.0, U R U F2 U2 F U2
-AnkaraFall2022,6.67,2,A,5,U' R U2 R' F U' R2 U2 R' U' R,10.0, F R F R F' U2 F' R F' R2
-AnkaraFall2022,6.67,2,A,1,U2 R U R' U' R' U2 F U' F U2,9.0, U2 F' U F' U R' U R U'
-AnkaraFall2022,6.67,2,A,2,R' F R U2 R' U R U R U2 R',6.0, U2 F U2 R U' R2
-BlenkirWankaCube2024,6.67,f,A,1,R' U2 R U' R2 U' F2 U' R2 U R,9.0, R' U2 F2 U' F2 U' R U2 R
-BlenkirWankaCube2024,6.67,f,A,2,R U' R' U R' U' R2 U R' F' U',6.0, F2 R' F' U2 R' U'
-BlenkirWankaCube2024,6.67,f,A,3,R' F' U' R U' R2 U2 F U2 R2 U',7.0, U' F U' R' U F R
-BlenkirWankaCube2024,6.67,f,A,4,U' R' F' R U' F U' F U' R2 U2,9.0, U F R' F R' U' F U2 F2
-BlenkirWankaCube2024,6.67,f,A,5,R2 F R2 U' R2 U' F R' U2 R U,9.0, F' U R2 F' R' F R' U R2
-BlenkirWankaCube2024,6.67,f,A,1,R U' F2 R U' R' U2 F R2 U2 R',7.0, F2 U' R U' R2 F R'
-BlenkirWankaCube2024,6.67,f,A,2,U' R' U' F R' F U2 R U R' F',5.0, U' R F' U2 F'
-CampeonatoAmazonense2025,6.67,f,C,1,R2 U2 R' U R' F U' F R2 U' R2,9.0, U F2 R' U F2 U' R2 U F2
-CampeonatoAmazonense2025,6.67,f,C,2,R' U' F U' F' U' F U2 R U R,6.0, R' F' U' F' U F
-CampeonatoAmazonense2025,6.67,f,C,3,U' R' F U' F R U' R' U2 F U',6.0, U F' U' F' U R
-CampeonatoAmazonense2025,6.67,f,C,4,U2 R' F' R U' F U' R2 U2 F U',9.0, R2 F R F2 R2 F R F2 R2
-CampeonatoAmazonense2025,6.67,f,C,5,U2 R' U' R U2 F U' R2 U' R' U',8.0, F2 U2 R' U R' U R2 F2
-CampeonatoAmazonense2025,6.67,f,C,1,U R2 F U' R U R' U2 F U R,8.0, R F' R2 U' R2 U R' F2
-CampeonatoAmazonense2025,6.67,f,C,2,R F' U2 R2 U2 F U2 R U2 R2 U2,6.0, R2 F2 U2 R U2 R'
-ChillOutTrondheim2018,6.67,1,A,1,U' R U2 R2 F U2 F U R U R,6.0, R' F2 U' F R2 F'
-ChillOutTrondheim2018,6.67,1,A,2,R U' R' U R' U2 F' U' F U' R,7.0, R' F R F' R U2 R
-ChillOutTrondheim2018,6.67,1,A,3,U R' F R2 U R' F' U F' U2 R,10.0, F U' R U2 R2 U F' U R' U2
-ChillOutTrondheim2018,6.67,1,A,4,R' F U R' F U2 R U2 R' U' F',9.0, U F' R' F U' F' U R' U'
-ChillOutTrondheim2018,6.67,1,A,5,R U' R2 F U2 F R2 U2 R2 U2 F,8.0, F' U2 F R2 F R2 U' R'
-ChillOutTrondheim2018,6.67,1,A,1,R U2 R' U R' U' R U2 R' F2 R,7.0, R F R F' R U F2
-ChillOutTrondheim2018,6.67,1,A,2,U2 R' U2 F2 R U' R' U' R U2 R',6.0, U R U R2 U2 F2
-DonBoscoCubing2023,6.67,1,A,1,F' R' U R' U' F R' F R U2 R,9.0, F2 U2 R' F R' U2 F U R
-DonBoscoCubing2023,6.67,1,A,2,U' R U2 R' U' R' F R U' F R',7.0, R F U2 F2 U F' U2
-DonBoscoCubing2023,6.67,1,A,3,U' R' U' F R U2 F' R U' R' F,8.0, U2 R2 F R' U2 R F2 U'
-DonBoscoCubing2023,6.67,1,A,4,R' F2 U' R2 U2 R2 U' F R U' R,6.0, U2 F R' U F' R
-DonBoscoCubing2023,6.67,1,A,5,U' F' U' R U2 R' F R2 U2 R2 U',7.0, F' U F2 U' R U2 F
-DonBoscoCubing2023,6.67,1,A,1,R U' R' U' R U' F' U2 R' U' R,6.0, F R2 U2 R U R'
-DonBoscoCubing2023,6.67,1,A,2,R2 U2 F U' F' R U R U2 R2 F,7.0, U' F' R U' F R' U'
-GuateMaya2021,6.67,f,A,1,R' F' U2 F' U' R U' R U' R' F,9.0, U R F2 U' F' R F' U' R'
-GuateMaya2021,6.67,f,A,2,R' U' F2 R' U2 R U2 R' F' U' R,6.0, F U' F U R' F
-GuateMaya2021,6.67,f,A,3,U2 F' R' U R U' R' U2 R' U2 R,9.0, U2 R2 U R' U' R U' F U2
-GuateMaya2021,6.67,f,A,4,R' U' R U2 R' F R U' R' U' R,7.0, U F R2 F R2 F2 U'
-GuateMaya2021,6.67,f,A,5,R U' F' R' U' F U2 F R U R,7.0, R' F R' U2 R' U R'
-GuateMaya2021,6.67,f,A,1,F' U2 R' U R' U' F U' R U2 R,8.0, F' U2 R U' F2 R F' U2
-GuateMaya2021,6.67,f,A,2,R U' R' U2 R U2 R' U R2 F R,6.0, F' U F U2 R2 F
-MaltaEndofSummer2025,6.67,f,A,1,R F' R2 F' U' R2 U2 R2 U2 R U2,7.0, U2 R U' F R2 F R'
-MaltaEndofSummer2025,6.67,f,A,2,F R2 U2 R' U R U2 R2 U' F U',10.0, F' R2 F R U2 F R2 F2 R U2
-MaltaEndofSummer2025,6.67,f,A,3,F U' R U' R' U2 F' R2 U' R2 U2,7.0, U2 R F2 U' F' R' F'
-MaltaEndofSummer2025,6.67,f,A,4,R' U2 F' R U' F' R U R U' R',6.0, U' R2 F' R F' U2
-MaltaEndofSummer2025,6.67,f,A,5,U' R F' R2 U' R U2 R U2 F' U2,9.0, F' U R2 F2 U' R U2 F2 R
-MaltaEndofSummer2025,6.67,f,A,1,R' U2 F U' R F R U' R' F U,6.0, F R F' R2 U' F2
-MaltaEndofSummer2025,6.67,f,A,2,U2 R' F R2 U' R' U F R F R2,9.0, F' U2 F' R U R2 F2 U' F
-MonterreyBogotaII2023,6.67,d,D,1,U R U' F' R' U' R2 F R U' R',6.0, F' R' F R' U F
-MonterreyBogotaII2023,6.67,d,D,2,R2 U2 F U' R U2 F U' R U R',9.0, U2 R F U' F R2 U' F U2
-MonterreyBogotaII2023,6.67,d,D,3,R U' R' U' F2 U2 F U2 R U' R',6.0, U2 R' F2 R F' U
-MonterreyBogotaII2023,6.67,d,D,4,R U' R' U' F' R' U R' F U' R,9.0, R2 F' R' U F2 U2 R F' R2
-MonterreyBogotaII2023,6.67,d,D,5,R U2 F' R2 U2 R U2 F U' R U2,7.0, U2 F2 U' R F2 U' F
-MonterreyBogotaII2023,6.67,d,D,1,R U2 R' U F2 U2 R2 U' R' U2 R,7.0, F2 R2 U' F R2 U' F
-MonterreyBogotaII2023,6.67,d,D,2,R' U2 R2 F' R2 F U2 F R F R,8.0, F2 R F' R' U F' R' F
-NordicChampionship2018,6.67,1,A,1,R U' R2 F R2 U2 R' U2 R' U' F,9.0, F2 R' F2 R U F2 R2 U' R'
-NordicChampionship2018,6.67,1,A,2,R U2 R2 U' R U' R F R2 F' R2,8.0, R F' U F' R2 F R2 F2
-NordicChampionship2018,6.67,1,A,3,R U' F' R2 F U' R2 U2 R2 U' F,6.0, U' R2 U F' U' R
-NordicChampionship2018,6.67,1,A,4,F' U2 F R U R U2 F' R' U' R,9.0, F' U2 R' U F2 U F2 U2 R'
-NordicChampionship2018,6.67,1,A,5,R' U2 F' R2 U2 R' U' R' U2 F U,4.0, U' F2 R' F
-NordicChampionship2018,6.67,1,A,1,R U' R' U2 F' R U' R U2 R' U',9.0, F U F2 R U' F2 U R2 F2
-NordicChampionship2018,6.67,1,A,2,U' R U2 R2 U' R F U2 F R' F,6.0, F R2 F R' U' F2
-QubesDonLieAnkara2022,6.67,f,A,1,R' U' F2 R2 F' R' U' R' F R2 F',8.0, U R U F R2 F2 U' R
-QubesDonLieAnkara2022,6.67,f,A,2,U' R U R' U F U' R U R U2,8.0, U' R' F U R' U2 R U2
-QubesDonLieAnkara2022,6.67,f,A,3,U' R' F' R2 U2 F' R2 U2 R2 U2 R',6.0, R U' R F R2 F'
-QubesDonLieAnkara2022,6.67,f,A,4,U2 R' F' U' R U2 F U2 R U' R,6.0, F R2 F' U' R2 F'
-QubesDonLieAnkara2022,6.67,f,A,5,R' U2 R U' R F2 R U2 R F' R2,8.0, U2 F' R F2 R2 U2 R U2
-QubesDonLieAnkara2022,6.67,f,A,1,R U' R' U R U R F' R' U' R,6.0, R2 U' R2 U R2 F
-QubesDonLieAnkara2022,6.67,f,A,2,U2 R' U2 R U2 R' U F U' F2 U2,9.0, F U' R F U' R2 U' R F'
-RenoSummer2025,6.67,1,C,1,R U2 F' U' R' U R F' R U' R',6.0, U F R' F2 U2 R'
-RenoSummer2025,6.67,1,C,2,U2 R' U' R U2 F' R2 U2 R U R',9.0, R U' R F' U2 R U R U2
-RenoSummer2025,6.67,1,C,3,R U2 R' U' R' U' R' F R U' R',6.0, U F' R' U F R
-RenoSummer2025,6.67,1,C,4,F' U2 F U' R U2 R' F U' R2 U',10.0, F2 U' F U2 R F2 R U' F2 U
-RenoSummer2025,6.67,1,C,5,R' F' U' R U' R U' R' U R' F',8.0, R' F R' U' F' R F2 U'
-RenoSummer2025,6.67,1,C,1,R U R U2 R' U' R' U2 R U R,6.0, U R2 U R' U' R'
-RenoSummer2025,6.67,1,C,2,R' F2 R U F' U2 R2 U' F R U2,8.0, R2 U R F R2 U' F2 U'
-SydChamps2017,6.67,1,A,1,R' F U' R' U R' U2 F R U R,7.0, F2 U F' R F2 U' R2
-SydChamps2017,6.67,1,A,2,U2 R F' R' U' R U2 R2 U2 R U,8.0, F R' F' R U F' R2 F
-SydChamps2017,6.67,1,A,3,R' U2 F U' R2 U2 R2 U2 F' U2 R,8.0, R U2 F' R2 U F' U2 R
-SydChamps2017,6.67,1,A,4,U' R U' R' U' R2 F' U' R2 U' F,7.0, F2 U' R F' U' R U2
-SydChamps2017,6.67,1,A,5,U2 R F' U' R' U' R' U' F' U' R,4.0, R' U2 R2 F
-SydChamps2017,6.67,1,A,1,R' F' R U F R U' R' F R U,6.0, R F2 R' U F2 R2
-SydChamps2017,6.67,1,A,2,R' F R F' R2 F' U2 R' U2 R' U2,10.0, F U2 R F U R2 F' R U2 F'
-ThapraCubeBattle2025,6.67,1,D,1,U2 R U' R2 U' F R' U R' U' R,9.0, F' R F R' F2 U2 F U R
-ThapraCubeBattle2025,6.67,1,D,2,R' F R' F2 R U' R U' R2 U2 F,9.0, U2 R2 U' F' R2 F U' F U
-ThapraCubeBattle2025,6.67,1,D,3,U' R U' R' U2 R2 U' F2 U' F R2,8.0, U R' F R' U F U2 F
-ThapraCubeBattle2025,6.67,1,D,4,U' R F' R' U2 R' U' F R2 F' R',6.0, F' R2 U' R F' R'
-ThapraCubeBattle2025,6.67,1,D,5,U' R' F2 U' R2 U R' F U' R2 U2,9.0, R2 U2 R' U F2 R' U' F2 U
-ThapraCubeBattle2025,6.67,1,D,1,R' F R U R U' F' R2 U' R U,6.0, R U' F' U2 F R2
-ThapraCubeBattle2025,6.67,1,D,2,R U' F R2 U' R' U2 R' U2 R U',6.0, R2 F U F2 U R
-UtahMegacomp2015,6.67,1,D,1,U' R U' R2 U2 F U' F2 R U' F,9.0, U2 R2 F' U R2 F' R' U2 R2
-UtahMegacomp2015,6.67,1,D,2,U R' U2 R U R U' R2 U R' F,7.0, F' R U R2 U R' U2
-UtahMegacomp2015,6.67,1,D,3,R U' R2 F U2 F2 U' F U' R2 U',7.0, F U' F' U F' U2 R2
-UtahMegacomp2015,6.67,1,D,4,U R' U2 F' U' F R U R' F R',6.0, F' U R F' U F
-UtahMegacomp2015,6.67,1,D,5,R' F' U R U' F U' R U' R U',9.0, F' R2 F R2 F R F U2 R2
-UtahMegacomp2015,6.67,1,D,1,R' U' R U' R U' R2 F2 U F' R,6.0, U' F U' F2 R2 U2
-UtahMegacomp2015,6.67,1,D,2,R' U' R U R' F U' R' F U R,9.0, R F' U2 R2 F' U' R U2 F2
-WPIWinterCubeDay2018,6.67,1,D,1,U2 R' U R2 F R U' R' U' F U2,8.0, R2 U R2 F' U F' R' F
-WPIWinterCubeDay2018,6.67,1,D,2,R U2 R2 U' F R2 U2 F U2 F R,8.0, F' U' F2 U R' F2 U2 R2
-WPIWinterCubeDay2018,6.67,1,D,3,U' R' F' R F' U' F R U' R U',6.0, U2 F U R2 F2 R'
-WPIWinterCubeDay2018,6.67,1,D,4,R' U2 R U' R' F U' R2 F' R2 U2,6.0, R' U' F' R U2 R
-WPIWinterCubeDay2018,6.67,1,D,5,R F' U2 R2 U' F U2 F' R' F U',10.0, F R' F' R' U2 R' U' F' U2 F'
-WPIWinterCubeDay2018,6.67,1,D,1,R' F2 U' F R2 U' R' U' R' U' F',6.0, F U2 F' R2 F' U2
-WPIWinterCubeDay2018,6.67,1,D,2,U' R F' R2 F' R U' F' R' U2 R',9.0, F' R' U' R2 U' F R2 F' U'
+competition_id,Ao5,round_type_id,group_id,scramble_num,scramble,optimal_movecount,optimal_solution
+PenangCubeMasters2023,6.0,f,A,1,R U' R2 U2 R U2 R' F' U' R2 U2,6, U R2 U F R2 F
+PenangCubeMasters2023,6.0,f,A,2,R U' F' U' R2 U' R F R2 U2 R',6, R2 F U F2 R' U'
+PenangCubeMasters2023,6.0,f,A,3,U R' U' R F' U' F R U2 R U2,9, F' U2 R' F' U2 F' R F R'
+PenangCubeMasters2023,6.0,f,A,4,R' F R2 U' F U' F2 U2 R2 U' R2,10, F' U R' F2 R F' R F' U2 F
+PenangCubeMasters2023,6.0,f,A,5,U' R' F R2 U2 R2 U2 F' R2 U2 R',6, R' F' R2 F' R U
+PenangCubeMasters2023,6.0,f,A,1,R F' U' R' U' R' U' F U F U',6, F' R' U R2 F R
+PenangCubeMasters2023,6.0,f,A,2,R' F' U' F R2 F' U2 R' F R U',9, U2 R' U' F' U2 R U' F R
+CubingBattleofKatipunan2024,6.33,f,E,1,R' U' R U R U' R2 U2 R2 U' F',6, F U' R' U' R' U'
+CubingBattleofKatipunan2024,6.33,f,E,2,R' F U2 F2 U' R U' R U2 R U',6, R2 U' R' F2 U2 R2
+CubingBattleofKatipunan2024,6.33,f,E,3,U' R' U F2 U' R U2 R U R' U',9, R2 F' U F2 U' R F2 R F2
+CubingBattleofKatipunan2024,6.33,f,E,4,U' R' U2 F' R2 F' R' U' R' U' R,6, R F' R2 U R F
+CubingBattleofKatipunan2024,6.33,f,E,5,R U' R2 F U2 R U F R U2 R',8, U2 R' U' F R2 U' F' R
+CubingBattleofKatipunan2024,6.33,f,E,1,U R' F' U' R U' R' U' F' R' F,7, F' U' R' U' R' F2 U2
+CubingBattleofKatipunan2024,6.33,f,E,2,R F U' R2 U2 R' U R' U F R2,8, R' U F2 U R F2 U' F
+EmpireStateWinterWhirl2023,6.33,f,C,1,R2 U' F' R' U' R' F R U' R' U2,6, U2 R U2 R F R2
+EmpireStateWinterWhirl2023,6.33,f,C,2,U2 R' F U2 F2 U' R U' R U' F',9, F U R2 F2 U' F U2 R U'
+EmpireStateWinterWhirl2023,6.33,f,C,3,F R U R' U2 F' U' F U' F R,7, F' R U2 R2 U' R2 F'
+EmpireStateWinterWhirl2023,6.33,f,C,4,U' R U' R' U R' U2 F R U2 R,9, U R U2 R F' R U' F2 U
+EmpireStateWinterWhirl2023,6.33,f,C,5,U2 R' U F' R U R' U R2 U' R',10, F U F2 U F2 R' F' U R2 U'
+EmpireStateWinterWhirl2023,6.33,f,C,1,U2 R U' F' R' U2 R F' R' U' R',6, F' R2 F U' F U'
+EmpireStateWinterWhirl2023,6.33,f,C,2,R' F' R U2 R' U2 R2 F' U2 R2 U',5, F R' F2 R' U'
+GreekNationals2024,6.33,d,A,1,R' F' R' U' R U' R' F R2 F' U2,10, F' U F' R U F' U F' U2 F'
+GreekNationals2024,6.33,d,A,2,R' U' R2 U' R2 U' R U F R U',7, R' U F2 R U' F2 R
+GreekNationals2024,6.33,d,A,3,U R' U' R U' R' U' F' R2 U2 F',9, F2 U' F2 U F2 U R' U2 R'
+GreekNationals2024,6.33,d,A,4,R' F U' F' U2 R U' R F U F,6, F2 R2 F R' F2 R2
+GreekNationals2024,6.33,d,A,5,R F R' U2 R U R U' R' U' R',6, U' R U' R F' R'
+GreekNationals2024,6.33,d,A,1,U2 R U' R2 F2 R U' R' U' F R2,9, U F' U' F R U R U F'
+GreekNationals2024,6.33,d,A,2,U R' U R' F U2 F U' F R U2,6, U2 R2 U F' U2 F'
+SJTUWinterOpen2018,6.33,d,D,1,U2 R2 U2 F U' R U R' F R2 U2,7, R F2 R F2 U F2 U'
+SJTUWinterOpen2018,6.33,d,D,2,U' R2 U' R2 U' R U2 R' U' R2 F',10, F U R F U2 F U2 R' F' U2
+SJTUWinterOpen2018,6.33,d,D,3,R U' F' U' R' U' R F' U2 R' U,5, F' R' U' R2 F
+SJTUWinterOpen2018,6.33,d,D,4,U2 R U' R2 U2 F R U' R' U' R,6, U' R F' R F U'
+SJTUWinterOpen2018,6.33,d,D,5,R U' R2 U' R U' R2 U F U' R2,10, F U2 F R' F' U2 F R' F U'
+SJTUWinterOpen2018,6.33,d,D,1,U' R2 U2 F U2 R2 U' F' R' U' R',6, F' R U R F2 U'
+SJTUWinterOpen2018,6.33,d,D,2,R U' R2 F R U R' F U' R' U',9, R' F2 R' F R F2 U2 F' R
+UNSASpeedcubingPreNationals2023,6.33,1,B,1,F R' U2 F U R' U' R U' R' U',9, F U R2 F2 R U' F U R2
+UNSASpeedcubingPreNationals2023,6.33,1,B,2,R' F R U R' U' F U R' U' R,6, F R' F2 U R2 U2
+UNSASpeedcubingPreNationals2023,6.33,1,B,3,R' U' F R U R U' R2 U F' U',7, R' F2 R' F2 R F R2
+UNSASpeedcubingPreNationals2023,6.33,1,B,4,R F' U' R2 U2 F U2 R2 U2 R2 F,6, F' R2 F U' F R'
+UNSASpeedcubingPreNationals2023,6.33,1,B,5,R' U2 R U R U' R' U' F R2 U,8, U' R2 F' R' U' R U' R
+UNSASpeedcubingPreNationals2023,6.33,1,B,1,U' R' U2 F R U R U2 F R' F,9, U F2 R' F' R2 F' U F' U'
+UNSASpeedcubingPreNationals2023,6.33,1,B,2,U2 R' U2 F' R U' R U2 F' R2 U2,6, R2 F2 R' F U2 F2
+ViennaBigCubeSummer2023,6.33,f,A,1,R U' R U' R2 F R U F' R2 U2,9, F U2 R' F R2 F2 R U R
+ViennaBigCubeSummer2023,6.33,f,A,2,U R' U F U' F U' R U' R' U',9, U2 R' F U' F2 U F2 R2 U
+ViennaBigCubeSummer2023,6.33,f,A,3,U' R' U' F R U R F U' R U,6, F U' R2 F' R' U
+ViennaBigCubeSummer2023,6.33,f,A,4,R' F R U R2 F U2 R U R U',6, U R' F U F R2
+ViennaBigCubeSummer2023,6.33,f,A,5,U' R U2 R' F U2 F U' F' U2 R2,10, F R' F U F' R2 F' U' R2 U2
+ViennaBigCubeSummer2023,6.33,f,A,1,U R F U2 R U2 R F' R2 U' R2,6, F' U R U' F' U2
+ViennaBigCubeSummer2023,6.33,f,A,2,U2 R U' R F' R' F' R U R U2,7, F2 R2 U2 R' F2 R F'
+AlmetOpen2018,6.67,f,A,1,R' F R U R' U R' F U2 R2 U2,8, F R2 F U2 R F U2 R2
+AlmetOpen2018,6.67,f,A,2,U' R' U' F U2 F' R2 U' R2 U' R2,8, F' R' F2 R U' R F' U'
+AlmetOpen2018,6.67,f,A,3,R' U' R' U' F U' R2 U2 F' U' R2,9, F2 U F' R' U F U R2 F2
+AlmetOpen2018,6.67,f,A,4,R' U' F R2 U' R U' R2 F U R2,6, U' F2 R U' F2 U
+AlmetOpen2018,6.67,f,A,5,F' R U R U' R2 U F U' F U',9, U F2 R F U R' F' U' F
+AlmetOpen2018,6.67,f,A,1,R U' F U2 R U R' F U2 R U2,6, F2 U2 F' R U R'
+AlmetOpen2018,6.67,f,A,2,U' R U' R2 F' R U' R' U F U2,6, F2 R2 U2 R' F R'
+AnkaraFall2022,6.67,2,A,1,R U' R' U' R' U' R U2 R' U2 F,6, F' U2 R U' R U
+AnkaraFall2022,6.67,2,A,2,U2 R U2 F U' R U2 R U' F' U2,9, R2 F R2 F2 U' R' U F' R2
+AnkaraFall2022,6.67,2,A,3,U' R' F' U' F' R U R F' R' U,7, U' F2 U' F U' F2 R'
+AnkaraFall2022,6.67,2,A,4,U2 R2 F R U' R' F R U2 R F',7, U R U F2 U2 F U2
+AnkaraFall2022,6.67,2,A,5,U' R U2 R' F U' R2 U2 R' U' R,10, F R F R F' U2 F' R F' R2
+AnkaraFall2022,6.67,2,A,1,U2 R U R' U' R' U2 F U' F U2,9, U2 F' U F' U R' U R U'
+AnkaraFall2022,6.67,2,A,2,R' F R U2 R' U R U R U2 R',6, U2 F U2 R U' R2
+BlenkirWankaCube2024,6.67,f,A,1,R' U2 R U' R2 U' F2 U' R2 U R,9, R' U2 F2 U' F2 U' R U2 R
+BlenkirWankaCube2024,6.67,f,A,2,R U' R' U R' U' R2 U R' F' U',6, F2 R' F' U2 R' U'
+BlenkirWankaCube2024,6.67,f,A,3,R' F' U' R U' R2 U2 F U2 R2 U',7, U' F U' R' U F R
+BlenkirWankaCube2024,6.67,f,A,4,U' R' F' R U' F U' F U' R2 U2,9, U F R' F R' U' F U2 F2
+BlenkirWankaCube2024,6.67,f,A,5,R2 F R2 U' R2 U' F R' U2 R U,9, F' U R2 F' R' F R' U R2
+BlenkirWankaCube2024,6.67,f,A,1,R U' F2 R U' R' U2 F R2 U2 R',7, F2 U' R U' R2 F R'
+BlenkirWankaCube2024,6.67,f,A,2,U' R' U' F R' F U2 R U R' F',5, U' R F' U2 F'
+CampeonatoAmazonense2025,6.67,f,C,1,R2 U2 R' U R' F U' F R2 U' R2,9, U F2 R' U F2 U' R2 U F2
+CampeonatoAmazonense2025,6.67,f,C,2,R' U' F U' F' U' F U2 R U R,6, R' F' U' F' U F
+CampeonatoAmazonense2025,6.67,f,C,3,U' R' F U' F R U' R' U2 F U',6, U F' U' F' U R
+CampeonatoAmazonense2025,6.67,f,C,4,U2 R' F' R U' F U' R2 U2 F U',9, R2 F R F2 R2 F R F2 R2
+CampeonatoAmazonense2025,6.67,f,C,5,U2 R' U' R U2 F U' R2 U' R' U',8, F2 U2 R' U R' U R2 F2
+CampeonatoAmazonense2025,6.67,f,C,1,U R2 F U' R U R' U2 F U R,8, R F' R2 U' R2 U R' F2
+CampeonatoAmazonense2025,6.67,f,C,2,R F' U2 R2 U2 F U2 R U2 R2 U2,6, R2 F2 U2 R U2 R'
+ChillOutTrondheim2018,6.67,1,A,1,U' R U2 R2 F U2 F U R U R,6, R' F2 U' F R2 F'
+ChillOutTrondheim2018,6.67,1,A,2,R U' R' U R' U2 F' U' F U' R,7, R' F R F' R U2 R
+ChillOutTrondheim2018,6.67,1,A,3,U R' F R2 U R' F' U F' U2 R,10, F U' R U2 R2 U F' U R' U2
+ChillOutTrondheim2018,6.67,1,A,4,R' F U R' F U2 R U2 R' U' F',9, U F' R' F U' F' U R' U'
+ChillOutTrondheim2018,6.67,1,A,5,R U' R2 F U2 F R2 U2 R2 U2 F,8, F' U2 F R2 F R2 U' R'
+ChillOutTrondheim2018,6.67,1,A,1,R U2 R' U R' U' R U2 R' F2 R,7, R F R F' R U F2
+ChillOutTrondheim2018,6.67,1,A,2,U2 R' U2 F2 R U' R' U' R U2 R',6, U R U R2 U2 F2
+DonBoscoCubing2023,6.67,1,A,1,F' R' U R' U' F R' F R U2 R,9, F2 U2 R' F R' U2 F U R
+DonBoscoCubing2023,6.67,1,A,2,U' R U2 R' U' R' F R U' F R',7, R F U2 F2 U F' U2
+DonBoscoCubing2023,6.67,1,A,3,U' R' U' F R U2 F' R U' R' F,8, U2 R2 F R' U2 R F2 U'
+DonBoscoCubing2023,6.67,1,A,4,R' F2 U' R2 U2 R2 U' F R U' R,6, U2 F R' U F' R
+DonBoscoCubing2023,6.67,1,A,5,U' F' U' R U2 R' F R2 U2 R2 U',7, F' U F2 U' R U2 F
+DonBoscoCubing2023,6.67,1,A,1,R U' R' U' R U' F' U2 R' U' R,6, F R2 U2 R U R'
+DonBoscoCubing2023,6.67,1,A,2,R2 U2 F U' F' R U R U2 R2 F,7, U' F' R U' F R' U'
+GuateMaya2021,6.67,f,A,1,R' F' U2 F' U' R U' R U' R' F,9, U R F2 U' F' R F' U' R'
+GuateMaya2021,6.67,f,A,2,R' U' F2 R' U2 R U2 R' F' U' R,6, F U' F U R' F
+GuateMaya2021,6.67,f,A,3,U2 F' R' U R U' R' U2 R' U2 R,9, U2 R2 U R' U' R U' F U2
+GuateMaya2021,6.67,f,A,4,R' U' R U2 R' F R U' R' U' R,7, U F R2 F R2 F2 U'
+GuateMaya2021,6.67,f,A,5,R U' F' R' U' F U2 F R U R,7, R' F R' U2 R' U R'
+GuateMaya2021,6.67,f,A,1,F' U2 R' U R' U' F U' R U2 R,8, F' U2 R U' F2 R F' U2
+GuateMaya2021,6.67,f,A,2,R U' R' U2 R U2 R' U R2 F R,6, F' U F U2 R2 F
+MaltaEndofSummer2025,6.67,f,A,1,R F' R2 F' U' R2 U2 R2 U2 R U2,7, U2 R U' F R2 F R'
+MaltaEndofSummer2025,6.67,f,A,2,F R2 U2 R' U R U2 R2 U' F U',10, F' R2 F R U2 F R2 F2 R U2
+MaltaEndofSummer2025,6.67,f,A,3,F U' R U' R' U2 F' R2 U' R2 U2,7, U2 R F2 U' F' R' F'
+MaltaEndofSummer2025,6.67,f,A,4,R' U2 F' R U' F' R U R U' R',6, U' R2 F' R F' U2
+MaltaEndofSummer2025,6.67,f,A,5,U' R F' R2 U' R U2 R U2 F' U2,9, F' U R2 F2 U' R U2 F2 R
+MaltaEndofSummer2025,6.67,f,A,1,R' U2 F U' R F R U' R' F U,6, F R F' R2 U' F2
+MaltaEndofSummer2025,6.67,f,A,2,U2 R' F R2 U' R' U F R F R2,9, F' U2 F' R U R2 F2 U' F
+MonterreyBogotaII2023,6.67,d,D,1,U R U' F' R' U' R2 F R U' R',6, F' R' F R' U F
+MonterreyBogotaII2023,6.67,d,D,2,R2 U2 F U' R U2 F U' R U R',9, U2 R F U' F R2 U' F U2
+MonterreyBogotaII2023,6.67,d,D,3,R U' R' U' F2 U2 F U2 R U' R',6, U2 R' F2 R F' U
+MonterreyBogotaII2023,6.67,d,D,4,R U' R' U' F' R' U R' F U' R,9, R2 F' R' U F2 U2 R F' R2
+MonterreyBogotaII2023,6.67,d,D,5,R U2 F' R2 U2 R U2 F U' R U2,7, U2 F2 U' R F2 U' F
+MonterreyBogotaII2023,6.67,d,D,1,R U2 R' U F2 U2 R2 U' R' U2 R,7, F2 R2 U' F R2 U' F
+MonterreyBogotaII2023,6.67,d,D,2,R' U2 R2 F' R2 F U2 F R F R,8, F2 R F' R' U F' R' F
+NordicChampionship2018,6.67,1,A,1,R U' R2 F R2 U2 R' U2 R' U' F,9, F2 R' F2 R U F2 R2 U' R'
+NordicChampionship2018,6.67,1,A,2,R U2 R2 U' R U' R F R2 F' R2,8, R F' U F' R2 F R2 F2
+NordicChampionship2018,6.67,1,A,3,R U' F' R2 F U' R2 U2 R2 U' F,6, U' R2 U F' U' R
+NordicChampionship2018,6.67,1,A,4,F' U2 F R U R U2 F' R' U' R,9, F' U2 R' U F2 U F2 U2 R'
+NordicChampionship2018,6.67,1,A,5,R' U2 F' R2 U2 R' U' R' U2 F U,4, U' F2 R' F
+NordicChampionship2018,6.67,1,A,1,R U' R' U2 F' R U' R U2 R' U',9, F U F2 R U' F2 U R2 F2
+NordicChampionship2018,6.67,1,A,2,U' R U2 R2 U' R F U2 F R' F,6, F R2 F R' U' F2
+QubesDonLieAnkara2022,6.67,f,A,1,R' U' F2 R2 F' R' U' R' F R2 F',8, U R U F R2 F2 U' R
+QubesDonLieAnkara2022,6.67,f,A,2,U' R U R' U F U' R U R U2,8, U' R' F U R' U2 R U2
+QubesDonLieAnkara2022,6.67,f,A,3,U' R' F' R2 U2 F' R2 U2 R2 U2 R',6, R U' R F R2 F'
+QubesDonLieAnkara2022,6.67,f,A,4,U2 R' F' U' R U2 F U2 R U' R,6, F R2 F' U' R2 F'
+QubesDonLieAnkara2022,6.67,f,A,5,R' U2 R U' R F2 R U2 R F' R2,8, U2 F' R F2 R2 U2 R U2
+QubesDonLieAnkara2022,6.67,f,A,1,R U' R' U R U R F' R' U' R,6, R2 U' R2 U R2 F
+QubesDonLieAnkara2022,6.67,f,A,2,U2 R' U2 R U2 R' U F U' F2 U2,9, F U' R F U' R2 U' R F'
+RenoSummer2025,6.67,1,C,1,R U2 F' U' R' U R F' R U' R',6, U F R' F2 U2 R'
+RenoSummer2025,6.67,1,C,2,U2 R' U' R U2 F' R2 U2 R U R',9, R U' R F' U2 R U R U2
+RenoSummer2025,6.67,1,C,3,R U2 R' U' R' U' R' F R U' R',6, U F' R' U F R
+RenoSummer2025,6.67,1,C,4,F' U2 F U' R U2 R' F U' R2 U',10, F2 U' F U2 R F2 R U' F2 U
+RenoSummer2025,6.67,1,C,5,R' F' U' R U' R U' R' U R' F',8, R' F R' U' F' R F2 U'
+RenoSummer2025,6.67,1,C,1,R U R U2 R' U' R' U2 R U R,6, U R2 U R' U' R'
+RenoSummer2025,6.67,1,C,2,R' F2 R U F' U2 R2 U' F R U2,8, R2 U R F R2 U' F2 U'
+SydChamps2017,6.67,1,A,1,R' F U' R' U R' U2 F R U R,7, F2 U F' R F2 U' R2
+SydChamps2017,6.67,1,A,2,U2 R F' R' U' R U2 R2 U2 R U,8, F R' F' R U F' R2 F
+SydChamps2017,6.67,1,A,3,R' U2 F U' R2 U2 R2 U2 F' U2 R,8, R U2 F' R2 U F' U2 R
+SydChamps2017,6.67,1,A,4,U' R U' R' U' R2 F' U' R2 U' F,7, F2 U' R F' U' R U2
+SydChamps2017,6.67,1,A,5,U2 R F' U' R' U' R' U' F' U' R,4, R' U2 R2 F
+SydChamps2017,6.67,1,A,1,R' F' R U F R U' R' F R U,6, R F2 R' U F2 R2
+SydChamps2017,6.67,1,A,2,R' F R F' R2 F' U2 R' U2 R' U2,10, F U2 R F U R2 F' R U2 F'
+ThapraCubeBattle2025,6.67,1,D,1,U2 R U' R2 U' F R' U R' U' R,9, F' R F R' F2 U2 F U R
+ThapraCubeBattle2025,6.67,1,D,2,R' F R' F2 R U' R U' R2 U2 F,9, U2 R2 U' F' R2 F U' F U
+ThapraCubeBattle2025,6.67,1,D,3,U' R U' R' U2 R2 U' F2 U' F R2,8, U R' F R' U F U2 F
+ThapraCubeBattle2025,6.67,1,D,4,U' R F' R' U2 R' U' F R2 F' R',6, F' R2 U' R F' R'
+ThapraCubeBattle2025,6.67,1,D,5,U' R' F2 U' R2 U R' F U' R2 U2,9, R2 U2 R' U F2 R' U' F2 U
+ThapraCubeBattle2025,6.67,1,D,1,R' F R U R U' F' R2 U' R U,6, R U' F' U2 F R2
+ThapraCubeBattle2025,6.67,1,D,2,R U' F R2 U' R' U2 R' U2 R U',6, R2 F U F2 U R
+UtahMegacomp2015,6.67,1,D,1,U' R U' R2 U2 F U' F2 R U' F,9, U2 R2 F' U R2 F' R' U2 R2
+UtahMegacomp2015,6.67,1,D,2,U R' U2 R U R U' R2 U R' F,7, F' R U R2 U R' U2
+UtahMegacomp2015,6.67,1,D,3,R U' R2 F U2 F2 U' F U' R2 U',7, F U' F' U F' U2 R2
+UtahMegacomp2015,6.67,1,D,4,U R' U2 F' U' F R U R' F R',6, F' U R F' U F
+UtahMegacomp2015,6.67,1,D,5,R' F' U R U' F U' R U' R U',9, F' R2 F R2 F R F U2 R2
+UtahMegacomp2015,6.67,1,D,1,R' U' R U' R U' R2 F2 U F' R,6, U' F U' F2 R2 U2
+UtahMegacomp2015,6.67,1,D,2,R' U' R U R' F U' R' F U R,9, R F' U2 R2 F' U' R U2 F2
+WPIWinterCubeDay2018,6.67,1,D,1,U2 R' U R2 F R U' R' U' F U2,8, R2 U R2 F' U F' R' F
+WPIWinterCubeDay2018,6.67,1,D,2,R U2 R2 U' F R2 U2 F U2 F R,8, F' U' F2 U R' F2 U2 R2
+WPIWinterCubeDay2018,6.67,1,D,3,U' R' F' R F' U' F R U' R U',6, U2 F U R2 F2 R'
+WPIWinterCubeDay2018,6.67,1,D,4,R' U2 R U' R' F U' R2 F' R2 U2,6, R' U' F' R U2 R
+WPIWinterCubeDay2018,6.67,1,D,5,R F' U2 R2 U' F U2 F' R' F U',10, F R' F' R' U2 R' U' F' U2 F'
+WPIWinterCubeDay2018,6.67,1,D,1,R' F2 U' F R2 U' R' U' R' U' F',6, F U2 F' R2 F' U2
+WPIWinterCubeDay2018,6.67,1,D,2,U' R F' R2 F' R U' F' R' U2 R',9, F' R' U' R2 U' F R2 F' U'

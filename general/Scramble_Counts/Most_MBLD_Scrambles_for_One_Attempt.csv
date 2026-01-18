@@ -1,4 +1,4 @@
-competition_id,round_type_id,group_id,scramble_num,Scramble Count
+competition_id,round_type_id,group_id,scramble_num,scramble_count
 CubingUSANationals2017,f,A,2,343
 CubingUSANationals2017,f,A,1,343
 USNationals2016,f,A,1,280

@@ -5,10 +5,19 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>WCA Scramble Statistics</title>
     <link rel="stylesheet" href="../styles.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.4.1/papaparse.min.js"></script>
 </head>
 <body>
-    <h1><a id="event-header" href="../">clock</a></h1>
+    <h1><a id="event-header" href="../">Clock</a></h1>
     <select id="csv-selector" onchange="updateSubOptions()">
+        
+        <option value="State_Stats">State Stats</option>
+        
+        <option value="Best_Groups">Best Groups</option>
+        
+        <option value="Distributions">Distributions</option>
+        
+        <option value="All_<X_Movers">All &lt;X Movers</option>
         
         <option value="Scramble_Sequences">Scramble Sequences</option>
         
@@ -24,13 +33,77 @@
     <script>
         const csvFiles = {
             
-            'Scramble_Sequences': ['Scramble_Sequences/Most_Zeros'],
+            'State_Stats': ['State_Stats/Most_Pairs', 'State_Stats/Most_Solved_Pieces', 'State_Stats/Solved_Cross'],
+            
+            'Best_Groups': ['Best_Groups/Tickcount_Mo5.csv', 'Best_Groups/Movecount_Ao5.csv', 'Best_Groups/Movecount_Mo5.csv', 'Best_Groups/Simtickcount_Mo5.csv', 'Best_Groups/Simulcount_Best_Possible_Ao5.csv', 'Best_Groups/Simtickcount_Ao5.csv', 'Best_Groups/Simulcount_Ao5.csv', 'Best_Groups/Simtickcount_Best_Possible_Ao5.csv', 'Best_Groups/Tickcount_Ao5.csv', 'Best_Groups/Tickcount_Best_Possible_Ao5.csv', 'Best_Groups/Movecount_Best_Possible_Ao5.csv', 'Best_Groups/Simulcount_Mo5.csv'],
+            
+            'Distributions': ['Distributions/Optimal_Movecount.csv', 'Distributions/Optimal_Tickcount.csv', 'Distributions/Optimal_Simulcount.csv', 'Distributions/Optimal_Simtickcount.csv', 'Distributions/Scramble_Lengths.csv'],
+            
+            'All_<X_Movers': ['All_<X_Movers/<5_Simul_Moves', 'All_<X_Movers/<11_Simul_Ticks', 'All_<X_Movers/<15_Ticks', 'All_<X_Movers/<7_Moves'],
+            
+            'Scramble_Sequences': ['Scramble_Sequences/Most_Zeros', 'Scramble_Sequences/Most_Ticks', 'Scramble_Sequences/Most_Ones', 'Scramble_Sequences/Most_Sixes', 'Scramble_Sequences/Fewest_Ticks'],
             
         };
 
         const subCategoryNames = {
             
+            'State_Stats/Most_Pairs': 'Most Pairs',
+            
+            'State_Stats/Most_Solved_Pieces': 'Most Solved Pieces',
+            
+            'State_Stats/Solved_Cross': 'Solved Cross',
+            
+            'Best_Groups/Tickcount_Mo5.csv': 'Tickcount Mo5',
+            
+            'Best_Groups/Movecount_Ao5.csv': 'Movecount Ao5',
+            
+            'Best_Groups/Movecount_Mo5.csv': 'Movecount Mo5',
+            
+            'Best_Groups/Simtickcount_Mo5.csv': 'Simtickcount Mo5',
+            
+            'Best_Groups/Simulcount_Best_Possible_Ao5.csv': 'Simulcount Best Possible Ao5',
+            
+            'Best_Groups/Simtickcount_Ao5.csv': 'Simtickcount Ao5',
+            
+            'Best_Groups/Simulcount_Ao5.csv': 'Simulcount Ao5',
+            
+            'Best_Groups/Simtickcount_Best_Possible_Ao5.csv': 'Simtickcount Best Possible Ao5',
+            
+            'Best_Groups/Tickcount_Ao5.csv': 'Tickcount Ao5',
+            
+            'Best_Groups/Tickcount_Best_Possible_Ao5.csv': 'Tickcount Best Possible Ao5',
+            
+            'Best_Groups/Movecount_Best_Possible_Ao5.csv': 'Movecount Best Possible Ao5',
+            
+            'Best_Groups/Simulcount_Mo5.csv': 'Simulcount Mo5',
+            
+            'Distributions/Optimal_Movecount.csv': 'Optimal Movecount',
+            
+            'Distributions/Optimal_Tickcount.csv': 'Optimal Tickcount',
+            
+            'Distributions/Optimal_Simulcount.csv': 'Optimal Simulcount',
+            
+            'Distributions/Optimal_Simtickcount.csv': 'Optimal Simtickcount',
+            
+            'Distributions/Scramble_Lengths.csv': 'Scramble Lengths',
+            
+            'All_<X_Movers/<5_Simul_Moves': '<5 Simul Moves',
+            
+            'All_<X_Movers/<11_Simul_Ticks': '<11 Simul Ticks',
+            
+            'All_<X_Movers/<15_Ticks': '<15 Ticks',
+            
+            'All_<X_Movers/<7_Moves': '<7 Moves',
+            
             'Scramble_Sequences/Most_Zeros': 'Most Zeros',
+            
+            'Scramble_Sequences/Most_Ticks': 'Most Ticks',
+            
+            'Scramble_Sequences/Most_Ones': 'Most Ones',
+            
+            'Scramble_Sequences/Most_Sixes': 'Most Sixes',
+            
+            'Scramble_Sequences/Fewest_Ticks': 'Fewest Ticks',
             
         };
 
@@ -54,91 +127,67 @@
         }
 
         function displayCSV(filename) {
-            fetch(filename)
-                .then(response => response.text())
-                .then(text => {
-                    const rows = text.split('\n').filter(row => row.trim() !== '');
-                    let table = '<table>';
-                    let prevRow = [];
+            Papa.parse(filename, {
+                download: true,
+                skipEmptyLines: true,
+                complete: function(results) {
+                    const rows = results.data; // PapaParse gives us an array of arrays
+                    if (rows.length === 0) return;
+
                     let rowspans = [];
                     let colTracker = [];
+                    const numCols = rows[0].length;
 
-                    rows.forEach((row, rowIndex) => {
-                        const cols = row.split(',').map(col => col.trim());
-                        cols.forEach((col, colIndex) => {
-                            colTracker[colIndex] = 1;
-                        });
+                    // Initialize tracking arrays
+                    rows.forEach((_, rowIndex) => {
+                        rowspans[rowIndex] = new Array(numCols).fill(1);
                     });
-                    
+                    colTracker = new Array(numCols).fill(1);
 
-                    rows.forEach((row, rowIndex) => {
-                        const cols = row.split(',').map(col => col.trim());
-                        // table += '<tr>';
+                    // LOOP 1: Calculate Rowspans
+                    // We start from index 1 (second row) to compare with the one above
+                    for (let i = 1; i < rows.length; i++) {
                         let canCombine = true;
-                        
-                        rowspans[rowIndex] = []
-                        
 
-                        cols.forEach((col, colIndex) => {
-                            rowspans[rowIndex][colIndex] = 1;
-
-                            if (rowIndex === 0) {
-                                // Add header row
-                                // table += `<th>${col}</th>`;
-                                prevRow[colIndex] = col;
+                        for (let j = 0; j < numCols; j++) {
+                            // Check if current cell matches cell above AND the previous column also merged
+                            if (canCombine && rows[i][j] === rows[i - 1][j]) {
+                                colTracker[j]++;
+                                // Update the 'root' cell (the one that stays visible) with the new span count
+                                rowspans[i - colTracker[j] + 1][j] = colTracker[j];
+                                // Mark current cell as 0 so we know to skip it in the HTML loop
+                                rowspans[i][j] = 0; 
                             } else {
-                                if (col === prevRow[colIndex] && canCombine) {
-                                    colTracker[colIndex] += 1;
-                                    rowspans[rowIndex - colTracker[colIndex] + 1][colIndex] = colTracker[colIndex];
-                                    // rowspans[rowIndex - (rowspans[rowIndex][colIndex])][colIndex] += 1;
-                                    // table += '<td></td>'; // Empty cell for duplicate value
-                                } else {
-                                    colTracker[colIndex] = 1;
-                                    // table += `<td>${col}</td>`;
-                                    canCombine = false; // Stop combining for the rest of the row
-                                }
-                                prevRow[colIndex] = col; // Update prevRow with the current value
-                                
+                                colTracker[j] = 1;
+                                canCombine = false; // Break the horizontal "combine" chain
                             }
-                            
-                        });
-                        // table += '</tr>';
-                        
-                    });
+                        }
+                    }
 
+                    // LOOP 2: Generate HTML
+                    let table = '<table>';
                     rows.forEach((row, rowIndex) => {
-                        const cols = row.split(',').map(col => col.trim());
                         table += '<tr>';
-                        let canCombine = true;
-                        
-
-                        cols.forEach((col, colIndex) => {
+                        row.forEach((col, colIndex) => {
+                            const span = rowspans[rowIndex][colIndex];
 
                             if (rowIndex === 0) {
-                                // Add header row
+                                // Header Row
                                 table += `<th>${col}</th>`;
-                                prevRow[colIndex] = col;
                             } else {
-                                if (col === prevRow[colIndex] && canCombine) {
-                                    // rowspans[rowIndex - (rowspans[rowIndex][colIndex])][colIndex] += 1;
-                                    // table += '<td></td>'; // Empty cell for duplicate value
-                                } else {
-                                    table += `<td rowspan="${rowspans[rowIndex][colIndex]}">${col}</td>`;
-                                    canCombine = false; // Stop combining for the rest of the row
+                                // Only create a <td> if its rowspan is > 0
+                                if (span > 0) {
+                                    table += `<td rowspan="${span}">${col}</td>`;
                                 }
-                                prevRow[colIndex] = col; // Update prevRow with the current value
-                                
                             }
-                            
                         });
                         table += '</tr>';
-                        
                     });
-
                     table += '</table>';
-                    console.log(rowspans)
+
                     document.getElementById('csv-data').innerHTML = table;
-                });
+                }
+            });
         }
 
         function displaySelectedCSV() {

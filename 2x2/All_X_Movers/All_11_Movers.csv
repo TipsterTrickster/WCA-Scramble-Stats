@@ -1,4 +1,4 @@
-competition_id,round_type_id,group_id,is_extra,scramble_num,scramble,Optimal Solution
+competition_id,round_type_id,group_id,is_extra,scramble_num,scramble,optimal_solution
 DeWilgOpen2014,f,B,0,5,U F U2 F R' F U2 F U2 R U, F U2 F R2 F2 U F' U F2 U F2
 GijonOpen2014,1,B,1,2,R' U' F R2 U' R' U' R2 U' R' U', F2 U F' U F' R' U F2 U R F'
 Michigan2014,1,A,0,4,R' U2 F U R2 U2 R' U' R F' U', F2 R F' U' R' U F2 R' U F2 U'

@@ -1,0 +1,225 @@
+competition_id,Ao5,round_type_id,group_id,is_extra,scramble_num,scramble,optimal_movecount,movecount_solution
+LentOpen2015,7.67,d,B,0,1,UR5- DR6+ DL1- UL1- U2- R2+ D6+ L2+ ALL5+ y2 U1+ R5+ D3- L3- ALL1- DL UL,8,UR4- DR1+ \3+ y2 L4- DL5- DR4- UR1- ALL3+
+LentOpen2015,7.67,d,B,0,2,UR1+ DR5+ DL2+ UL2- U4+ R1+ D1+ L4+ ALL1- y2 U4- R5- D1- L0+ ALL5+ DL UL,9,DR5+ DL1- UL3- dr3+ dl1+ ul2- ALL6- y2 DR1+ UR4+
+LentOpen2015,7.67,d,B,0,3,UR3+ DR5+ DL4- UL6+ U3+ R4- D3+ L0+ ALL3- y2 U6+ R0+ D2+ L5- ALL4- UR DR UL,9,DR4- L2- ur4- /1+ y2 dl5- dr2+ D2- U1+ UL5+
+LentOpen2015,7.67,d,B,0,4,UR5- DR2+ DL4- UL4+ U2- R6+ D2- L5- ALL4- y2 U5+ R4- D5- L6+ ALL1- UR DR DL UL,11,UR3+ DR3+ DL1+ R3+ L4+ \4- y2 U2+ UL1+ DL5+ UR4+ /1-
+LentOpen2015,7.67,d,B,0,5,UR5- DR6+ DL3- UL6+ U1- R2+ D5+ L3- ALL3+ y2 U0+ R5+ D4- L0+ ALL5- UL,7,R3- D4+ dl5+ /6- \2+ y2 D3- DR5-
+LentOpen2015,7.67,d,B,1,1,UR3- DR2- DL0+ UL5- U3- R4- D2+ L3+ ALL4- y2 U0+ R0+ D6+ L4- ALL4+ UR DR DL,7,UR3- UL2+ dr5+ y2 dr6+ L2- DL6+ \4-
+LentOpen2015,7.67,d,B,1,2,UR4+ DR0+ DL1+ UL6+ U6+ R4- D1+ L1+ ALL2+ y2 U5- R2+ D4- L1+ ALL2+ UR UL,8,DL3+ U4- D5- L1+ y2 dr5- UL1- DR4+ UR6+
+SkewbontheMadisonSnow2025,7.67,1,B,0,1,UR1- DR3+ DL4+ UL5- U4+ R6+ D5- L1+ ALL3+ y2 U2- R6+ D2+ L3- ALL2-,10,UR2+ R2+ D2- y2 dl5- dr1- D3+ DL3+ DR4+ UR2+ ALL5+
+SkewbontheMadisonSnow2025,7.67,1,B,0,2,UR1- DR3+ DL1+ UL3- U5- R2- D2+ L6+ ALL3+ y2 U1+ R2+ D5+ L1+ ALL6+,8,DL6- U3- L2+ ul6- /3- y2 R3+ UL1- DR5-
+SkewbontheMadisonSnow2025,7.67,1,B,0,3,UR0+ DR2- DL3- UL3- U4- R0+ D3+ L6+ ALL6+ y2 U3+ R1+ D3+ L3- ALL2+,7,DR2+ U5- y2 R5+ L3+ DR3- UR3- ALL4+
+SkewbontheMadisonSnow2025,7.67,1,B,0,4,UR0+ DR2- DL2+ UL1- U1+ R0+ D2- L4- ALL2+ y2 U0+ R5- D0+ L0+ ALL1-,6,DR2+ L3+ ur2+ ALL3- y2 dl1+ R5+
+SkewbontheMadisonSnow2025,7.67,1,B,0,5,UR5+ DR4+ DL3+ UL5- U0+ R4+ D2- L2- ALL2- y2 U2- R3+ D4- L3+ ALL3+,10,DR1- DL4- L4- ALL4+ y2 ul1+ dl1+ UL5+ DL4+ UR3- \1+
+SkewbontheMadisonSnow2025,7.67,1,B,1,1,UR2- DR5- DL5+ UL0+ U6+ R3+ D0+ L1- ALL5- y2 U1+ R4+ D2+ L3- ALL2+,9,UL4- R4+ ul1- y2 ur2+ U2- UL5+ DL2- UR4- /5-
+SkewbontheMadisonSnow2025,7.67,1,B,1,2,UR2- DR4- DL2- UL6+ U3+ R1- D1- L2+ ALL5+ y2 U3+ R3+ D2+ L2+ ALL5+,8,DR5- UL5+ L1+ ul5+ y2 ur2+ UL2- DR2- UR1-
+AGChampionship2017,8.0,c,C,0,1,UR4+ DR5+ DL4+ UL1- U3- R3+ D5+ L3- ALL3- y2 U1- R2+ D3- L4- ALL2+ DR,8,D2- /1+ \4+ ALL2- y2 D1- U3+ DL4+ UR2-
+AGChampionship2017,8.0,c,C,0,2,UR2- DR4+ DL3- UL5+ U4- R4- D1+ L0+ ALL2- y2 U1+ R1+ D2- L3- ALL2+ UR DR DL,10,UR1+ DL2- R1+ dr5+ y2 dr3- ur1- U1- DL3+ DR1- /4+
+AGChampionship2017,8.0,c,C,0,3,UR3- DR0+ DL3+ UL5- U5+ R4+ D0+ L5+ ALL5- y2 U2- R1- D5+ L6+ ALL1+ DL UL,8,UR3+ DL3- R4- y2 D1+ U1+ DL6+ UR1+ \6+
+AGChampionship2017,8.0,c,C,0,4,UR4- DR4- DL5+ UL1+ U2- R4+ D3- L0+ ALL6+ y2 U2- R5+ D4+ L4- ALL0+ UR DL,11,DR4+ DL2- U5+ L4- \6- y2 ul1- dl1- R1- L2+ UL2+ DR4-
+AGChampionship2017,8.0,c,C,0,5,UR5- DR2- DL1- UL4- U4+ R2- D0+ L5- ALL1+ y2 U3- R5- D5- L0+ ALL2- UR UL,9,UR5+ DR5+ DL2- R1- ur4+ /3+ y2 dl5- U3+ DR5+
+AGChampionship2017,8.0,c,C,1,1,UR2+ DR2+ DL5- UL1- U5+ R5+ D0+ L6+ ALL1+ y2 U3- R4+ D4+ L0+ ALL0+ UR DL UL,8,DR3+ U6- y2 ul3+ ur6+ U3+ DR4- /2- \1+
+AGChampionship2017,8.0,c,C,1,2,UR6+ DR4+ DL3+ UL2- U0+ R4- D0+ L5- ALL3- y2 U0+ R5- D2- L0+ ALL3+ UR DR,8,UR6- DL2+ UL2+ D3+ y2 ur4- D3- DR5+ ALL6+
+ANewYearinHamilton2023,8.0,e,B,0,1,UR3- DR2+ DL5- UL3+ U1+ R0+ D5+ L3- ALL3- y2 U1- R6+ D0+ L4+ ALL4+ DR UL,10,UR1- DR2+ DL5+ D3+ dr6- y2 R1+ UL4- UR5+ \4- ALL1+
+ANewYearinHamilton2023,8.0,e,B,0,2,UR2- DR4- DL5+ UL2+ U5- R5+ D3+ L2+ ALL6+ y2 U5- R6+ D5- L5- ALL2+ UR DR DL UL,9,UR5+ DR4- L3+ dr2- dl2- y2 R1+ UL5+ DR5+ \4-
+ANewYearinHamilton2023,8.0,e,B,0,3,UR5+ DR3+ DL1- UL3- U4+ R6+ D2- L4+ ALL2+ y2 U0+ R6+ D3+ L3- ALL2+ UR DL UL,7,UR2- U4- y2 ul2- ur3- UL3+ DR3- UR3-
+ANewYearinHamilton2023,8.0,e,B,0,4,UR5+ DR0+ DL3- UL3- U2- R2- D2- L1+ ALL5- y2 U2+ R2+ D5+ L0+ ALL1- DR UL,8,UR3- DL5+ U3+ ALL6- y2 dl1+ D5- UR2- /2-
+ANewYearinHamilton2023,8.0,e,B,0,5,UR5- DR3- DL3+ UL1- U2- R6+ D0+ L4+ ALL5+ y2 U3+ R0+ D0+ L1- ALL1- DR DL,8,UR2+ UL6- /3- y2 ul6+ dl4+ U3- L1+ /3+
+ANewYearinHamilton2023,8.0,e,B,1,1,UR5- DR3+ DL1+ UL3- U3+ R2+ D1- L4+ ALL6+ y2 U1+ R3+ D4- L1+ ALL4- DR DL,10,DL3- UL1+ U4+ y2 dl2+ dr2+ ur3- D4+ R3- UL1- /2+
+ANewYearinHamilton2023,8.0,e,B,1,2,UR3+ DR3- DL1+ UL2+ U4- R4+ D1- L3+ ALL5+ y2 U6+ R3+ D5+ L2- ALL5+ DR DL,8,UR1- DR3- DL6- y2 ur6+ U2+ UL2+ DR5- UR2+
+BangkokBigTimeinFarm2023,8.0,2,C,0,1,UR2+ DR4- DL1+ UL0+ U2- R3- D6+ L2- ALL2- y2 U3+ R6+ D6+ L3+ ALL2- DR DL,8,DR4+ DL5+ R1+ L4- dl2- y2 dr5+ UL3- DR6+
+BangkokBigTimeinFarm2023,8.0,2,C,0,2,UR3- DR5+ DL1- UL2+ U5+ R2+ D1- L4+ ALL1- y2 U2- R3+ D4+ L6+ ALL5- DR DL UL,9,UR4- D3- L5- y2 D4- U1- UL6+ UR3- /1+ \5-
+BangkokBigTimeinFarm2023,8.0,2,C,0,3,UR1- DR4+ DL3+ UL3- U4- R1- D1+ L4- ALL6+ y2 U1- R2- D6+ L5- ALL5- UR DR DL,10,DR1+ UL4+ U4+ R3- D3+ ur3+ \1- y2 DL5+ DR1+ UR1+
+BangkokBigTimeinFarm2023,8.0,2,C,0,4,UR2- DR0+ DL2+ UL3- U4- R6+ D5+ L0+ ALL0+ y2 U4+ R4- D0+ L2+ ALL1+ UR DR DL UL,9,UR4- UL1+ D5+ dl6- y2 R6+ UL2- UR2- /2- ALL3-
+BangkokBigTimeinFarm2023,8.0,2,C,0,5,UR1+ DR5- DL5+ UL1+ U1- R1+ D0+ L1- ALL1+ y2 U1- R1- D3- L0+ ALL3- DL UL,7,UR1- DR5+ DL5- R1- y2 D3+ UR1+ ALL4+
+BangkokBigTimeinFarm2023,8.0,2,C,1,1,UR1+ DR5+ DL1+ UL6+ U4- R2+ D1- L5- ALL1+ y2 U3- R3- D3- L6+ ALL3+ DR DL UL,8,UR3- DR5- L2- dr6- \2- y2 U3+ L6+ DR3+
+BangkokBigTimeinFarm2023,8.0,2,C,1,2,UR6+ DR2+ DL6+ UL6+ U4+ R4- D5+ L1+ ALL2+ y2 U0+ R5+ D2- L6+ ALL2+ UR DR,8,UR4- DL1- ur5+ dr6- dl2+ y2 R5- L4+ DL2+
+BogotaChampionship2019,8.0,d,B,0,1,UR4+ DR5+ DL6+ UL6+ U3- R0+ D1- L4+ ALL3+ y2 U1- R3- D1- L2+ ALL2- UR DR DL,9,UR3+ DL6- UL2+ D4- /5+ y2 dr3+ D1+ UL2- UR3+
+BogotaChampionship2019,8.0,d,B,0,2,UR2- DR4- DL5+ UL6+ U1- R4+ D1+ L4+ ALL3+ y2 U4+ R5+ D4+ L5+ ALL4+ UR DR,10,UR2+ DL5- UL2+ U5+ D3+ ALL1+ y2 R1- L1- DL4- UR4-
+BogotaChampionship2019,8.0,d,B,0,3,UR2+ DR0+ DL6+ UL4- U5- R3+ D6+ L3+ ALL1- y2 U3- R3+ D5+ L3- ALL2- DR UL,8,UL5- R5- y2 dr2- D1+ L3+ DR6+ UR3+ ALL1+
+BogotaChampionship2019,8.0,d,B,0,4,UR4- DR4+ DL3+ UL2+ U5+ R5+ D0+ L3+ ALL2+ y2 U0+ R1+ D0+ L3- ALL6+ DL UL,9,UR5- UL2+ D5+ L2+ y2 R1- L3+ /3- \4- ALL1+
+BogotaChampionship2019,8.0,d,B,0,5,UR0+ DR5- DL4+ UL5- U3- R5+ D3+ L1+ ALL6+ y2 U1+ R4- D1- L5- ALL3- DL UL,8,U4- D2- y2 D3- U1- L5+ DR4+ \5+ ALL2+
+BogotaChampionship2019,8.0,d,B,1,1,UR5+ DR4- DL2- UL0+ U3- R3- D2+ L3- ALL5- y2 U5- R4- D4- L2- ALL3- DL UL,8,UR2- DR4+ L5+ ur4- \2- y2 L3- UL5+ DR4+
+BogotaChampionship2019,8.0,d,B,1,2,UR6+ DR0+ DL4- UL1+ U2+ R3+ D3- L3+ ALL1- y2 U1- R1- D6+ L0+ ALL3- UR DR UL,7,UR3+ D5- dl3- ALL2- y2 ul4+ D6+ UR1+
+CFGoesSidewaysBrzeziny2025,8.0,f,A,0,1,UR2- DR4- DL0+ UL4+ U3+ R2- D1+ L4- ALL2- y2 U2+ R0+ D4- L6+ ALL1-,8,U5- R4- D3+ y2 dl4- D4- UL2- DL4- ALL1-
+CFGoesSidewaysBrzeziny2025,8.0,f,A,0,2,UR2- DR2+ DL3- UL3- U4- R3+ D1+ L5+ ALL3+ y2 U1- R4+ D0+ L5- ALL5-,9,UR3- L1+ y2 ul3+ dl1- dr2- ur2- UL5+ UR4- ALL4-
+CFGoesSidewaysBrzeziny2025,8.0,f,A,0,3,UR3- DR3+ DL4+ UL3+ U2- R3- D5- L3- ALL0+ y2 U1+ R3+ D1- L2- ALL1+,10,UR3+ UL4- U3+ D2- ur6- y2 L1- DL3+ DR2- UR1- ALL1-
+CFGoesSidewaysBrzeziny2025,8.0,f,A,0,4,UR0+ DR3+ DL0+ UL2+ U5- R2- D6+ L3+ ALL3+ y2 U5+ R2- D4- L5+ ALL5+,10,U3+ R1- D3+ L5- ALL2+ y2 ur1+ U5+ L3+ DL4+ UR2+
+CFGoesSidewaysBrzeziny2025,8.0,f,A,0,5,UR3- DR5+ DL2+ UL1- U1- R2- D3- L2- ALL1- y2 U6+ R6+ D0+ L5+ ALL6+,8,DL4- UL5+ /5+ y2 ul2+ dr2- R5- UL5- UR1-
+CFGoesSidewaysBrzeziny2025,8.0,f,A,1,1,UR1- DR5- DL5+ UL4- U5+ R6+ D1+ L0+ ALL5+ y2 U1+ R5- D5- L3+ ALL4+,8,D1- L1- dr4- ul5- ALL1- y2 L2- UL1- DR5+
+CFGoesSidewaysBrzeziny2025,8.0,f,A,1,2,UR2- DR1- DL2- UL6+ U4- R2+ D4- L6+ ALL5+ y2 U4- R4- D3+ L3+ ALL3-,8,DL2+ R1+ D5+ dl2- y2 DL3- UR4+ \2- ALL6+
+CastleManiaNiepolomice2024,8.0,d,B,0,1,UR3- DR6+ DL0+ UL4+ U0+ R1+ D6+ L5+ ALL1+ y2 U1- R3- D5- L1+ ALL5-,8,UR4- UL3+ dl5+ y2 D5+ R2+ L1- UR1+ \6+
+CastleManiaNiepolomice2024,8.0,d,B,0,2,UR0+ DR0+ DL0+ UL3+ U4- R2- D2- L2- ALL3- y2 U5- R3- D0+ L4- ALL5+,8,UR2+ UL1- D2+ dr1- ALL4- y2 L2+ UL2+ UR3+
+CastleManiaNiepolomice2024,8.0,d,B,0,3,UR3- DR2+ DL2- UL1+ U2- R0+ D4+ L5+ ALL2+ y2 U1- R4+ D5+ L4+ ALL4-,10,UR1+ DL4- U3+ ALL5+ y2 dr1+ ur2- L4- DR5- UR1+ /1+
+CastleManiaNiepolomice2024,8.0,d,B,0,4,UR0+ DR1- DL1+ UL0+ U2+ R5- D6+ L1+ ALL1+ y2 U2+ R1+ D2+ L3+ ALL5+,8,DR6- UL2- dr3+ y2 dl1- DL3- DR1+ UR2- \4+
+CastleManiaNiepolomice2024,8.0,d,B,0,5,UR2- DR4- DL1- UL5+ U0+ R2+ D5- L2- ALL6+ y2 U2+ R5+ D3+ L6+ ALL4+,10,DL1+ UL3- R4+ D3- /2+ y2 ur2+ D1+ R5- UL2- DL4-
+CastleManiaNiepolomice2024,8.0,d,B,1,1,UR6+ DR4+ DL1+ UL4+ U1- R2+ D5- L4- ALL1+ y2 U4+ R3- D1+ L3- ALL4-,8,UL3+ L4- /4+ \1+ y2 D1- L2- UL5+ UR3+
+CastleManiaNiepolomice2024,8.0,d,B,1,2,UR0+ DR2- DL2- UL2+ U1+ R3- D5+ L5+ ALL3+ y2 U3- R4+ D1- L2+ ALL6+,10,DL2- UL3- R5+ D1+ dr1- ALL3+ y2 D5- U3+ DL2- DR4-
+ClockedinQuezonCity2024,8.0,2,B,0,1,UR6+ DR6+ DL1+ UL5+ U2- R4- D5+ L5- ALL2+ y2 U0+ R0+ D2+ L2+ ALL5-,8,UR3+ DR1+ DL1- /5- y2 dl2+ dr3+ D2- L2-
+ClockedinQuezonCity2024,8.0,2,B,0,2,UR6+ DR0+ DL5+ UL3- U3+ R6+ D2+ L5- ALL3- y2 U5- R3- D5- L5- ALL5-,8,UL3+ U3+ D5+ \2+ y2 dr1+ D2+ UL5+ DR3+
+ClockedinQuezonCity2024,8.0,2,B,0,3,UR4+ DR2- DL5- UL0+ U5+ R4+ D3- L5+ ALL0+ y2 U5- R1+ D4+ L3- ALL4+,9,UR3+ R3+ D2- y2 dr6+ D1- UL5+ DL2- DR1- /4+
+ClockedinQuezonCity2024,8.0,2,B,0,4,UR3- DR4+ DL4+ UL0+ U5- R2+ D4+ L5+ ALL5+ y2 U6+ R5+ D1- L6+ ALL5+,8,DR3- DL3+ U4- y2 dr3- ur1- D6+ UL6+ DR5-
+ClockedinQuezonCity2024,8.0,2,B,0,5,UR0+ DR1+ DL5+ UL3- U1- R2+ D6+ L6+ ALL3- y2 U1- R6+ D4+ L1+ ALL2-,8,UL4+ R3- ul2- y2 L4- DL3+ DR5+ UR1+ ALL1-
+ClockedinQuezonCity2024,8.0,2,B,1,1,UR1- DR4- DL3- UL4+ U3- R4+ D1- L5- ALL1+ y2 U5- R2- D2+ L5- ALL1-,10,DR4+ DL4+ R3- ur1+ /2+ y2 dr1+ U3+ L5- DL2- UR2+
+ClockedinQuezonCity2024,8.0,2,B,1,2,UR2+ DR5+ DL5- UL4+ U3- R3+ D3- L2+ ALL2+ y2 U3- R1+ D4+ L4- ALL2+,9,UR2+ DL4+ UL5- D1- ul5+ y2 ul1+ D4- UL4+ UR1-
+CubeOninRichardson2025,8.0,d,A,0,1,UR6+ DR4- DL4+ UL1- U1- R0+ D3- L1+ ALL3- y2 U5+ R5+ D0+ L6+ ALL3-,8,UL4- R2- D3+ ur4+ y2 ur4+ U6+ UL6+ UR5-
+CubeOninRichardson2025,8.0,d,A,0,2,UR0+ DR2- DL1+ UL0+ U1+ R1+ D2- L2+ ALL1+ y2 U1+ R1+ D2+ L2+ ALL1+,7,DL3+ UL1- R1+ L5- y2 ul4- DL2- UR1-
+CubeOninRichardson2025,8.0,d,A,0,3,UR2- DR5+ DL3+ UL3- U3+ R5- D4- L6+ ALL5+ y2 U4+ R1- D3- L5- ALL2+,10,UR2+ DL3- D1- L3- ALL3- y2 dl3+ D2- R1+ U4- DL5+
+CubeOninRichardson2025,8.0,d,A,0,4,UR2- DR5+ DL4- UL0+ U6+ R3+ D5- L5- ALL5+ y2 U2+ R3+ D5- L4+ ALL2-,10,UR2+ DR4+ U6- L3- y2 ul1+ ur1- U2- DL4- DR3- ALL5-
+CubeOninRichardson2025,8.0,d,A,0,5,UR3+ DR2- DL3+ UL5- U5+ R1+ D2+ L1- ALL3+ y2 U4- R4+ D0+ L4- ALL0+,9,DR2- UL3- D1- L6- \3+ y2 ur4+ R4+ L4+ UR4+
+CubeOninRichardson2025,8.0,d,A,1,1,UR5- DR5- DL5- UL5+ U3+ R2+ D0+ L6+ ALL2- y2 U2+ R0+ D6+ L2+ ALL5+,9,UR2- DR2- U1- L6- y2 ul5+ dr5+ D6+ UL2- \5-
+CubeOninRichardson2025,8.0,d,A,1,2,UR1+ DR2- DL5- UL2+ U3- R4- D3- L3+ ALL5+ y2 U5+ R0+ D0+ L0+ ALL1+,7,DR5+ D5+ ur6- dr1- /3+ y2 U5- /1-
+DonasenTlalocanVolumen22024,8.0,d,A,0,1,UR4+ DR5+ DL1- UL5+ U3+ R3+ D1+ L4- ALL6+ y2 U4- R1+ D1- L6+ ALL1+,7,D5- /5- y2 D2+ L2+ UL4+ DR1- \2+
+DonasenTlalocanVolumen22024,8.0,d,A,0,2,UR3- DR0+ DL2+ UL6+ U6+ R1+ D1- L4+ ALL5+ y2 U0+ R0+ D3+ L5- ALL3+,7,UR3+ DR1- /2+ y2 ul2- dl4- L4- DL3-
+DonasenTlalocanVolumen22024,8.0,d,A,0,3,UR3- DR0+ DL1- UL2- U3- R1+ D5- L1+ ALL2+ y2 U3- R6+ D6+ L3- ALL1+,8,UR6- UL2+ R4- D6- y2 ul5- UL3+ DR6+ ALL1+
+DonasenTlalocanVolumen22024,8.0,d,A,0,4,UR1- DR4+ DL0+ UL4+ U5- R4- D0+ L5+ ALL1- y2 U4+ R1- D2- L2+ ALL3-,10,UR1+ UL3+ U2- D4- y2 dl5- dr4- R1+ UL4- DL2+ \2-
+DonasenTlalocanVolumen22024,8.0,d,A,0,5,UR1- DR2- DL1+ UL1- U4+ R2+ D2+ L5+ ALL1+ y2 U5- R4- D3+ L3- ALL4-,11,UR2+ DL1- UL4- R1- ul2- ALL5- y2 dl3- D3- L2+ UL1+ UR4+
+DonasenTlalocanVolumen22024,8.0,d,A,1,1,UR1- DR1+ DL4- UL0+ U2+ R2- D2+ L6+ ALL1- y2 U1+ R1- D6+ L3+ ALL3-,10,DR1+ U1- R1+ L2- ALL2- y2 ur4- R5+ UL1- DL2- DR4-
+DonasenTlalocanVolumen22024,8.0,d,A,1,2,UR2+ DR5- DL5+ UL5+ U5+ R4- D5- L4+ ALL1+ y2 U4+ R3+ D1- L3- ALL2-,9,DR5- DL2- ALL1- y2 dl3+ ur2- L3+ DR1+ UR4- /2-
+EnergyCubeTomaszowMazowiecki2025,8.0,f,A,0,1,UR0+ DR4- DL4- UL4- U4+ R1+ D5+ L5+ ALL0+ y2 U5+ R2- D1+ L6+ ALL4+,8,DL3+ R3+ /3+ y2 R3+ U5- L6+ DR1- \5-
+EnergyCubeTomaszowMazowiecki2025,8.0,f,A,0,2,UR5+ DR1- DL5- UL0+ U6+ R1- D0+ L1+ ALL3+ y2 U2+ R2- D2+ L5- ALL3-,10,DR3- U1+ D3- L4+ \5+ y2 U2- L3- DL4- DR2+ ALL1+
+EnergyCubeTomaszowMazowiecki2025,8.0,f,A,0,3,UR5- DR2- DL0+ UL2- U5+ R2- D2+ L2+ ALL2- y2 U1+ R4+ D1+ L6+ ALL3-,9,UR2+ R5- dl3- ALL2- y2 R3- L5- DL1- UR1- \1+
+EnergyCubeTomaszowMazowiecki2025,8.0,f,A,0,4,UR5+ DR3+ DL4- UL3+ U3- R3- D3- L2- ALL5- y2 U3- R0+ D1+ L2+ ALL3+,8,UR5- DL4+ L1- ALL1- y2 D1- U3+ L2- \3-
+EnergyCubeTomaszowMazowiecki2025,8.0,f,A,0,5,UR3- DR2- DL5+ UL6+ U4+ R3- D5- L2+ ALL2- y2 U2+ R2+ D0+ L5+ ALL5-,8,UR6- DR2+ UL1- \3+ y2 ul2- dl5+ L5- UR2-
+EnergyCubeTomaszowMazowiecki2025,8.0,f,A,1,1,UR4- DR4- DL4+ UL5+ U5- R4- D1+ L4+ ALL3- y2 U1- R5+ D5+ L1- ALL3-,8,DL1- U4+ ul3+ /5+ \5- y2 ul1- UL1+ DR5-
+EnergyCubeTomaszowMazowiecki2025,8.0,f,A,1,2,UR4- DR6+ DL5+ UL4- U2+ R2- D2+ L1+ ALL1+ y2 U4- R3+ D2+ L4- ALL4+,10,UL2- U4- D1- y2 ul5- dr1- D1+ UL5- DL3- UR3- \3+
+FoothillsFinalFight2019,8.0,c,B,0,1,UR6+ DR1+ DL2- UL0+ U4- R6+ D0+ L0+ ALL0+ y2 U1- R4+ D4+ L3+ ALL4- UR UL,8,UR2- DR1- DL2+ R2+ \4+ y2 U1+ L3- DR4-
+FoothillsFinalFight2019,8.0,c,B,0,2,UR2+ DR6+ DL4- UL1- U3- R1+ D2+ L6+ ALL6+ y2 U6+ R3+ D4+ L2- ALL0+ UR DR,9,UR3+ UL1- D4- dl3+ \4- y2 R3- UL6+ DL4- \2+
+FoothillsFinalFight2019,8.0,c,B,0,3,UR1- DR4- DL1+ UL4+ U5+ R1- D3+ L6+ ALL4- y2 U3- R1- D5- L3- ALL0+ UR DL UL,8,UR4+ R2+ L1+ /4- y2 dl4+ D4+ UL3+ DR1+
+FoothillsFinalFight2019,8.0,c,B,0,4,UR0+ DR5+ DL1+ UL1+ U2- R5- D1+ L0+ ALL5+ y2 U1- R5- D5- L0+ ALL5+ DL UL,8,DL3+ U1+ D2+ L5- ul5+ y2 D1+ DR4+ UR1+
+FoothillsFinalFight2019,8.0,c,B,0,5,UR5- DR4- DL2+ UL5+ U0+ R3- D4- L0+ ALL3+ y2 U5+ R4+ D0+ L5- ALL4+ UR,9,DL5+ D1+ /4- ALL4+ y2 dl1- U1- L5+ UR4- /5+
+FoothillsFinalFight2019,8.0,c,B,1,1,UR5- DR3+ DL3- UL3- U5- R2- D3+ L4- ALL3- y2 U4+ R3+ D2- L5- ALL5+ UR,10,DR1- DL2- U1+ R5+ \4+ y2 ul3- U4- UL3+ DL2+ UR3-
+FoothillsFinalFight2019,8.0,c,B,1,2,UR3+ DR5+ DL2+ UL4- U3- R1+ D2- L2- ALL3+ y2 U0+ R3- D0+ L5- ALL3- UR DR DL,8,DR5- UL4+ R4- \2+ y2 dr1- R3+ L5+ ALL4+
+GemCitySpecialIIOH2024,8.0,d,B,0,1,UR6+ DR3+ DL2+ UL1- U3+ R6+ D5- L1- ALL2- y2 U0+ R4- D5+ L1- ALL6+,8,UR4+ R5+ \2- ALL6- y2 dl1+ L2- DL3+ DR4+
+GemCitySpecialIIOH2024,8.0,d,B,0,2,UR2+ DR3- DL3+ UL1- U3- R1+ D4- L2- ALL0+ y2 U3+ R4+ D5- L1+ ALL6+,9,UR2+ DR4+ R6- \5- y2 D5- UL3- DL2+ DR4- \1+
+GemCitySpecialIIOH2024,8.0,d,B,0,3,UR2+ DR6+ DL4+ UL5+ U3+ R4+ D2+ L3- ALL5- y2 U5- R2+ D5- L0+ ALL4+,8,U2+ L6- ur1- dl2+ ALL3- y2 ur6+ DR5+ UR5+
+GemCitySpecialIIOH2024,8.0,d,B,0,4,UR1- DR3+ DL1+ UL3- U0+ R6+ D3- L3+ ALL2- y2 U2+ R5- D6+ L4- ALL4+,8,UR4+ DL1- dl5+ /3- ALL3+ y2 R5+ UL2- DL6+
+GemCitySpecialIIOH2024,8.0,d,B,0,5,UR1+ DR6+ DL5+ UL2+ U2+ R5+ D1+ L0+ ALL3+ y2 U1+ R1+ D5- L0+ ALL2+,8,UL5- L2- ul6- y2 ul4- dl2+ D5+ UR1- /1-
+GemCitySpecialIIOH2024,8.0,d,B,1,1,UR2+ DR4+ DL4+ UL1- U1- R5- D6+ L3+ ALL2+ y2 U4- R2- D5+ L0+ ALL6+,10,UR1- DL2- UL1+ L5- dl1+ ALL4+ y2 ur4- D5+ U4+ DR2+
+GemCitySpecialIIOH2024,8.0,d,B,1,2,UR1- DR5+ DL0+ UL5- U2- R1+ D4+ L1+ ALL1+ y2 U3+ R1- D2- L4+ ALL5+,9,UR4+ DR3+ UL4+ dr2+ dl5- y2 D2+ UL4- UR1+ \4+
+HungarianOpen2024,8.0,f,A,0,1,UR3- DR1+ DL3- UL4+ U6+ R1+ D2- L5+ ALL4- y2 U0+ R0+ D2- L4- ALL1-,8,DR1+ UL5+ D3+ L1+ \3- y2 dl3+ L2+ DL2+
+HungarianOpen2024,8.0,f,A,0,2,UR1+ DR2+ DL0+ UL5- U0+ R1+ D3- L3+ ALL1- y2 U3- R2+ D3- L4+ ALL4+,10,UR2+ DR1+ UL2+ R5+ dr1- ALL5+ y2 dr2+ UL5+ DL3+ UR2-
+HungarianOpen2024,8.0,f,A,0,3,UR5+ DR1- DL3- UL5- U5+ R6+ D4+ L3+ ALL4- y2 U5- R3- D1+ L2+ ALL1-,8,UR2+ UL5+ dl2- \3- y2 R3+ U5+ L1- DL1-
+HungarianOpen2024,8.0,f,A,0,4,UR5- DR6+ DL2- UL6+ U4- R2+ D2+ L2+ ALL5- y2 U3- R3+ D1- L1- ALL0+,9,DR3- DL3- UL3+ L6- \5- y2 ur2- U6+ DL1+ UR3-
+HungarianOpen2024,8.0,f,A,0,5,UR0+ DR0+ DL4+ UL2- U3+ R0+ D2- L1- ALL0+ y2 U0+ R5- D3+ L3- ALL2-,8,UL1- D2- ur4+ dr3- y2 D3- R5+ L3+ ALL2+
+HungarianOpen2024,8.0,f,A,1,1,UR3+ DR2- DL1- UL2+ U2- R3- D2- L1- ALL2- y2 U4- R5- D1+ L1+ ALL0+,8,UR3- DR5+ ul6- y2 ul1+ R1+ DL1- UR4+ \2+
+HungarianOpen2024,8.0,f,A,1,2,UR3- DR1+ DL1- UL3- U5+ R4- D5+ L6+ ALL2+ y2 U3- R5- D2+ L3- ALL6+,10,UR2- DL5- UL3+ R4- y2 dr4+ ur1- R5- UL3+ DR2- /4+
+LakeConstanceCubing2022,8.0,d,B,0,1,UR5- DR0+ DL2+ UL6+ U3- R5+ D3- L3+ ALL3+ y2 U1+ R5- D2- L0+ ALL3+ DL,8,DL1+ U2+ ur1+ y2 dl6+ dr5+ R3+ U1- DR2+
+LakeConstanceCubing2022,8.0,d,B,0,2,UR4- DR2- DL3- UL0+ U1- R1+ D2- L5- ALL0+ y2 U0+ R0+ D1+ L2+ ALL1- UR DL,7,UR5+ DL4- D1- ur4+ y2 D1+ DL2- /1-
+LakeConstanceCubing2022,8.0,d,B,0,3,UR4- DR6+ DL6+ UL2+ U2+ R1- D5- L5- ALL6+ y2 U3+ R4+ D1- L5+ ALL2- UR,10,DR1- DL3- D3- y2 ul1+ dl2- U3- L2+ DL5+ DR4- /4+
+LakeConstanceCubing2022,8.0,d,B,0,4,UR5+ DR6+ DL1+ UL4- U4+ R5- D5+ L0+ ALL3+ y2 U6+ R3+ D3- L4- ALL1+ DR UL,9,UR5- R1- L3+ y2 ul1- D1- R3+ DL4+ UR6+ \2-
+LakeConstanceCubing2022,8.0,d,B,0,5,UR4+ DR4- DL1+ UL3+ U4- R3+ D3+ L4+ ALL0+ y2 U6+ R6+ D2- L0+ ALL2+ UR UL,7,UR3- L4+ \1+ y2 ur1+ D2+ UR6+ \3+
+LakeConstanceCubing2022,8.0,d,B,1,1,UR2+ DR1- DL0+ UL5+ U1+ R4+ D5+ L1+ ALL4- y2 U0+ R3+ D4- L1- ALL2+ UR DR UL,10,UR1- DR4- UL1+ U4+ L5+ /6- y2 dr1- D3+ R3- DL1+
+LakeConstanceCubing2022,8.0,d,B,1,2,UR5- DR2+ DL2+ UL4- U0+ R4+ D4+ L2+ ALL3- y2 U5+ R5+ D4- L4- ALL5+ UR DR DL UL,9,UR3- DR2+ D2+ ur3- y2 ul1- dl1- DL4+ UR5- /4-
+LugaOpen2019,8.0,c,B,0,1,UR3- DR3- DL2+ UL6+ U2+ R3- D1- L4- ALL0+ y2 U1- R6+ D1+ L1+ ALL1+ UR DL,9,UR5- DR2+ L4- \1- y2 ul3- dr5- U5- DL1- UR6+
+LugaOpen2019,8.0,c,B,0,2,UR3- DR5+ DL0+ UL3- U4+ R5- D3- L1+ ALL3- y2 U1+ R5+ D4- L4- ALL5+ DR,9,UL2+ R3+ D2- /4+ y2 dr5- ur1- D4+ UL4+ UR5-
+LugaOpen2019,8.0,c,B,0,3,UR3- DR0+ DL2+ UL1- U1+ R3- D1- L4- ALL0+ y2 U0+ R1+ D5- L1- ALL4- DR DL,10,UR3+ DL1- R3+ L4+ y2 ul1- dl1+ D5+ R1- L1+ ALL4+
+LugaOpen2019,8.0,c,B,0,4,UR3- DR6+ DL3- UL5+ U2- R4+ D2- L3+ ALL5- y2 U4+ R0+ D1- L0+ ALL5+ UR,7,DR1- R6- L5- \3- y2 D1+ U4- \5-
+LugaOpen2019,8.0,c,B,0,5,UR2- DR3+ DL6+ UL4+ U2+ R2+ D2+ L6+ ALL6+ y2 U4- R0+ D0+ L1- ALL0+ UR DR,7,DR3- UL4- D4+ \2- y2 L3- UL4+ /4+
+LugaOpen2019,8.0,c,B,1,1,UR3- DR0+ DL4- UL3- U1+ R2- D4- L4+ ALL5+ y2 U4+ R4+ D4- L1+ ALL0+ DL UL,9,UR5+ DL4- L5- dl2- y2 D5+ UL1- DR1- UR3- /5-
+LugaOpen2019,8.0,c,B,1,2,UR2+ DR1+ DL5+ UL5+ U5- R3- D6+ L4+ ALL4- y2 U1- R5+ D0+ L5+ ALL2- UR DL UL,8,UL2- /3+ y2 ul2+ ur2+ R5- U6+ UL5- /5+
+MedanRevival2022,8.0,c,B,0,1,UR4+ DR0+ DL4+ UL4+ U2+ R4- D6+ L0+ ALL4+ y2 U3- R1+ D0+ L0+ ALL2+ DR DL,8,DL2+ UL2+ y2 ul4- dl6+ dr2- R1- U3+ /2-
+MedanRevival2022,8.0,c,B,0,2,UR5+ DR1+ DL1+ UL2+ U5+ R1- D2- L2- ALL5- y2 U1+ R2+ D1+ L5- ALL3+ DR DL UL,9,DR1+ DL1- R6- /2+ y2 D1- R2- U6+ UL5+ ALL2+
+MedanRevival2022,8.0,c,B,0,3,UR2- DR1- DL3- UL1- U4- R4- D1- L1+ ALL4+ y2 U4+ R5+ D4+ L4- ALL1- UL,10,UR5- DL3+ D2+ ul1- y2 ul1+ U3- L4+ DR4- UR1- /5-
+MedanRevival2022,8.0,c,B,0,4,UR2+ DR5+ DL3+ UL5+ U6+ R5+ D1- L1- ALL4+ y2 U2- R5+ D5+ L1- ALL1- DL,8,DL5+ U1- /4+ y2 ul1- L1- UL2+ DR5- \1-
+MedanRevival2022,8.0,c,B,0,5,UR6+ DR4- DL3- UL5- U4- R2- D5- L5+ ALL0+ y2 U1- R5+ D6+ L1- ALL0+,8,UL3+ /3- y2 dr3- ur1+ L1+ DR6+ UR1+ /3-
+MedanRevival2022,8.0,c,B,1,1,UR1- DR4- DL5+ UL4- U6+ R0+ D0+ L1+ ALL1+ y2 U6+ R5+ D5- L5- ALL4+ UR DR UL,10,DL1- UL1- R5+ ul2+ ALL3+ y2 ul4- D1- UL1- DL6+ UR5-
+MedanRevival2022,8.0,c,B,1,2,UR4+ DR1+ DL4+ UL2+ U6+ R5- D1- L6+ ALL2- y2 U2- R1+ D3+ L2+ ALL2- DR,7,D4- ul1+ y2 ul5+ dr4- L2- DR3- UR2+
+MinxinginMemphis2025,8.0,1,A,0,1,UR3+ DR5+ DL2+ UL3- U2- R6+ D5+ L1+ ALL4- y2 U3+ R4- D0+ L5- ALL3-,7,UR2+ R4- ur2+ /5+ ALL6- y2 UL5+ UR4+
+MinxinginMemphis2025,8.0,1,A,0,2,UR1- DR3+ DL0+ UL6+ U5- R0+ D1+ L2- ALL5- y2 U4- R5+ D4- L1- ALL6+,8,DL4- R2- ur6- /3+ y2 UL1+ DR4+ UR3+ /2+
+MinxinginMemphis2025,8.0,1,A,0,3,UR0+ DR3- DL4+ UL5- U3- R5- D0+ L2- ALL3- y2 U2- R3+ D1- L0+ ALL3-,8,DR4- DL3+ U4- /5+ ALL5+ y2 D6+ DR5- UR2+
+MinxinginMemphis2025,8.0,1,A,0,4,UR4+ DR5+ DL0+ UL1- U3+ R4+ D4+ L4+ ALL3+ y2 U3- R3+ D2+ L3+ ALL3+,10,UR4- DR3+ UL2- L1- ul2+ y2 ur3+ D1+ U6+ DL3- UR3-
+MinxinginMemphis2025,8.0,1,A,0,5,UR5+ DR5+ DL6+ UL3- U1- R3- D3+ L2- ALL3- y2 U2- R5- D4- L5+ ALL4-,10,DR2- UL1- R5- \1+ y2 dl4+ D4- U2- UL4+ DL3+ DR5+
+MinxinginMemphis2025,8.0,1,A,1,1,UR5- DR0+ DL1- UL3- U3+ R2+ D1+ L1- ALL1- y2 U5+ R3- D5+ L4+ ALL4+,9,UL5+ R3+ dr2+ \5- y2 ul1- D4+ U5- L4- DR3+
+MinxinginMemphis2025,8.0,1,A,1,2,UR3+ DR0+ DL0+ UL4- U6+ R3- D1+ L1- ALL3+ y2 U2+ R3- D2- L6+ ALL3+,8,UL5- D1- L2- dl3+ y2 D2+ U5- L6+ UR3+
+MuggioICQualifier2024,8.0,f,B,0,1,UR5+ DR1- DL4- UL3- U0+ R5- D1- L5+ ALL3- y2 U5+ R1- D1- L2- ALL3-,9,DR1+ DL5+ UL3- U1+ dl3+ y2 dl6+ U5+ UL2+ DR1+
+MuggioICQualifier2024,8.0,f,B,0,2,UR6+ DR2- DL5- UL4- U6+ R3- D3+ L5+ ALL1+ y2 U0+ R3- D3+ L2- ALL3+,8,DR4+ UL4+ R5- ALL2+ y2 dr6+ R4- DL2+ DR5-
+MuggioICQualifier2024,8.0,f,B,0,3,UR2- DR4+ DL4- UL3- U3+ R6+ D1+ L5+ ALL5+ y2 U1- R2- D0+ L6+ ALL2-,10,DR1- UL2+ R5+ ul4+ /1- y2 dr1- R2+ L5+ UL1+ /4+
+MuggioICQualifier2024,8.0,f,B,0,4,UR1- DR1- DL5- UL6+ U2+ R2+ D6+ L2+ ALL6+ y2 U6+ R1- D1+ L5- ALL1-,8,UL5+ L4+ dl2- y2 dl1+ R1+ UL6+ DL1- /5+
+MuggioICQualifier2024,8.0,f,B,0,5,UR3+ DR4+ DL3- UL4- U4+ R4- D3- L5+ ALL6+ y2 U4+ R0+ D2+ L2+ ALL2-,7,UR3- DL2+ ur1- ul2- /4- y2 U4- DL2-
+MuggioICQualifier2024,8.0,f,B,1,1,UR1- DR1+ DL6+ UL6+ U2- R4- D5+ L2- ALL3- y2 U4+ R4+ D5- L5- ALL4+,8,UR5- UL2+ R3- y2 ur4+ DL5+ UR4- /6+ ALL1-
+MuggioICQualifier2024,8.0,f,B,1,2,UR1+ DR1+ DL0+ UL6+ U3+ R0+ D3- L5+ ALL4- y2 U5+ R0+ D4+ L3+ ALL5-,10,DR1- DL1+ U2+ R1- D2+ y2 dl6+ D4- U5- L3- /1-
+OtaBlindNewYear2024,8.0,f,B,0,1,UR0+ DR5- DL3+ UL2+ U1+ R4- D2+ L2- ALL3- y2 U1- R4- D6+ L0+ ALL2+,7,UL3- R3- y2 dl3- D3+ DR3+ UR1+ \5+
+OtaBlindNewYear2024,8.0,f,B,0,2,UR2- DR2+ DL3+ UL4- U2+ R2+ D4- L1- ALL0+ y2 U3- R4- D2+ L4+ ALL2+,10,DR2- DL1- UL4+ D2+ L1- y2 D6+ U3+ L4- DR4+ /2+
+OtaBlindNewYear2024,8.0,f,B,0,3,UR1- DR5+ DL1+ UL3- U3+ R5- D6+ L0+ ALL5- y2 U3+ R1- D1- L6+ ALL4+,8,UR1+ L2+ dr6- ul2+ y2 U3- L6+ DR1+ \3-
+OtaBlindNewYear2024,8.0,f,B,0,4,UR4+ DR1+ DL5- UL5- U1- R5- D5+ L6+ ALL3- y2 U3+ R4+ D5- L2+ ALL6+,10,UL2+ D1- L2+ y2 dr1- R5- L3- DL1+ DR4+ UR3- /3-
+OtaBlindNewYear2024,8.0,f,B,0,5,UR5+ DR2- DL5+ UL3- U2+ R5- D4- L2- ALL3- y2 U6+ R4- D2+ L0+ ALL1-,8,UR2+ U6- D1+ ul5- /3+ y2 DR2- UR6+ /5+
+OtaBlindNewYear2024,8.0,f,B,1,1,UR3- DR1+ DL5+ UL2- U2+ R5- D5+ L2- ALL5- y2 U3- R4+ D3+ L2+ ALL5-,10,UR3+ DL1+ R4+ L2- ur2- y2 dl2+ U3+ L3- DL1+ DR4-
+OtaBlindNewYear2024,8.0,f,B,1,2,UR2- DR5+ DL3+ UL5+ U0+ R3- D3+ L5- ALL5+ y2 U2- R6+ D5+ L2- ALL5-,8,UL3- D1+ ul3+ y2 R1- DL2+ DR5+ UR2+ /2+
+PittsburghSummerB2022,8.0,f,A,0,1,UR5+ DR3- DL0+ UL1- U3- R2- D4- L0+ ALL0+ y2 U6+ R0+ D0+ L1- ALL5- UR,8,UL1+ U2- D5- ul3- \5+ y2 ul5+ U6+ L1+
+PittsburghSummerB2022,8.0,f,A,0,2,UR4+ DR2+ DL2+ UL2+ U4- R6+ D1- L1- ALL4+ y2 U6+ R1- D2+ L6+ ALL4+ UR DR DL,8,DL3- U2- ur1+ /2+ y2 D2- R1+ UL6+ /2+
+PittsburghSummerB2022,8.0,f,A,0,3,UR3- DR5+ DL2+ UL4- U5+ R5- D1+ L3- ALL0+ y2 U5+ R0+ D5+ L1+ ALL2+ UL,10,UR2+ DR1- DL5+ R2+ ul4+ ALL2+ y2 R3- UL1- DR5- UR4-
+PittsburghSummerB2022,8.0,f,A,0,4,UR2- DR0+ DL0+ UL2+ U5- R2+ D1+ L4+ ALL3+ y2 U6+ R6+ D3- L0+ ALL5+ DL UL,8,DL1- UL4+ U1+ L3+ y2 ul1- D3+ UR6+ /2+
+PittsburghSummerB2022,8.0,f,A,0,5,UR3- DR3- DL5- UL0+ U4- R1- D5+ L1+ ALL0+ y2 U5- R2+ D2- L4- ALL1- UR,9,UR5- DL3+ L1+ ALL1- y2 ur3+ D4+ U1+ UL4+ DR2-
+PittsburghSummerB2022,8.0,f,A,1,1,UR5- DR0+ DL3+ UL4+ U4+ R3- D3- L2+ ALL0+ y2 U5- R6+ D4+ L6+ ALL1- UR DR DL,10,UR4- UL1+ L2+ ALL1- y2 ul3- dr3- D4- R1+ L6+ UR5+
+PittsburghSummerB2022,8.0,f,A,1,2,UR5- DR5+ DL0+ UL5+ U4- R1+ D1- L1+ ALL3+ y2 U1- R0+ D0+ L6+ ALL1- UR,8,UR1- U5+ D4- L6- ALL1+ y2 U5- UL6+ \5-
+RichardsonCubingAfternoon2024,8.0,d,A,0,1,UR6+ DR3- DL4- UL2+ U4+ R5+ D5+ L1+ ALL2+ y2 U4- R0+ D5+ L6+ ALL4-,9,DR4+ DL2- L3+ ul1+ y2 dl2- D5- U4+ L6+ /6+
+RichardsonCubingAfternoon2024,8.0,d,A,0,2,UR6+ DR3- DL4- UL5+ U1- R1+ D0+ L3+ ALL4+ y2 U3- R3+ D5+ L1+ ALL0+,10,UR2+ DR6- D1+ L4- dl4- y2 U2+ DL1- DR4- UR1+ \4-
+RichardsonCubingAfternoon2024,8.0,d,A,0,3,UR3+ DR6+ DL4- UL4+ U2- R1+ D3+ L2- ALL4+ y2 U0+ R0+ D0+ L0+ ALL3+,7,UR5- DR5- L2+ ur4- dl2- /1+ y2 dl3-
+RichardsonCubingAfternoon2024,8.0,d,A,0,4,UR2+ DR6+ DL1+ UL4+ U4+ R5+ D6+ L5+ ALL1- y2 U5+ R2+ D3+ L3+ ALL4-,9,DR1- UL2+ dl2+ /4- ALL5+ y2 ul1- U3- DL3- UR2-
+RichardsonCubingAfternoon2024,8.0,d,A,0,5,UR3- DR5+ DL2+ UL4- U6+ R3- D3- L5+ ALL4+ y2 U6+ R3- D0+ L3+ ALL4+,8,DL4- UL1+ R1+ ul5+ y2 ul2+ R6+ UL3- UR3-
+RichardsonCubingAfternoon2024,8.0,d,A,1,1,UR1- DR1+ DL2- UL2+ U2+ R5- D0+ L2+ ALL5+ y2 U5+ R6+ D4- L4- ALL3-,9,DL1+ UL3- R5+ dr4- /3- y2 U1+ DL4+ UR6+ /1+
+RichardsonCubingAfternoon2024,8.0,d,A,1,2,UR5- DR4- DL5+ UL4+ U4- R3- D1- L2- ALL3- y2 U4+ R0+ D0+ L6+ ALL5+,7,UL5+ ul1- /3- y2 ul2+ U4- L6+ /5+
+RisbjergFebruar2025,8.0,f,A,0,1,UR4+ DR3- DL5- UL2+ U0+ R6+ D4+ L6+ ALL2+ y2 U3- R5+ D2- L1- ALL6+,11,UR5+ DL4+ UL1+ L4+ ul3- \3- y2 R2+ L1+ DR2+ UR3+ ALL1-
+RisbjergFebruar2025,8.0,f,A,0,2,UR2+ DR0+ DL3+ UL1- U0+ R2- D3- L1- ALL4- y2 U5- R6+ D4+ L5- ALL6+,7,UL1- ALL5- y2 dl2+ D2+ UL5+ DR6+ /3+
+RisbjergFebruar2025,8.0,f,A,0,3,UR0+ DR4- DL4+ UL4- U3+ R1+ D0+ L4+ ALL2- y2 U4+ R1+ D1+ L4+ ALL0+,8,UR1+ R2+ L4- /4- ALL3+ y2 UL4- DR1- /5-
+RisbjergFebruar2025,8.0,f,A,0,4,UR5- DR1+ DL6+ UL3- U4- R3- D2+ L1- ALL3- y2 U2- R0+ D4+ L4+ ALL3-,8,DR5- DL2- D2- dl5- y2 ul4- dl3+ U2+ DL4-
+RisbjergFebruar2025,8.0,f,A,0,5,UR2- DR3+ DL4- UL5+ U0+ R5+ D3+ L3+ ALL4- y2 U6+ R0+ D2+ L0+ ALL2+,10,DR3- UL3- R3- D1+ L1- y2 U4+ DR2- UR2+ /2+ ALL4-
+RisbjergFebruar2025,8.0,f,A,1,1,UR6+ DR5- DL3+ UL5+ U3- R5+ D2+ L4+ ALL3+ y2 U5- R4- D6+ L2+ ALL6+,8,UR6- U2- y2 ul5+ U3- DL2- DR4- UR4- \3+
+RisbjergFebruar2025,8.0,f,A,1,2,UR1+ DR4- DL4+ UL3+ U6+ R1+ D3- L6+ ALL2- y2 U2- R4- D0+ L2- ALL4-,10,UR2+ DR3+ R3- L1- /1- y2 ul1- U2- L2+ UR4+ /3-
+SantiagoCubikzChallengeMega2024,8.0,c,A,0,1,UR2+ DR0+ DL5+ UL1- U0+ R5- D2- L1- ALL1+ y2 U6+ R1+ D5- L1+ ALL1-,8,DL3- U1- R3+ \2+ y2 D5+ U5- L1- UR1-
+SantiagoCubikzChallengeMega2024,8.0,c,A,0,2,UR1- DR5+ DL1- UL1+ U5+ R1+ D3- L0+ ALL2+ y2 U6+ R0+ D1- L5+ ALL2-,7,UR5- D1- dr3- y2 ul1+ UL6+ DL1+ \4-
+SantiagoCubikzChallengeMega2024,8.0,c,A,0,3,UR2+ DR3+ DL2+ UL0+ U4+ R2- D2+ L5+ ALL1- y2 U3+ R4- D5+ L0+ ALL3+,8,UR3- DL5+ U3- /3+ ALL5- y2 dr1+ DR5- UR3-
+SantiagoCubikzChallengeMega2024,8.0,c,A,0,4,UR5- DR1- DL1- UL5- U4+ R4+ D6+ L3+ ALL2- y2 U0+ R1+ D1+ L5- ALL0+,8,UR6- DR4- L3+ /5- ALL3- y2 dr1- L5+ DR1-
+SantiagoCubikzChallengeMega2024,8.0,c,A,0,5,UR0+ DR2+ DL5- UL3- U1- R3+ D4+ L3+ ALL3+ y2 U2- R5- D5- L1- ALL5-,10,DR1- UL5+ U1- R4- ur3+ ALL4+ y2 R1- DL1+ DR4+ UR2+
+SantiagoCubikzChallengeMega2024,8.0,c,A,1,1,UR5- DR3- DL4+ UL6+ U2+ R5+ D2+ L1+ ALL2+ y2 U5- R2+ D2+ L1+ ALL3-,10,UR3- DR3- R3- L1+ /6- y2 ul5+ L6+ UL5+ DR2- /1+
+SantiagoCubikzChallengeMega2024,8.0,c,A,1,2,UR5- DR0+ DL1+ UL3- U2- R3- D5+ L4- ALL3+ y2 U2- R4- D1+ L1- ALL3+,9,UR4+ UL6- R4+ D6- y2 D2- L2+ UL1- DR1+ UR3+
+SilentSouthAustralia2023,8.0,d,A,0,1,UR5- DR0+ DL4- UL4- U0+ R1- D4+ L0+ ALL2- y2 U6+ R1- D4+ L3- ALL3- DR DL,10,UR1+ UL4- R5+ dr1- ALL1- y2 dr4+ U1+ L3+ DR4- UR5+
+SilentSouthAustralia2023,8.0,d,A,0,2,UR3+ DR0+ DL2- UL5- U5+ R3- D6+ L5- ALL5+ y2 U5+ R1+ D0+ L0+ ALL3- UR,7,UR3- DR4- R5- /4- y2 ul2+ U4- UR1-
+SilentSouthAustralia2023,8.0,d,A,0,3,UR3- DR0+ DL4- UL3+ U6+ R3+ D5+ L2+ ALL6+ y2 U0+ R5- D5- L0+ ALL1+ DR,7,DL1- U6- \3- ALL4+ y2 ul5- dl3- DR5+
+SilentSouthAustralia2023,8.0,d,A,0,4,UR4- DR5- DL0+ UL2+ U5+ R5+ D2+ L2+ ALL5- y2 U5+ R2- D6+ L6+ ALL1+ UL,9,UR4+ DL3+ UL5+ ur3+ ul1+ ALL6- y2 R5- DL6+ UR5-
+SilentSouthAustralia2023,8.0,d,A,0,5,UR3+ DR4+ DL5+ UL0+ U2+ R5+ D6+ L3+ ALL2+ y2 U2+ R1+ D3- L5- ALL3- DR UL,10,DL3- UL5- dr1- \3+ y2 dl4+ U2- L1+ DL4+ DR1- ALL2+
+SilentSouthAustralia2023,8.0,d,A,1,1,UR5- DR5+ DL1+ UL1- U6+ R1+ D4- L4- ALL2+ y2 U4- R4- D5- L5- ALL2+ UR DR DL UL,8,DL4+ R1- D6- dl2+ y2 ur5- UL5+ DR5+ UR1-
+SilentSouthAustralia2023,8.0,d,A,1,2,UR3- DR5+ DL1+ UL4- U6+ R4+ D4- L5- ALL1- y2 U5+ R5+ D5- L4- ALL5+ DR UL,10,UR1+ DL2- R5+ L2- \1- y2 R1- UL1- DL5+ UR4- ALL5-
+SlovenianNationals2024,8.0,f,A,0,1,UR4+ DR6+ DL2- UL5- U1+ R4- D3+ L2+ ALL5- y2 U4+ R3- D0+ L6+ ALL2-,9,DR6- D1- L5+ dr4+ \2- y2 U1- UL6+ UR3+ ALL1-
+SlovenianNationals2024,8.0,f,A,0,2,UR2+ DR4- DL1+ UL5- U5+ R5- D0+ L4- ALL4+ y2 U0+ R1- D1- L5+ ALL4+,8,UR2- R3- D3+ L4- y2 dl5+ ur4+ L5- DR1+
+SlovenianNationals2024,8.0,f,A,0,3,UR3- DR5+ DL3+ UL4+ U1+ R2- D2+ L3+ ALL2- y2 U3+ R5- D3- L6+ ALL6+,8,DL2+ U2- ul1+ y2 D2- L3- UL3- DR5+ \4-
+SlovenianNationals2024,8.0,f,A,0,4,UR2- DR2- DL6+ UL4+ U2- R1+ D0+ L1- ALL4+ y2 U3+ R2- D5+ L1- ALL1+,10,DR3+ DL3+ D2+ dr4- y2 dr5+ U1+ DL1+ DR6+ UR4- /3-
+SlovenianNationals2024,8.0,f,A,0,5,UR3+ DR6+ DL0+ UL2+ U5- R3- D1+ L2- ALL1+ y2 U5- R2+ D1+ L3+ ALL1+,8,DR5+ R1+ dl3+ y2 dl2- R2- U5+ L2- DL1-
+SlovenianNationals2024,8.0,f,A,1,1,UR2+ DR0+ DL5+ UL0+ U1+ R4- D5- L2- ALL2+ y2 U6+ R2- D1+ L0+ ALL1+,8,UL3- R2+ dl2+ y2 D6+ U3- DR5+ UR3- ALL1+
+SlovenianNationals2024,8.0,f,A,1,2,UR5- DR1+ DL4- UL3- U2- R1+ D4+ L3- ALL5+ y2 U5+ R5- D5- L1+ ALL4-,10,UL2- R3+ D1- dr2- \4- y2 D5+ R3- UL1- UR4- \1-
+SouthDakotaPlayhouse2025,8.0,f,A,0,1,UR3- DR3+ DL0+ UL2+ U1- R0+ D5+ L2+ ALL5+ y2 U0+ R6+ D3- L3- ALL6+,8,U2+ D4+ L4- dl3- y2 dl2- R6+ DL3+ ALL1-
+SouthDakotaPlayhouse2025,8.0,f,A,0,2,UR3- DR2+ DL0+ UL2+ U3+ R3+ D6+ L1- ALL2+ y2 U1- R0+ D4+ L4+ ALL0+,8,UR2- D4+ L1- dl5- /2+ y2 D4- U1+ L4-
+SouthDakotaPlayhouse2025,8.0,f,A,0,3,UR2- DR4+ DL6+ UL4- U2+ R5- D2+ L4+ ALL2- y2 U5+ R0+ D2- L0+ ALL2-,8,UL4+ R3+ L2+ dl2- y2 ul6+ ur4- D2+ U5-
+SouthDakotaPlayhouse2025,8.0,f,A,0,4,UR0+ DR3+ DL3+ UL4- U5- R1+ D1- L4+ ALL5- y2 U1+ R4- D4- L1- ALL2+,9,DR4- UL3- D1- y2 ur5- R1+ U1- DL1+ DR3+ \5-
+SouthDakotaPlayhouse2025,8.0,f,A,0,5,UR3+ DR3- DL3- UL1- U3+ R6+ D5+ L5- ALL2- y2 U3- R6+ D4+ L3+ ALL2+,10,DR1+ UL3- U2- R5+ /4- y2 ul3- L4+ UL3+ DL2+ DR6+
+SouthDakotaPlayhouse2025,8.0,f,A,1,1,UR6+ DR0+ DL0+ UL4- U3- R5+ D3+ L3+ ALL2- y2 U0+ R3- D3- L0+ ALL0+,7,UR1+ DL1+ D4- dr4- \2- y2 dr3+ DR3+
+SouthDakotaPlayhouse2025,8.0,f,A,1,2,UR4+ DR4+ DL4+ UL5+ U3- R1- D4+ L5+ ALL3- y2 U2+ R5+ D1- L1- ALL5+,9,UR4- UL2- R3- /3+ ALL1- y2 ul4- R5- U2- DL1+
+SouthLuzonChampionship2025,8.0,c,A,0,1,UR4- DR5+ DL3- UL6+ U1- R2- D1- L1- ALL6+ y2 U0+ R6+ D3+ L1- ALL0+,9,DR1+ DL2- U1- ur1+ dl4- y2 D3+ L1+ DR6+ \6+
+SouthLuzonChampionship2025,8.0,c,A,0,2,UR6+ DR3+ DL4- UL0+ U1- R1- D3+ L2- ALL3- y2 U5+ R4- D2- L5- ALL1+,9,UR5- DR3- D1+ L6- y2 D2+ R4+ U2+ UL5+ /4+
+SouthLuzonChampionship2025,8.0,c,A,0,3,UR1+ DR4- DL2+ UL5+ U5- R4+ D2+ L3+ ALL3- y2 U1+ R5- D2+ L1+ ALL3-,8,UR1- L2+ dr6- y2 R4+ L3+ DL4- DR2+ UR1-
+SouthLuzonChampionship2025,8.0,c,A,0,4,UR3+ DR4- DL2- UL0+ U0+ R3+ D6+ L3+ ALL6+ y2 U4+ R4- D2+ L0+ ALL3+,8,UR2- UL1- y2 dr1- ur5- R2- DR2- UR4- \3-
+SouthLuzonChampionship2025,8.0,c,A,0,5,UR3+ DR1+ DL4- UL3- U5- R2- D5+ L5- ALL1- y2 U3- R0+ D0+ L6+ ALL5-,8,DR2- U5+ ALL4- y2 ul4+ dl3+ ur1+ L3+ UL3+
+SouthLuzonChampionship2025,8.0,c,A,1,1,UR1- DR4- DL4+ UL3+ U2- R2+ D2+ L4- ALL2- y2 U5+ R0+ D4- L0+ ALL0+,8,DR3+ DL5- L2+ dr4+ /1- \1- y2 D4+ U5-
+SouthLuzonChampionship2025,8.0,c,A,1,2,UR5- DR2+ DL5- UL5+ U2- R4+ D3+ L4+ ALL5+ y2 U3+ R5- D4+ L3+ ALL1+,10,UR1+ U1+ R2- L4- /5+ y2 ur3+ R3- UL3- DR4- /1+
+VERKIV2025,8.0,d,A,0,1,UR2- DR3+ DL2- UL3+ U2+ R1- D6+ L5- ALL6+ y2 U2+ R5+ D2- L2+ ALL3-,8,DL4+ U3- D1+ y2 R5+ UL2- DR2+ \3- ALL6+
+VERKIV2025,8.0,d,A,0,2,UR4- DR3+ DL2+ UL1- U4- R3- D2- L6+ ALL2- y2 U4+ R5+ D2+ L2- ALL1+,10,DR4+ DL5+ U3- dr2+ \3- y2 ur5+ L3+ UL1- DR2- UR3-
+VERKIV2025,8.0,d,A,0,3,UR4- DR2- DL3- UL6+ U5- R1- D4+ L4+ ALL3- y2 U0+ R5+ D5+ L5+ ALL4-,8,UR5+ DR2+ DL1- UL6- U4+ y2 L5- DR5- /1-
+VERKIV2025,8.0,d,A,0,4,UR3+ DR4+ DL2- UL6+ U3- R5- D3+ L3+ ALL5+ y2 U1+ R0+ D1+ L5+ ALL2+,9,DR5- UL6- R3+ L1- ur5- y2 U1- L4- DL1- /3-
+VERKIV2025,8.0,d,A,0,5,UR1- DR6+ DL1- UL0+ U3+ R1- D2+ L3- ALL4- y2 U0+ R3+ D4- L5+ ALL6+,8,UR3+ DR5+ U5- L4+ ul4+ y2 DL5- DR3- /2-
+VERKIV2025,8.0,d,A,1,1,UR1+ DR4+ DL6+ UL6+ U3- R3- D3- L2+ ALL1+ y2 U4+ R4- D0+ L5- ALL3+,8,UR2- UL2- D5+ y2 R4+ U3+ UL5+ /6+ \4-
+VERKIV2025,8.0,d,A,1,2,UR3- DR3- DL1- UL3- U2+ R4- D2+ L4- ALL2- y2 U2- R1- D2+ L1+ ALL5+,9,UR4- DR2+ UL4- dr3+ ALL5- y2 dr5- DL1- DR1- UR2+
+VinaCubingFestVSC2025,8.0,f,A,0,1,UR1- DR1+ DL2+ UL1+ U4- R0+ D5- L1- ALL5+ y2 U2+ R1- D0+ L5+ ALL0+,8,DL2+ U4+ L4- y2 R1+ U3+ UL5- /4- \1-
+VinaCubingFestVSC2025,8.0,f,A,0,2,UR2+ DR6+ DL5- UL0+ U5- R5- D5+ L1- ALL2+ y2 U5+ R3- D5+ L3- ALL1-,9,UR3+ DR6- L6- dl2- y2 R4- L4- UL5- DR5- ALL3+
+VinaCubingFestVSC2025,8.0,f,A,0,3,UR2+ DR2- DL4- UL5- U0+ R5- D5+ L1+ ALL4- y2 U4- R5+ D3+ L5+ ALL4-,10,UR3+ DR2+ D1- L4- y2 dl4+ D1+ L2+ UL5+ DR4- UR1-
+VinaCubingFestVSC2025,8.0,f,A,0,4,UR5- DR3+ DL4- UL2- U5- R5+ D3- L2+ ALL3+ y2 U0+ R3+ D0+ L4+ ALL3+,7,DL4+ R3- dr2- dl5- y2 ur3- R3- L4-
+VinaCubingFestVSC2025,8.0,f,A,0,5,UR3+ DR1- DL3- UL2+ U0+ R3- D3- L3+ ALL5+ y2 U4- R4+ D6+ L5+ ALL2+,10,DR1+ UL2- U3- D6- \5- y2 R2+ U4+ L5- DR6+ /4+
+VinaCubingFestVSC2025,8.0,f,A,1,1,UR1+ DR3- DL1- UL3- U4- R4+ D3+ L2- ALL5+ y2 U4- R5- D1- L1- ALL5+,9,UR1- DL1+ UL5- R1- L2- ul4- y2 R1+ DL1+ UR4+
+VinaCubingFestVSC2025,8.0,f,A,1,2,UR0+ DR4+ DL4+ UL4+ U2- R4- D0+ L3- ALL0+ y2 U0+ R0+ D2+ L0+ ALL5-,7,DL4+ U2- L3+ /4+ y2 ul4+ D2- ALL1+
+WesternChampionship2025,8.0,d,A,0,1,UR6+ DR2+ DL3+ UL3+ U1+ R4- D5+ L2- ALL6+ y2 U0+ R5- D1+ L0+ ALL5-,8,UR6- DR2+ UL4- y2 ul3- ur5- D1- R5+ \1+
+WesternChampionship2025,8.0,d,A,0,2,UR1- DR0+ DL4- UL1+ U5+ R1- D5+ L3- ALL0+ y2 U3+ R2- D2- L0+ ALL3+,9,DL1- UL5- R2+ dl2+ y2 ul4+ dl4+ U3- DR2+ /3+
+WesternChampionship2025,8.0,d,A,0,3,UR0+ DR3- DL4- UL1+ U1- R1- D4- L4- ALL4+ y2 U3+ R4- D1- L5+ ALL3+,8,DR4+ DL5- /1+ y2 ul2- R3+ U3- L5- DR1+
+WesternChampionship2025,8.0,d,A,0,4,UR2- DR2- DL3+ UL4- U1+ R4- D1+ L2+ ALL5+ y2 U4+ R3- D5+ L3- ALL1-,10,UR3- DR1- DL1- U4- ul3- y2 L3+ DR5- UR4- /5+ ALL1-
+WesternChampionship2025,8.0,d,A,0,5,UR6+ DR0+ DL2- UL0+ U4- R5- D1- L0+ ALL4- y2 U5- R0+ D1- L0+ ALL2-,8,UR1- U1- D3+ L2+ dl5- y2 D1+ U5+ /2+
+WesternChampionship2025,8.0,d,A,1,1,UR0+ DR6+ DL2- UL0+ U3- R2- D2+ L2- ALL3- y2 U0+ R3- D1- L5+ ALL5+,9,DR4- UL4+ U1- D2- ur5- y2 L3- DL2- DR3+ \4-
+WesternChampionship2025,8.0,d,A,1,2,UR3- DR6+ DL2- UL2+ U1+ R3- D5+ L4+ ALL2+ y2 U0+ R2- D5+ L5- ALL0+,8,D3+ L4- ul1- /2+ y2 ul4+ dr3+ DL5+ DR2+

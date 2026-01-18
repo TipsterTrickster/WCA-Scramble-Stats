@@ -1,4 +1,4 @@
-competition_id,round_type_id,group_id,is_extra,scramble_num,scramble,Optimal Solution
+competition_id,round_type_id,group_id,is_extra,scramble_num,scramble,optimal_solution
 HessenOpen2014,f,A,0,5,U' R U' F' R' F R U R' U' F, F2 R F R' U2
 KansaiOpen2014,f,A,0,1,R' U' R2 F' R2 U2 F' R' F R U2, F R2 U2 F U
 GermanOpen2014,2,B,0,2,R U2 F R U' R' U2 F' U' F R, R' F' U R' F

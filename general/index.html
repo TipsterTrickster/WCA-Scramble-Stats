@@ -5,9 +5,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>WCA Scramble Statistics</title>
     <link rel="stylesheet" href="../styles.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.4.1/papaparse.min.js"></script>
 </head>
 <body>
-    <h1><a id="event-header" href="../">general</a></h1>
+    <h1><a id="event-header" href="../">General</a></h1>
     <select id="csv-selector" onchange="updateSubOptions()">
         
         <option value="Scramble_Counts">Scramble Counts</option>
@@ -26,15 +27,15 @@
     <script>
         const csvFiles = {
             
-            'Scramble_Counts': ['Scramble_Counts/Most_MBLD_Dcrambles_for_One_Attempt.csv', 'Scramble_Counts/Most_Scrambles_at_a_Single_Competition.csv', 'Scramble_Counts/Fewest_MBLD_Scrambles_for_One_Attempt.csv', 'Scramble_Counts/Most_Extras_in_a_Single_Group.csv', 'Scramble_Counts/Most_Scrambles_in_a_Single_Group.csv'],
+            'Scramble_Counts': ['Scramble_Counts/Most_MBLD_Scrambles_for_One_Attempt.csv', 'Scramble_Counts/Most_Scrambles_at_a_Single_Competition.csv', 'Scramble_Counts/Fewest_MBLD_Scrambles_for_One_Attempt.csv', 'Scramble_Counts/Most_Extras_in_a_Single_Group.csv', 'Scramble_Counts/Most_Scrambles_in_a_Single_Group.csv'],
             
-            'Weird_Groups': ['Weird_Groups/Ao5_Events_(Counting_Extras).csv', 'Weird_Groups/Mo3_Events_(Counting_Extras).csv', 'Weird_Groups/Mo3_Events_(Not_Counting_Extras).csv', 'Weird_Groups/Ao5_Events_(Not_Extras).csv'],
+            'Weird_Groups': ['Weird_Groups/Ao5_Events_(Counting_Extras).csv', 'Weird_Groups/Mo3_Events_(Counting_Extras).csv', 'Weird_Groups/Mo3_Events_(Not_Counting_Extras).csv', 'Weird_Groups/Ao5_Events_(Not_Counting_Extras).csv'],
             
         };
 
         const subCategoryNames = {
             
-            'Scramble_Counts/Most_MBLD_Dcrambles_for_One_Attempt.csv': 'Most MBLD Dcrambles for One Attempt',
+            'Scramble_Counts/Most_MBLD_Scrambles_for_One_Attempt.csv': 'Most MBLD Scrambles for One Attempt',
             
             'Scramble_Counts/Most_Scrambles_at_a_Single_Competition.csv': 'Most Scrambles at a Single Competition',
             
@@ -50,7 +51,7 @@
             
             'Weird_Groups/Mo3_Events_(Not_Counting_Extras).csv': 'Mo3 Events (Not Counting Extras)',
             
-            'Weird_Groups/Ao5_Events_(Not_Extras).csv': 'Ao5 Events (Not Extras)',
+            'Weird_Groups/Ao5_Events_(Not_Counting_Extras).csv': 'Ao5 Events (Not Counting Extras)',
             
         };
 
@@ -74,91 +75,67 @@
         }
 
         function displayCSV(filename) {
-            fetch(filename)
-                .then(response => response.text())
-                .then(text => {
-                    const rows = text.split('\n').filter(row => row.trim() !== '');
-                    let table = '<table>';
-                    let prevRow = [];
+            Papa.parse(filename, {
+                download: true,
+                skipEmptyLines: true,
+                complete: function(results) {
+                    const rows = results.data; // PapaParse gives us an array of arrays
+                    if (rows.length === 0) return;
+
                     let rowspans = [];
                     let colTracker = [];
+                    const numCols = rows[0].length;
 
-                    rows.forEach((row, rowIndex) => {
-                        const cols = row.split(',').map(col => col.trim());
-                        cols.forEach((col, colIndex) => {
-                            colTracker[colIndex] = 1;
-                        });
+                    // Initialize tracking arrays
+                    rows.forEach((_, rowIndex) => {
+                        rowspans[rowIndex] = new Array(numCols).fill(1);
                     });
-                    
+                    colTracker = new Array(numCols).fill(1);
 
-                    rows.forEach((row, rowIndex) => {
-                        const cols = row.split(',').map(col => col.trim());
-                        // table += '<tr>';
+                    // LOOP 1: Calculate Rowspans
+                    // We start from index 1 (second row) to compare with the one above
+                    for (let i = 1; i < rows.length; i++) {
                         let canCombine = true;
-                        
-                        rowspans[rowIndex] = []
-                        
 
-                        cols.forEach((col, colIndex) => {
-                            rowspans[rowIndex][colIndex] = 1;
-
-                            if (rowIndex === 0) {
-                                // Add header row
-                                // table += `<th>${col}</th>`;
-                                prevRow[colIndex] = col;
+                        for (let j = 0; j < numCols; j++) {
+                            // Check if current cell matches cell above AND the previous column also merged
+                            if (canCombine && rows[i][j] === rows[i - 1][j]) {
+                                colTracker[j]++;
+                                // Update the 'root' cell (the one that stays visible) with the new span count
+                                rowspans[i - colTracker[j] + 1][j] = colTracker[j];
+                                // Mark current cell as 0 so we know to skip it in the HTML loop
+                                rowspans[i][j] = 0; 
                             } else {
-                                if (col === prevRow[colIndex] && canCombine) {
-                                    colTracker[colIndex] += 1;
-                                    rowspans[rowIndex - colTracker[colIndex] + 1][colIndex] = colTracker[colIndex];
-                                    // rowspans[rowIndex - (rowspans[rowIndex][colIndex])][colIndex] += 1;
-                                    // table += '<td></td>'; // Empty cell for duplicate value
-                                } else {
-                                    colTracker[colIndex] = 1;
-                                    // table += `<td>${col}</td>`;
-                                    canCombine = false; // Stop combining for the rest of the row
-                                }
-                                prevRow[colIndex] = col; // Update prevRow with the current value
-                                
+                                colTracker[j] = 1;
+                                canCombine = false; // Break the horizontal "combine" chain
                             }
-                            
-                        });
-                        // table += '</tr>';
-                        
-                    });
+                        }
+                    }
 
+                    // LOOP 2: Generate HTML
+                    let table = '<table>';
                     rows.forEach((row, rowIndex) => {
-                        const cols = row.split(',').map(col => col.trim());
                         table += '<tr>';
-                        let canCombine = true;
-                        
-
-                        cols.forEach((col, colIndex) => {
+                        row.forEach((col, colIndex) => {
+                            const span = rowspans[rowIndex][colIndex];
 
                             if (rowIndex === 0) {
-                                // Add header row
+                                // Header Row
                                 table += `<th>${col}</th>`;
-                                prevRow[colIndex] = col;
                             } else {
-                                if (col === prevRow[colIndex] && canCombine) {
-                                    // rowspans[rowIndex - (rowspans[rowIndex][colIndex])][colIndex] += 1;
-                                    // table += '<td></td>'; // Empty cell for duplicate value
-                                } else {
-                                    table += `<td rowspan="${rowspans[rowIndex][colIndex]}">${col}</td>`;
-                                    canCombine = false; // Stop combining for the rest of the row
+                                // Only create a <td> if its rowspan is > 0
+                                if (span > 0) {
+                                    table += `<td rowspan="${span}">${col}</td>`;
                                 }
-                                prevRow[colIndex] = col; // Update prevRow with the current value
-                                
                             }
-                            
                         });
                         table += '</tr>';
-                        
                     });
-
                     table += '</table>';
-                    console.log(rowspans)
+
                     document.getElementById('csv-data').innerHTML = table;
-                });
+                }
+            });
         }
 
         function displaySelectedCSV() {

@@ -1,4 +1,4 @@
-competition_id,round_type_id,group_id,is_extra,scramble_num,scramble,Optimal Solution
+competition_id,round_type_id,group_id,is_extra,scramble_num,scramble,optimal_solution
 MumbaiSummerOpen2014,f,A,0,4,R' U' R U R U' R2 U2 R U' F', F R' U' R2
 LegnanoOpen2014,1,A,1,2,U2 R U' R' U' R' F R U' R' U', R U F' R
 USNationals2014,1,C,1,1,R' F R U R F' U' R' F R2 F', F' U R2 F2
