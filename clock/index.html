@@ -11,15 +11,15 @@
     <h1><a id="event-header" href="../">Clock</a></h1>
     <select id="csv-selector" onchange="updateSubOptions()">
         
-        <option value="State_Stats">State Stats</option>
+        <option value="All_<X_Movers">All &lt;X Movers</option>
         
         <option value="Best_Groups">Best Groups</option>
         
         <option value="Distributions">Distributions</option>
         
-        <option value="All_<X_Movers">All &lt;X Movers</option>
-        
         <option value="Scramble_Sequences">Scramble Sequences</option>
+        
+        <option value="State_Stats">State Stats</option>
         
     </select>
 
@@ -33,77 +33,77 @@
     <script>
         const csvFiles = {
             
+            'All_<X_Movers': ['All_<X_Movers/<11_Simul_Ticks', 'All_<X_Movers/<15_Ticks', 'All_<X_Movers/<5_Simul_Moves', 'All_<X_Movers/<7_Moves'],
+            
+            'Best_Groups': ['Best_Groups/Movecount_Ao5.csv', 'Best_Groups/Movecount_Best_Possible_Ao5.csv', 'Best_Groups/Movecount_Mo5.csv', 'Best_Groups/Simtickcount_Ao5.csv', 'Best_Groups/Simtickcount_Best_Possible_Ao5.csv', 'Best_Groups/Simtickcount_Mo5.csv', 'Best_Groups/Simulcount_Ao5.csv', 'Best_Groups/Simulcount_Best_Possible_Ao5.csv', 'Best_Groups/Simulcount_Mo5.csv', 'Best_Groups/Tickcount_Ao5.csv', 'Best_Groups/Tickcount_Best_Possible_Ao5.csv', 'Best_Groups/Tickcount_Mo5.csv'],
+            
+            'Distributions': ['Distributions/Optimal_Movecount.csv', 'Distributions/Optimal_Simtickcount.csv', 'Distributions/Optimal_Simulcount.csv', 'Distributions/Optimal_Tickcount.csv', 'Distributions/Scramble_Lengths.csv'],
+            
+            'Scramble_Sequences': ['Scramble_Sequences/Fewest_Ticks', 'Scramble_Sequences/Most_Ones', 'Scramble_Sequences/Most_Sixes', 'Scramble_Sequences/Most_Ticks', 'Scramble_Sequences/Most_Zeros'],
+            
             'State_Stats': ['State_Stats/Most_Pairs', 'State_Stats/Most_Solved_Pieces', 'State_Stats/Solved_Cross'],
-            
-            'Best_Groups': ['Best_Groups/Tickcount_Mo5.csv', 'Best_Groups/Movecount_Ao5.csv', 'Best_Groups/Movecount_Mo5.csv', 'Best_Groups/Simtickcount_Mo5.csv', 'Best_Groups/Simulcount_Best_Possible_Ao5.csv', 'Best_Groups/Simtickcount_Ao5.csv', 'Best_Groups/Simulcount_Ao5.csv', 'Best_Groups/Simtickcount_Best_Possible_Ao5.csv', 'Best_Groups/Tickcount_Ao5.csv', 'Best_Groups/Tickcount_Best_Possible_Ao5.csv', 'Best_Groups/Movecount_Best_Possible_Ao5.csv', 'Best_Groups/Simulcount_Mo5.csv'],
-            
-            'Distributions': ['Distributions/Optimal_Movecount.csv', 'Distributions/Optimal_Tickcount.csv', 'Distributions/Optimal_Simulcount.csv', 'Distributions/Optimal_Simtickcount.csv', 'Distributions/Scramble_Lengths.csv'],
-            
-            'All_<X_Movers': ['All_<X_Movers/<5_Simul_Moves', 'All_<X_Movers/<11_Simul_Ticks', 'All_<X_Movers/<15_Ticks', 'All_<X_Movers/<7_Moves'],
-            
-            'Scramble_Sequences': ['Scramble_Sequences/Most_Zeros', 'Scramble_Sequences/Most_Ticks', 'Scramble_Sequences/Most_Ones', 'Scramble_Sequences/Most_Sixes', 'Scramble_Sequences/Fewest_Ticks'],
             
         };
 
         const subCategoryNames = {
+            
+            'All_<X_Movers/<11_Simul_Ticks': '<11 Simul Ticks',
+            
+            'All_<X_Movers/<15_Ticks': '<15 Ticks',
+            
+            'All_<X_Movers/<5_Simul_Moves': '<5 Simul Moves',
+            
+            'All_<X_Movers/<7_Moves': '<7 Moves',
+            
+            'Best_Groups/Movecount_Ao5.csv': 'Movecount Ao5',
+            
+            'Best_Groups/Movecount_Best_Possible_Ao5.csv': 'Movecount Best Possible Ao5',
+            
+            'Best_Groups/Movecount_Mo5.csv': 'Movecount Mo5',
+            
+            'Best_Groups/Simtickcount_Ao5.csv': 'Simtickcount Ao5',
+            
+            'Best_Groups/Simtickcount_Best_Possible_Ao5.csv': 'Simtickcount Best Possible Ao5',
+            
+            'Best_Groups/Simtickcount_Mo5.csv': 'Simtickcount Mo5',
+            
+            'Best_Groups/Simulcount_Ao5.csv': 'Simulcount Ao5',
+            
+            'Best_Groups/Simulcount_Best_Possible_Ao5.csv': 'Simulcount Best Possible Ao5',
+            
+            'Best_Groups/Simulcount_Mo5.csv': 'Simulcount Mo5',
+            
+            'Best_Groups/Tickcount_Ao5.csv': 'Tickcount Ao5',
+            
+            'Best_Groups/Tickcount_Best_Possible_Ao5.csv': 'Tickcount Best Possible Ao5',
+            
+            'Best_Groups/Tickcount_Mo5.csv': 'Tickcount Mo5',
+            
+            'Distributions/Optimal_Movecount.csv': 'Optimal Movecount',
+            
+            'Distributions/Optimal_Simtickcount.csv': 'Optimal Simtickcount',
+            
+            'Distributions/Optimal_Simulcount.csv': 'Optimal Simulcount',
+            
+            'Distributions/Optimal_Tickcount.csv': 'Optimal Tickcount',
+            
+            'Distributions/Scramble_Lengths.csv': 'Scramble Lengths',
+            
+            'Scramble_Sequences/Fewest_Ticks': 'Fewest Ticks',
+            
+            'Scramble_Sequences/Most_Ones': 'Most Ones',
+            
+            'Scramble_Sequences/Most_Sixes': 'Most Sixes',
+            
+            'Scramble_Sequences/Most_Ticks': 'Most Ticks',
+            
+            'Scramble_Sequences/Most_Zeros': 'Most Zeros',
             
             'State_Stats/Most_Pairs': 'Most Pairs',
             
             'State_Stats/Most_Solved_Pieces': 'Most Solved Pieces',
             
             'State_Stats/Solved_Cross': 'Solved Cross',
-            
-            'Best_Groups/Tickcount_Mo5.csv': 'Tickcount Mo5',
-            
-            'Best_Groups/Movecount_Ao5.csv': 'Movecount Ao5',
-            
-            'Best_Groups/Movecount_Mo5.csv': 'Movecount Mo5',
-            
-            'Best_Groups/Simtickcount_Mo5.csv': 'Simtickcount Mo5',
-            
-            'Best_Groups/Simulcount_Best_Possible_Ao5.csv': 'Simulcount Best Possible Ao5',
-            
-            'Best_Groups/Simtickcount_Ao5.csv': 'Simtickcount Ao5',
-            
-            'Best_Groups/Simulcount_Ao5.csv': 'Simulcount Ao5',
-            
-            'Best_Groups/Simtickcount_Best_Possible_Ao5.csv': 'Simtickcount Best Possible Ao5',
-            
-            'Best_Groups/Tickcount_Ao5.csv': 'Tickcount Ao5',
-            
-            'Best_Groups/Tickcount_Best_Possible_Ao5.csv': 'Tickcount Best Possible Ao5',
-            
-            'Best_Groups/Movecount_Best_Possible_Ao5.csv': 'Movecount Best Possible Ao5',
-            
-            'Best_Groups/Simulcount_Mo5.csv': 'Simulcount Mo5',
-            
-            'Distributions/Optimal_Movecount.csv': 'Optimal Movecount',
-            
-            'Distributions/Optimal_Tickcount.csv': 'Optimal Tickcount',
-            
-            'Distributions/Optimal_Simulcount.csv': 'Optimal Simulcount',
-            
-            'Distributions/Optimal_Simtickcount.csv': 'Optimal Simtickcount',
-            
-            'Distributions/Scramble_Lengths.csv': 'Scramble Lengths',
-            
-            'All_<X_Movers/<5_Simul_Moves': '<5 Simul Moves',
-            
-            'All_<X_Movers/<11_Simul_Ticks': '<11 Simul Ticks',
-            
-            'All_<X_Movers/<15_Ticks': '<15 Ticks',
-            
-            'All_<X_Movers/<7_Moves': '<7 Moves',
-            
-            'Scramble_Sequences/Most_Zeros': 'Most Zeros',
-            
-            'Scramble_Sequences/Most_Ticks': 'Most Ticks',
-            
-            'Scramble_Sequences/Most_Ones': 'Most Ones',
-            
-            'Scramble_Sequences/Most_Sixes': 'Most Sixes',
-            
-            'Scramble_Sequences/Fewest_Ticks': 'Fewest Ticks',
             
         };
 

@@ -11,9 +11,9 @@
     <h1><a id="event-header" href="../">2x2</a></h1>
     <select id="csv-selector" onchange="updateSubOptions()">
         
-        <option value="Best_Groups">Best Groups</option>
-        
         <option value="All_X_Movers">All X Movers</option>
+        
+        <option value="Best_Groups">Best Groups</option>
         
         <option value="Distributions">Distributions</option>
         
@@ -31,55 +31,55 @@
     <script>
         const csvFiles = {
             
-            'Best_Groups': ['Best_Groups/Optimal_Ao5.csv', 'Best_Groups/Optimal_Layer_Ao5.csv', 'Best_Groups/Best_Possible_Optimal_Ao5.csv', 'Best_Groups/Optimal_Mo5.csv', 'Best_Groups/Optimal_Face_Ao5.csv', 'Best_Groups/Optimal_Layer_Mo5.csv', 'Best_Groups/Optimal_Face_Mo5.csv'],
+            'All_X_Movers': ['All_X_Movers/All_11_Movers.csv', 'All_X_Movers/All_4_Movers.csv', 'All_X_Movers/All_5_Movers.csv'],
             
-            'All_X_Movers': ['All_X_Movers/All_4_Movers.csv', 'All_X_Movers/All_11_Movers.csv', 'All_X_Movers/All_5_Movers.csv'],
+            'Best_Groups': ['Best_Groups/Best_Possible_Optimal_Ao5.csv', 'Best_Groups/Optimal_Ao5.csv', 'Best_Groups/Optimal_Face_Ao5.csv', 'Best_Groups/Optimal_Face_Mo5.csv', 'Best_Groups/Optimal_Layer_Ao5.csv', 'Best_Groups/Optimal_Layer_Mo5.csv', 'Best_Groups/Optimal_Mo5.csv'],
             
-            'Distributions': ['Distributions/Optimal_QTM_Distribution.csv', 'Distributions/Number_of_Repeated_Scrambles_Distribution.csv', 'Distributions/Optimal_HTM_Distribution.csv', 'Distributions/Number_of_Repeated_States_(with_symmetries)_Distribution.csv'],
+            'Distributions': ['Distributions/Number_of_Repeated_Scrambles_Distribution.csv', 'Distributions/Number_of_Repeated_States_(with_symmetries)_Distribution.csv', 'Distributions/Optimal_HTM_Distribution.csv', 'Distributions/Optimal_QTM_Distribution.csv'],
             
-            'Scramble_Sequences': ['Scramble_Sequences/Most_Half_Turns_in_a_Scramble.csv', 'Scramble_Sequences/Most_Clockwise_Turns_in_a_Scramble.csv', 'Scramble_Sequences/All_States_Repeated_10+_Times.csv', 'Scramble_Sequences/All_Scrambles_Repeated_4+_Times.csv', 'Scramble_Sequences/Most_Counter_Clockwise_Turns_in_a_Scramble.csv'],
+            'Scramble_Sequences': ['Scramble_Sequences/All_Scrambles_Repeated_4+_Times.csv', 'Scramble_Sequences/All_States_Repeated_10+_Times.csv', 'Scramble_Sequences/Most_Clockwise_Turns_in_a_Scramble.csv', 'Scramble_Sequences/Most_Counter_Clockwise_Turns_in_a_Scramble.csv', 'Scramble_Sequences/Most_Half_Turns_in_a_Scramble.csv'],
             
         };
 
         const subCategoryNames = {
             
-            'Best_Groups/Optimal_Ao5.csv': 'Optimal Ao5',
-            
-            'Best_Groups/Optimal_Layer_Ao5.csv': 'Optimal Layer Ao5',
-            
-            'Best_Groups/Best_Possible_Optimal_Ao5.csv': 'Best Possible Optimal Ao5',
-            
-            'Best_Groups/Optimal_Mo5.csv': 'Optimal Mo5',
-            
-            'Best_Groups/Optimal_Face_Ao5.csv': 'Optimal Face Ao5',
-            
-            'Best_Groups/Optimal_Layer_Mo5.csv': 'Optimal Layer Mo5',
-            
-            'Best_Groups/Optimal_Face_Mo5.csv': 'Optimal Face Mo5',
+            'All_X_Movers/All_11_Movers.csv': 'All 11 Movers',
             
             'All_X_Movers/All_4_Movers.csv': 'All 4 Movers',
             
-            'All_X_Movers/All_11_Movers.csv': 'All 11 Movers',
-            
             'All_X_Movers/All_5_Movers.csv': 'All 5 Movers',
             
-            'Distributions/Optimal_QTM_Distribution.csv': 'Optimal QTM Distribution',
+            'Best_Groups/Best_Possible_Optimal_Ao5.csv': 'Best Possible Optimal Ao5',
+            
+            'Best_Groups/Optimal_Ao5.csv': 'Optimal Ao5',
+            
+            'Best_Groups/Optimal_Face_Ao5.csv': 'Optimal Face Ao5',
+            
+            'Best_Groups/Optimal_Face_Mo5.csv': 'Optimal Face Mo5',
+            
+            'Best_Groups/Optimal_Layer_Ao5.csv': 'Optimal Layer Ao5',
+            
+            'Best_Groups/Optimal_Layer_Mo5.csv': 'Optimal Layer Mo5',
+            
+            'Best_Groups/Optimal_Mo5.csv': 'Optimal Mo5',
             
             'Distributions/Number_of_Repeated_Scrambles_Distribution.csv': 'Number of Repeated Scrambles Distribution',
             
-            'Distributions/Optimal_HTM_Distribution.csv': 'Optimal HTM Distribution',
-            
             'Distributions/Number_of_Repeated_States_(with_symmetries)_Distribution.csv': 'Number of Repeated States (with symmetries) Distribution',
             
-            'Scramble_Sequences/Most_Half_Turns_in_a_Scramble.csv': 'Most Half Turns in a Scramble',
+            'Distributions/Optimal_HTM_Distribution.csv': 'Optimal HTM Distribution',
             
-            'Scramble_Sequences/Most_Clockwise_Turns_in_a_Scramble.csv': 'Most Clockwise Turns in a Scramble',
-            
-            'Scramble_Sequences/All_States_Repeated_10+_Times.csv': 'All States Repeated 10+ Times',
+            'Distributions/Optimal_QTM_Distribution.csv': 'Optimal QTM Distribution',
             
             'Scramble_Sequences/All_Scrambles_Repeated_4+_Times.csv': 'All Scrambles Repeated 4+ Times',
             
+            'Scramble_Sequences/All_States_Repeated_10+_Times.csv': 'All States Repeated 10+ Times',
+            
+            'Scramble_Sequences/Most_Clockwise_Turns_in_a_Scramble.csv': 'Most Clockwise Turns in a Scramble',
+            
             'Scramble_Sequences/Most_Counter_Clockwise_Turns_in_a_Scramble.csv': 'Most Counter Clockwise Turns in a Scramble',
+            
+            'Scramble_Sequences/Most_Half_Turns_in_a_Scramble.csv': 'Most Half Turns in a Scramble',
             
         };
 
